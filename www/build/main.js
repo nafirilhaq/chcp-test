@@ -26,15 +26,15 @@ var map = {
 		48
 	],
 	"../pages/animation/animation.module": [
-		698,
+		697,
 		47
 	],
 	"../pages/apply-cashline-finish-bundle/apply-cashline-finish-bundle.module": [
-		697,
+		696,
 		46
 	],
 	"../pages/apply-cashline-finish/apply-cashline-finish.module": [
-		696,
+		698,
 		45
 	],
 	"../pages/apply-cashline-mob/apply-cashline-mob.module": [
@@ -50,11 +50,11 @@ var map = {
 		43
 	],
 	"../pages/cashline-history/cashline-history.module": [
-		702,
+		703,
 		42
 	],
 	"../pages/cashline-inquiry/cashline-inquiry.module": [
-		703,
+		702,
 		41
 	],
 	"../pages/cashline-snk/cashline-snk.module": [
@@ -62,15 +62,15 @@ var map = {
 		40
 	],
 	"../pages/change-sof-detail/change-sof-detail.module": [
-		706,
+		705,
 		39
 	],
 	"../pages/credit-shield-apply/credit-shield-apply.module": [
-		705,
+		706,
 		38
 	],
 	"../pages/credit-shield-bottom-modal/credit-shield-bottom-modal.module": [
-		709,
+		708,
 		37
 	],
 	"../pages/credit-shield-failed/credit-shield-failed.module": [
@@ -78,19 +78,19 @@ var map = {
 		36
 	],
 	"../pages/credit-shield-guide/credit-shield-guide.module": [
-		710,
+		709,
 		35
 	],
 	"../pages/credit-shield-snk/credit-shield-snk.module": [
-		708,
+		710,
 		34
 	],
 	"../pages/credit-shield/credit-shield.module": [
-		712,
+		711,
 		33
 	],
 	"../pages/custom-bottom-modal/custom-bottom-modal.module": [
-		711,
+		712,
 		32
 	],
 	"../pages/cvv/cvv.module": [
@@ -126,7 +126,7 @@ var map = {
 		26
 	],
 	"../pages/live-validation/live-validation.module": [
-		722,
+		723,
 		2
 	],
 	"../pages/modal-bottom/modal-bottom.module": [
@@ -134,7 +134,7 @@ var map = {
 		25
 	],
 	"../pages/mstore-snk/mstore-snk.module": [
-		723,
+		722,
 		24
 	],
 	"../pages/new-taptopay/new-taptopay.module": [
@@ -150,15 +150,15 @@ var map = {
 		21
 	],
 	"../pages/page3/page3.module": [
-		728,
+		727,
 		20
 	],
 	"../pages/page4/page4.module": [
-		727,
+		728,
 		19
 	],
 	"../pages/page5/page5.module": [
-		730,
+		731,
 		18
 	],
 	"../pages/pdf-viewer/pdf-viewer.module": [
@@ -166,7 +166,7 @@ var map = {
 		1
 	],
 	"../pages/remittance/remittance.module": [
-		731,
+		730,
 		17
 	],
 	"../pages/sample-lottie/sample-lottie.module": [
@@ -178,39 +178,39 @@ var map = {
 		15
 	],
 	"../pages/sof/sof.module": [
-		735,
+		734,
 		14
 	],
 	"../pages/supplement-reg/supplement-reg.module": [
-		734,
+		735,
 		13
 	],
 	"../pages/taptopay-activate/taptopay-activate.module": [
-		736,
+		737,
 		12
 	],
 	"../pages/taptopay-check/taptopay-check.module": [
-		737,
+		736,
 		11
 	],
 	"../pages/taptopay/taptopay.module": [
-		739,
+		738,
 		10
 	],
 	"../pages/toast-modal/toast-modal.module": [
-		738,
+		739,
 		9
 	],
 	"../pages/ttp-finish/ttp-finish.module": [
-		742,
+		740,
 		8
 	],
 	"../pages/ttp-tutorial/ttp-tutorial.module": [
-		740,
+		741,
 		7
 	],
 	"../pages/valas/valas.module": [
-		741,
+		742,
 		6
 	],
 	"../pages/zoom/zoom.module": [
@@ -565,7 +565,7 @@ var HomePage = /** @class */ (function () {
     ], HomePage.prototype, "btn", void 0);
     HomePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'page-home',template:/*ion-inline-start:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n\n\nJENUDDD\n  <p>\n    If you get lost, the <a href="http://ionicframework.com/docs/v3">docs</a> will be your guide.\n  </p>\n\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n\n  <button full ion-button (click)="toCvv()">CVV</button>\n  <button full ion-button (click)="toSlide()">Slide</button>\n  <button full ion-button (click)="toSof()">Sof</button>\n  <button full ion-button (click)="openNfc()">Open NFC Setting</button>\n  <button full ion-button (click)="ttpFinish()">TTP Finish</button>\n  <button id="visa" full ion-button (click)="visaBranding()">Visa Branding</button>\n  <button full ion-button (click)="date()">Date Picker</button>\n  <button full ion-button (click)="cashlineTenor()">Cashline Tenor</button>\n  <button full ion-button (click)="cashlineMob()">Cashline MOB</button>\n  <button full ion-button (click)="cashlineFinish()">Cashline Finish</button>\n  <button full ion-button (click)="cashlineWaiting()">Cashline Waiting</button>\n  <button full ion-button (click)="supplementReg()">Supplement Reg</button>\n  <button full ion-button (click)="lottie()">Lottie</button>\n\n  <button full ion-button (click)="zoomArea()">Zoom Area</button>\n  <button full ion-button (click)="creditShield()">Credit Shield</button>\n  <button full ion-button (click)="cashline()">Cashline</button>\n  <button full ion-button (click)="cashlineSnk()">Cashline SNK</button>\n  <button full ion-button (click)="creditShieldFailed()">Credit Shield Failed</button>\n  <button full ion-button (click)="infiniteScroll()">Infinite Scroll</button>\n  <button full ion-button (click)="toValas()">Valas</button>\n  <button full ion-button (click)="inqCekStatus()">Inq Cek Status</button>\n  <button full ion-button (click)="akunSaya()">Akun Saya</button>\n  <button full ion-button (click)="detailAkun()">Detail Akun</button>\n\n  <ion-item id="nominal" no-padding class="floating" style="margin-top: 16px; padding: 4px 16px 4px 16px;" [ngStyle]="{\'background-color\': cardNumberDisable ? \'#F1F3F9\' : \'#fff\'}">\n    <ion-label floating no-margin class="title-label">Nominal</ion-label>\n    <!-- <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n    <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19" (tap)="showKeyboard(\'visa\')"></ion-input>\n    <!-- <ion-input type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n  </ion-item>\n  <button full ion-button (click)="modalBottom()">Modal Bottom</button>\n  <button full ion-button (click)="showToast()">Toast</button>\n  <button full ion-button (click)="scrollTo(\'visa\')">Nav Ctrl</button>\n  <button full ion-button (click)="toNavCtrl()">Nav Ctrl</button>\n  <button full ion-button (click)="debounceSearch()">Debounce Search</button>\n  <button full ion-button (click)="remittance()">Remittance</button>\n  <button full ion-button (click)="homeNew()">Home New</button>\n\n  <button full ion-button (click)="firebasex()">Check Notif</button>\n  <button full ion-button (click)="toPdf()">PDF</button>\n  <button full ion-button (click)="toAnimation()">Animation</button>\n  <button full ion-button (click)="toTtp()">Taptopay</button>\n  <button full ion-button (click)="toEmoji()">Emoji</button>\n  <button full ion-button (click)="toTtpNew()">Taptopay New</button>\n  <button full ion-button (click)="toMstore()">MStore</button>\n  <button full ion-button (click)="toMstoreInquiry()">MStore Inquiry</button>\n  <button full ion-button (click)="toTtpActivate()">Taptopay Activate</button>\n  <button full ion-button (click)="toFormVal()">Live Form Validation</button>\n  <button full ion-button (click)="loading()">Loading</button>\n  <button #btn full ion-button (click)="ripple()">Ripple</button>\n  <!-- <button full ion-button style="margin-top: 50vh;" (click)="scrollTo(\'visa\')">Scroll</button> -->\n\n  <div [ngStyle]="{\'margin-bottom\': showCustKeyboard ? \'100vh\' : \'0\'}"></div>\n  <div>\n    <div id="visa-sensory-branding"></div>\n  </div>\n\n\n</ion-content>\n\n<ion-footer *ngIf="showCustKeyboard">\n  <div class="custKeyboard">\n    <div class="backdrop"></div>\n    <div class="number-container">\n      <div class="number-box" (click)="input(\'1\')">1</div>\n      <div class="number-box" (click)="input(\'2\')">2</div>\n      <div class="number-box" (click)="input(\'3\')">3</div>\n      <div class="number-box" (click)="input(\'4\')">4</div>\n      <div class="number-box" (click)="input(\'5\')">5</div>\n      <div class="number-box" (click)="input(\'6\')">6</div>\n      <div class="number-box" (click)="input(\'7\')">7</div>\n      <div class="number-box" (click)="input(\'8\')">8</div>\n      <div class="number-box" (click)="input(\'9\')">9</div>\n      <div class="number-box" (click)="input(\'0\')">0</div>\n      <div class="number-box" (click)="input(\'000\')">000</div>\n      <div class="number-box" (click)="del()">Del</div>\n      <button full ion-button style="margin-top: 18px;" (click)="hideKeyboard()">OK</button>\n    </div>\n  </div>\n</ion-footer>\n\n<div id="backdrop-modal" *ngIf="showModal">\n  <div class="foreground-modal">      \n      <ion-card class="card-modal">\n          <ion-card-header text-center>              \n              <img *ngIf="!ionIcon" class="icon" [src]="icon">\n              <h2 *ngIf="title"><b>{{ title }}</b></h2>\n            </ion-card-header>\n            \n            <ion-card-content text-center>\n            <button ion-button class="btn-lanjut-only" margin-top (click)="modalHandler()">OK</button> \n          \n          <ng-content></ng-content>   \n          \n          </ion-card-content>          \n      </ion-card>\n  </div>\n</div>\n\n\n'/*ion-inline-end:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n\n\nJENUDDD LOPELPOEPEPPE\n  <p>\n    If you get lost, the <a href="http://ionicframework.com/docs/v3">docs</a> will be your guide.\n  </p>\n\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n\n  <button full ion-button (click)="toCvv()">CVV</button>\n  <button full ion-button (click)="toSlide()">Slide</button>\n  <button full ion-button (click)="toSof()">Sof</button>\n  <button full ion-button (click)="openNfc()">Open NFC Setting</button>\n  <button full ion-button (click)="ttpFinish()">TTP Finish</button>\n  <button id="visa" full ion-button (click)="visaBranding()">Visa Branding</button>\n  <button full ion-button (click)="date()">Date Picker</button>\n  <button full ion-button (click)="cashlineTenor()">Cashline Tenor</button>\n  <button full ion-button (click)="cashlineMob()">Cashline MOB</button>\n  <button full ion-button (click)="cashlineFinish()">Cashline Finish</button>\n  <button full ion-button (click)="cashlineWaiting()">Cashline Waiting</button>\n  <button full ion-button (click)="supplementReg()">Supplement Reg</button>\n  <button full ion-button (click)="lottie()">Lottie</button>\n\n  <button full ion-button (click)="zoomArea()">Zoom Area</button>\n  <button full ion-button (click)="creditShield()">Credit Shield</button>\n  <button full ion-button (click)="cashline()">Cashline</button>\n  <button full ion-button (click)="cashlineSnk()">Cashline SNK</button>\n  <button full ion-button (click)="creditShieldFailed()">Credit Shield Failed</button>\n  <button full ion-button (click)="infiniteScroll()">Infinite Scroll</button>\n  <button full ion-button (click)="toValas()">Valas</button>\n  <button full ion-button (click)="inqCekStatus()">Inq Cek Status</button>\n  <button full ion-button (click)="akunSaya()">Akun Saya</button>\n  <button full ion-button (click)="detailAkun()">Detail Akun</button>\n\n  <ion-item id="nominal" no-padding class="floating" style="margin-top: 16px; padding: 4px 16px 4px 16px;" [ngStyle]="{\'background-color\': cardNumberDisable ? \'#F1F3F9\' : \'#fff\'}">\n    <ion-label floating no-margin class="title-label">Nominal</ion-label>\n    <!-- <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n    <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19" (tap)="showKeyboard(\'visa\')"></ion-input>\n    <!-- <ion-input type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n  </ion-item>\n  <button full ion-button (click)="modalBottom()">Modal Bottom</button>\n  <button full ion-button (click)="showToast()">Toast</button>\n  <button full ion-button (click)="scrollTo(\'visa\')">Nav Ctrl</button>\n  <button full ion-button (click)="toNavCtrl()">Nav Ctrl</button>\n  <button full ion-button (click)="debounceSearch()">Debounce Search</button>\n  <button full ion-button (click)="remittance()">Remittance</button>\n  <button full ion-button (click)="homeNew()">Home New</button>\n\n  <button full ion-button (click)="firebasex()">Check Notif</button>\n  <button full ion-button (click)="toPdf()">PDF</button>\n  <button full ion-button (click)="toAnimation()">Animation</button>\n  <button full ion-button (click)="toTtp()">Taptopay</button>\n  <button full ion-button (click)="toEmoji()">Emoji</button>\n  <button full ion-button (click)="toTtpNew()">Taptopay New</button>\n  <button full ion-button (click)="toMstore()">MStore</button>\n  <button full ion-button (click)="toMstoreInquiry()">MStore Inquiry</button>\n  <button full ion-button (click)="toTtpActivate()">Taptopay Activate</button>\n  <button full ion-button (click)="toFormVal()">Live Form Validation</button>\n  <button full ion-button (click)="loading()">Loading</button>\n  <button #btn full ion-button (click)="ripple()">Ripple</button>\n  <!-- <button full ion-button style="margin-top: 50vh;" (click)="scrollTo(\'visa\')">Scroll</button> -->\n\n  <div [ngStyle]="{\'margin-bottom\': showCustKeyboard ? \'100vh\' : \'0\'}"></div>\n  <div>\n    <div id="visa-sensory-branding"></div>\n  </div>\n\n\n</ion-content>\n\n<ion-footer *ngIf="showCustKeyboard">\n  <div class="custKeyboard">\n    <div class="backdrop"></div>\n    <div class="number-container">\n      <div class="number-box" (click)="input(\'1\')">1</div>\n      <div class="number-box" (click)="input(\'2\')">2</div>\n      <div class="number-box" (click)="input(\'3\')">3</div>\n      <div class="number-box" (click)="input(\'4\')">4</div>\n      <div class="number-box" (click)="input(\'5\')">5</div>\n      <div class="number-box" (click)="input(\'6\')">6</div>\n      <div class="number-box" (click)="input(\'7\')">7</div>\n      <div class="number-box" (click)="input(\'8\')">8</div>\n      <div class="number-box" (click)="input(\'9\')">9</div>\n      <div class="number-box" (click)="input(\'0\')">0</div>\n      <div class="number-box" (click)="input(\'000\')">000</div>\n      <div class="number-box" (click)="del()">Del</div>\n      <button full ion-button style="margin-top: 18px;" (click)="hideKeyboard()">OK</button>\n    </div>\n  </div>\n</ion-footer>\n\n<div id="backdrop-modal" *ngIf="showModal">\n  <div class="foreground-modal">      \n      <ion-card class="card-modal">\n          <ion-card-header text-center>              \n              <img *ngIf="!ionIcon" class="icon" [src]="icon">\n              <h2 *ngIf="title"><b>{{ title }}</b></h2>\n            </ion-card-header>\n            \n            <ion-card-content text-center>\n            <button ion-button class="btn-lanjut-only" margin-top (click)="modalHandler()">OK</button> \n          \n          <ng-content></ng-content>   \n          \n          </ion-card-content>          \n      </ion-card>\n  </div>\n</div>\n\n\n'/*ion-inline-end:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavParams */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["Renderer2"], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* NavController */], __WEBPACK_IMPORTED_MODULE_4__ionic_native_local_notifications__["a" /* LocalNotifications */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* ModalController */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_nfc__["a" /* NFC */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* ModalController */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_date_picker__["a" /* DatePicker */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* LoadingController */]])
     ], HomePage);
@@ -745,23 +745,23 @@ var AppModule = /** @class */ (function () {
                 __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["g" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_5__app_component__["a" /* MyApp */], {}, {
                     links: [
                         { loadChildren: '../pages/akun-saya/akun-saya.module#AkunSayaPageModule', name: 'AkunSayaPage', segment: 'akun-saya', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/apply-cashline-finish/apply-cashline-finish.module#ApplyCashlineFinishPageModule', name: 'ApplyCashlineFinishPage', segment: 'apply-cashline-finish', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-finish-bundle/apply-cashline-finish-bundle.module#ApplyCashlineFinishBundlePageModule', name: 'ApplyCashlineFinishBundlePage', segment: 'apply-cashline-finish-bundle', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/animation/animation.module#AnimationPageModule', name: 'AnimationPage', segment: 'animation', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/apply-cashline-finish/apply-cashline-finish.module#ApplyCashlineFinishPageModule', name: 'ApplyCashlineFinishPage', segment: 'apply-cashline-finish', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-mob/apply-cashline-mob.module#ApplyCashlineMobPageModule', name: 'ApplyCashlineMobPage', segment: 'apply-cashline-mob', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-tenor/apply-cashline-tenor.module#ApplyCashlineTenorPageModule', name: 'ApplyCashlineTenorPage', segment: 'apply-cashline-tenor', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-waiting/apply-cashline-waiting.module#ApplyCashlineWaitingPageModule', name: 'ApplyCashlineWaitingPage', segment: 'apply-cashline-waiting', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/cashline-history/cashline-history.module#CashlineHistoryPageModule', name: 'CashlineHistoryPage', segment: 'cashline-history', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/cashline-inquiry/cashline-inquiry.module#CashlineInquiryPageModule', name: 'CashlineInquiryPage', segment: 'cashline-inquiry', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/cashline-history/cashline-history.module#CashlineHistoryPageModule', name: 'CashlineHistoryPage', segment: 'cashline-history', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/cashline-snk/cashline-snk.module#CashlineSnkPageModule', name: 'CashlineSnkPage', segment: 'cashline-snk', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/credit-shield-apply/credit-shield-apply.module#CreditShieldApplyPageModule', name: 'CreditShieldApplyPage', segment: 'credit-shield-apply', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/change-sof-detail/change-sof-detail.module#ChangeSofDetailPageModule', name: 'ChangeSofDetailPage', segment: 'change-sof-detail', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/credit-shield-apply/credit-shield-apply.module#CreditShieldApplyPageModule', name: 'CreditShieldApplyPage', segment: 'credit-shield-apply', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/credit-shield-failed/credit-shield-failed.module#CreditShieldFailedPageModule', name: 'CreditShieldFailedPage', segment: 'credit-shield-failed', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/credit-shield-snk/credit-shield-snk.module#CreditShieldSnkPageModule', name: 'CreditShieldSnkPage', segment: 'credit-shield-snk', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/credit-shield-bottom-modal/credit-shield-bottom-modal.module#CreditShieldBottomModalPageModule', name: 'CreditShieldBottomModalPage', segment: 'credit-shield-bottom-modal', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/credit-shield-guide/credit-shield-guide.module#CreditShieldGuidePageModule', name: 'CreditShieldGuidePage', segment: 'credit-shield-guide', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/custom-bottom-modal/custom-bottom-modal.module#CustomBottomModalPageModule', name: 'CustomBottomModalPage', segment: 'custom-bottom-modal', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/credit-shield-snk/credit-shield-snk.module#CreditShieldSnkPageModule', name: 'CreditShieldSnkPage', segment: 'credit-shield-snk', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/credit-shield/credit-shield.module#CreditShieldPageModule', name: 'CreditShieldPage', segment: 'credit-shield', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/custom-bottom-modal/custom-bottom-modal.module#CustomBottomModalPageModule', name: 'CustomBottomModalPage', segment: 'custom-bottom-modal', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/cvv/cvv.module#CvvPageModule', name: 'CvvPage', segment: 'cvv', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/debounce-search/debounce-search.module#DebounceSearchPageModule', name: 'DebounceSearchPage', segment: 'debounce-search', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/emoji/emoji.module#EmojiPageModule', name: 'EmojiPage', segment: 'emoji', priority: 'low', defaultHistory: [] },
@@ -771,27 +771,27 @@ var AppModule = /** @class */ (function () {
                         { loadChildren: '../pages/lifestyle-check/lifestyle-check.module#LifestyleCheckPageModule', name: 'LifestyleCheckPage', segment: 'lifestyle-check', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/lifestyle-inquiry/lifestyle-inquiry.module#LifestyleInquiryPageModule', name: 'LifestyleInquiryPage', segment: 'lifestyle-inquiry', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/modal-bottom/modal-bottom.module#ModalBottomPageModule', name: 'ModalBottomPage', segment: 'modal-bottom', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/live-validation/live-validation.module#LiveValidationPageModule', name: 'LiveValidationPage', segment: 'live-validation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/mstore-snk/mstore-snk.module#MstoreSnkPageModule', name: 'MstoreSnkPage', segment: 'mstore-snk', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/live-validation/live-validation.module#LiveValidationPageModule', name: 'LiveValidationPage', segment: 'live-validation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/new-taptopay/new-taptopay.module#NewTaptopayPageModule', name: 'NewTaptopayPage', segment: 'new-taptopay', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/page1/page1.module#Page1PageModule', name: 'Page1Page', segment: 'page1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/page2/page2.module#Page2PageModule', name: 'Page2Page', segment: 'page2', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/page4/page4.module#Page4PageModule', name: 'Page4Page', segment: 'page4', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/page3/page3.module#Page3PageModule', name: 'Page3Page', segment: 'page3', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/page4/page4.module#Page4PageModule', name: 'Page4Page', segment: 'page4', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/pdf-viewer/pdf-viewer.module#PdfViewerPageModule', name: 'PdfViewerPage', segment: 'pdf-viewer', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/page5/page5.module#Page5PageModule', name: 'Page5Page', segment: 'page5', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/remittance/remittance.module#RemittancePageModule', name: 'RemittancePage', segment: 'remittance', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/page5/page5.module#Page5PageModule', name: 'Page5Page', segment: 'page5', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide.module#SlidePageModule', name: 'SlidePage', segment: 'slide', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/sample-lottie/sample-lottie.module#SampleLottiePageModule', name: 'SampleLottiePage', segment: 'sample-lottie', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/supplement-reg/supplement-reg.module#SupplementRegPageModule', name: 'SupplementRegPage', segment: 'supplement-reg', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/sof/sof.module#SofPageModule', name: 'SofPage', segment: 'sof', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/taptopay-activate/taptopay-activate.module#TaptopayActivatePageModule', name: 'TaptopayActivatePage', segment: 'taptopay-activate', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/supplement-reg/supplement-reg.module#SupplementRegPageModule', name: 'SupplementRegPage', segment: 'supplement-reg', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/taptopay-check/taptopay-check.module#TaptopayCheckPageModule', name: 'TaptopayCheckPage', segment: 'taptopay-check', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/toast-modal/toast-modal.module#ToastModalPageModule', name: 'ToastModalPage', segment: 'toast-modal', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/taptopay-activate/taptopay-activate.module#TaptopayActivatePageModule', name: 'TaptopayActivatePage', segment: 'taptopay-activate', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/taptopay/taptopay.module#TaptopayPageModule', name: 'TaptopayPage', segment: 'taptopay', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/toast-modal/toast-modal.module#ToastModalPageModule', name: 'ToastModalPage', segment: 'toast-modal', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/ttp-finish/ttp-finish.module#TtpFinishPageModule', name: 'TtpFinishPage', segment: 'ttp-finish', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/ttp-tutorial/ttp-tutorial.module#TtpTutorialPageModule', name: 'TtpTutorialPage', segment: 'ttp-tutorial', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/valas/valas.module#ValasPageModule', name: 'ValasPage', segment: 'valas', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/ttp-finish/ttp-finish.module#TtpFinishPageModule', name: 'TtpFinishPage', segment: 'ttp-finish', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/zoom/zoom.module#ZoomPageModule', name: 'ZoomPage', segment: 'zoom', priority: 'low', defaultHistory: [] }
                     ]
                 }),
@@ -862,41 +862,60 @@ var MyApp = /** @class */ (function () {
         });
     }
     MyApp.prototype.checkAndInstallUpdate = function () {
+        var _this = this;
         // pastikan chcp sudah tersedia (plugin sudah ready)
-        if (!window['chcp']) {
-            console.warn('CHCP plugin not available');
+        if (!window["chcp"]) {
+            console.warn("CHCP plugin not available");
             return;
         }
-        window['chcp'].getVersionInfo(callback);
-        function callback(err, data) {
-            console.log('Current web version: ' + data.currentWebVersion);
-            console.log('Previous web version: ' + data.previousWebVersion);
-            console.log('Loaded and ready for installation web version: ' + data.readyToInstallWebVersion);
-            console.log('Application version name: ' + data.appVersion);
-            console.log('Application build version: ' + data.buildVersion);
-        }
-        window['chcp'].isUpdateAvailableForInstallation(function (error, data) {
+        window["chcp"].getVersionInfo(function (error, data) {
             if (error) {
-                console.log('No update ready to install, fetching update...');
-                window['chcp'].fetchUpdate(function (fetchError, fetchData) {
-                    if (fetchError) {
-                        console.error('Failed to fetch update', fetchError);
+                console.log("❌ getVersionInfo error:", error);
+            }
+            else {
+                console.log("Current web version: " + data.currentWebVersion);
+                console.log("Previous web version: " + data.previousWebVersion);
+                console.log("Loaded and ready for installation web version: " +
+                    data.readyToInstallWebVersion);
+                console.log("Application version name: " + data.appVersion);
+                console.log("Application build version: " + data.buildVersion);
+            }
+        });
+        // window["chcp"].getConfiguration((error, config) => {
+        //   if (error) {
+        //     console.log("❌ getConfiguration error:", error);
+        //   } else {
+        //     console.log("✅ Configuration:", config);
+        //     console.log("Config URL:", config.configFileURL);
+        //   }
+        // });
+        window["chcp"].isUpdateAvailableForInstallation(function (error, data) {
+            if (error) {
+                console.log("No update ready to install, fetching update...");
+                window["chcp"].fetchUpdate(function (error, data) {
+                    if (error) {
+                        console.log("❌ fetchUpdate error:", error);
+                        console.log("Error code:", error.code);
+                        console.log("Error description:", error.description);
+                        // Tampilkan error codes
+                        _this.explainErrorCode(error.code);
                     }
                     else {
-                        console.log('Update fetched and loaded');
-                        // Bisa notify user update sudah siap diinstal
+                        console.log("✅ Update available:", data);
+                        console.log("New version:", data.currentWebVersion);
+                        console.log("Ready to install");
                     }
                 });
             }
             else {
-                console.log('Current version:', data.currentVersion);
-                console.log('Ready to install version:', data.readyToInstallVersion);
-                window['chcp'].installUpdate(function (installError) {
+                console.log("Current version:", data.currentVersion);
+                console.log("Ready to install version:", data.readyToInstallVersion);
+                window["chcp"].installUpdate(function (installError) {
                     if (installError) {
-                        console.error('Failed to install update', installError);
+                        console.error("Failed to install update", installError);
                     }
                     else {
-                        console.log('Update installed!');
+                        console.log("Update installed!");
                         // reload app agar update aktif
                         window.location.reload();
                     }
@@ -904,10 +923,33 @@ var MyApp = /** @class */ (function () {
             }
         });
     };
+    MyApp.prototype.explainErrorCode = function (code) {
+        var errorCodes = {
+            1: "NOTHING_TO_UPDATE - No update available",
+            2: "FAILED_TO_DOWNLOAD_APPLICATION_CONFIG - Cannot download chcp.json",
+            3: "APPLICATION_BUILD_VERSION_TOO_LOW - App version too old",
+            4: "FAILED_TO_DOWNLOAD_CONTENT_MANIFEST - Cannot download chcp.manifest",
+            5: "FAILED_TO_DOWNLOAD_UPDATE_FILES - Cannot download update files",
+            6: "FAILED_TO_MOVE_LOADED_FILES_TO_INSTALLATION_FOLDER - Install failed",
+            7: "UPDATE_IS_INVALID - Update validation failed",
+            8: "FAILED_TO_COPY_FILES_FROM_PREVIOUS_RELEASE - Copy failed",
+            9: "FAILED_TO_COPY_NEW_CONTENT_FILES - New content copy failed",
+            10: "LOCAL_VERSION_OF_APPLICATION_CONFIG_NOT_FOUND - Local config missing",
+            11: "LOCAL_VERSION_OF_MANIFEST_NOT_FOUND - Local manifest missing",
+            12: "LOADED_VERSION_OF_APPLICATION_CONFIG_NOT_FOUND - Loaded config missing",
+            13: "LOADED_VERSION_OF_MANIFEST_NOT_FOUND - Loaded manifest missing",
+            14: "FAILED_TO_LOAD_UPDATE_FROM_FILE_SYSTEM - Failed to load from storage",
+            15: "CORRUPTED_UPDATE_FILES - Update files corrupted",
+        };
+        console.log("Error " + code + ": " + (errorCodes[code] || "Unknown error"));
+    };
     MyApp = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({template:/*ion-inline-start:"/Users/nafirilhaq/Documents/Project/devSample/src/app/app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"/Users/nafirilhaq/Documents/Project/devSample/src/app/app.html"*/
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({template:/*ion-inline-start:"/Users/nafirilhaq/Documents/Project/devSample/src/app/app.html"*/'<ion-nav [root]="rootPage"></ion-nav>\n'/*ion-inline-end:"/Users/nafirilhaq/Documents/Project/devSample/src/app/app.html"*/,
         }),
-        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* Platform */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */], __WEBPACK_IMPORTED_MODULE_4__ionic_native_mobile_accessibility__["a" /* MobileAccessibility */]])
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* Platform */],
+            __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */],
+            __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */],
+            __WEBPACK_IMPORTED_MODULE_4__ionic_native_mobile_accessibility__["a" /* MobileAccessibility */]])
     ], MyApp);
     return MyApp;
 }());
