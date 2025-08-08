@@ -1,0 +1,33 @@
+<svg width="114.73" height="110.14" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:#fc9702;}.cls-2{font-size:9px;fill:#fff;font-family:Roboto-Black, Roboto;}.cls-3{letter-spacing:-0.01em;}.cls-4{fill:#ecebec;}.cls-5{fill:none;stroke:#fff;stroke-miterlimit:10;}</style>
+ </defs>
+ <title>M.Smile-UI-FINAL (?)</title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m13.62,0l87.49,0a13.62,13.62 0 0 1 13.62,13.62l0,85.74a10.71,10.71 0 0 1 -10.73,10.72l-93.29,0a10.71,10.71 0 0 1 -10.71,-10.72l0,-85.74a13.62,13.62 0 0 1 13.62,-13.62z" class="cls-1"/>
+  <path id="svg_2" d="m101.11,0l-87.49,0a13.62,13.62 0 0 0 -13.62,13.62l0,22.27l114.73,0l0,-22.27a13.62,13.62 0 0 0 -13.62,-13.62z" class="cls-1"/>
+  <text id="svg_3" transform="translate(3.680000066757202,22.950000762939453) scale(1.0499999523162842,1) " class="cls-2">KURS</text>
+  <text id="svg_4" transform="translate(41.529998779296875,22.950000762939453) scale(1.0499999523162842,1) " class="cls-2">BELI</text>
+  <text id="svg_5" transform="translate(82.13999938964844,22.950000762939453) scale(1.0499999523162842,1) " class="cls-2">J
+   <tspan id="svg_6" y="0" x="5.22" class="cls-3">U</tspan>
+   <tspan id="svg_7" y="0" x="11.35">AL</tspan></text>
+  <rect id="svg_8" height="23.82" width="114.73" y="35.89" class="cls-4"/>
+  <path id="svg_9" d="m0,83.31l114.73,0a0,0 0 0 1 0,0l0,16.41a10.42,10.42 0 0 1 -10.42,10.42l-93.89,0a10.42,10.42 0 0 1 -10.42,-10.42l0,-16.41a0,0 0 0 1 0,0z" class="cls-4"/>
+  <line id="svg_10" y2="110.14" x2="33.11" x1="33.11" class="cls-5"/>
+  <line id="svg_11" y2="110.14" x2="74.48" x1="74.48" class="cls-5"/>
+  <text font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="49.679472" x="7.86499" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">USD</text>
+  <text style="cursor: move;" font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="49.679472" x="91.12918" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">xx,xxx</text>
+  <text font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_14" y="49.679472" x="191.4557" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">xx,xxx</text>
+  <text font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_15" y="96.511242" x="7.86499" stroke-opacity="null" stroke-width="0" fill="#ffffff">SGD</text>
+  <text style="cursor: move;" font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_16" y="143.921182" x="7.86499" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">JPY</text>
+  <text font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_18" y="94.198562" x="205.78806" stroke-opacity="null" stroke-width="0" fill="#ffffff">x,xxx</text>
+  <text font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_19" y="94.198562" x="104.096553" stroke-opacity="null" stroke-width="0" fill="#ffffff">x,xxx</text>
+  <text font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_20" y="138.717652" x="194.868167" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">xxx.xx</text>
+  <text font-weight="bold" stroke="null" transform="matrix(0.40813809633255005,0,0,0.4817813634872436,1.866149340756238,28.019442934542894) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_21" y="138.717652" x="92.494167" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">xxx.xx</text>
+ </g>
+</svg>
