@@ -1,8 +1,5 @@
 {
-  "name": "testppushcode",
-  "ios_identifier": "123123",
-  "android_identifier": "io.ionic.starter",
-  "update": "resume",
-  "content_url": "https://nafirilhaq.github.io/chcp-test/",
-  "release": "2025.08.08-18.52.23"
+  "content_url": "https://nafirilhaq.github.io/chcp-test",
+  "release": "2025.08.08-19.03.50",
+  "update": "resume"
 }
