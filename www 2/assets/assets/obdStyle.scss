@@ -1,0 +1,53 @@
+
+.bgColorPrimary {
+    background-color:#ffc805;
+}
+.bgColorGrey {
+    background-color:rgb(166,166,166);
+}
+
+.btnNext {
+	height: 2em;
+}
+
+.absolutBtm{
+	position: absolute;bottom: 15px;right: 0;left:0;margin: auto;
+}
+.absoluteCenter {
+	position: absolute; height: min-content;
+	top: 0;left: 0;right: 0;bottom: 0;margin: auto;
+}
+
+.blockBorder {
+	border: solid 2px;
+	padding: 0 10px; margin: 5px 0;
+    border-radius: 15px;
+}
+
+.blockBorder span {
+	position: absolute;top:0;bottom: 0;margin: auto;height: min-content;
+}
+
+.blockSelect, .blockSelect-selected {
+	display: inline-block;
+	width: 40%;
+	margin: 5px;
+	padding: 10px 5px;
+	border-radius: 8px;
+    background-color:rgb(166,166,166);
+    text-align: center;
+    font-weight: bold;
+}
+.blockSelect-selected{
+	background-color:#ffc805;
+}
+
+.customModal{
+    /* width: 80%;
+    height: 80%;
+    top: 0; left:0; bottom: 0; right:0; margin: auto; */
+}
+
+.customModal .content-md, .customModal .content-ios{
+    background-image: none;
+}

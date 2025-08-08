@@ -1,0 +1,6410 @@
+[
+  {
+    "file": "assets/akunsaya/bayartagihan.png",
+    "hash": "e3d37b5bab8983527a7c5a7d700e2211"
+  },
+  {
+    "file": "assets/akunsaya/cc.png",
+    "hash": "43ebaad1a1baa06617ea4a76c4b82298"
+  },
+  {
+    "file": "assets/akunsaya/creditshield.svg",
+    "hash": "5bfb71794a831943d128a2d8c4d38fb0"
+  },
+  {
+    "file": "assets/akunsaya/megabill.svg",
+    "hash": "6b4c82b30af4b32b098bf176123d58ce"
+  },
+  {
+    "file": "assets/akunsaya/roundbayar.png",
+    "hash": "6e54a8cf1a06ab9554b16d400717ccaf"
+  },
+  {
+    "file": "assets/akunsaya/roundbeli.png",
+    "hash": "fa6cf656ba2cecd4efbb65dd4c40ff37"
+  },
+  {
+    "file": "assets/akunsaya/roundtariktunai.png",
+    "hash": "454c6782a238dd4aeb66f99a730dd246"
+  },
+  {
+    "file": "assets/akunsaya/roundtopup.png",
+    "hash": "b2f191d6324544abca59f336e8482043"
+  },
+  {
+    "file": "assets/akunsaya/roundtransfer.png",
+    "hash": "d2404e550777ca4bad8ce12464bf4c19"
+  },
+  {
+    "file": "assets/akunsaya/ubahcicilan.png",
+    "hash": "be8a115df058109cb3bdeda95b55ccf8"
+  },
+  {
+    "file": "assets/AlloExplore/activate/arrow-back.png",
+    "hash": "028a6ee7bb1d8aa9fa7080149350f813"
+  },
+  {
+    "file": "assets/AlloExplore/activate/arrow-back.svg",
+    "hash": "cf00c3980bc87759cf8a22016f874b04"
+  },
+  {
+    "file": "assets/AlloExplore/activate/bg-collab.png",
+    "hash": "4d888443da1105bd1dfc59891f8b795d"
+  },
+  {
+    "file": "assets/AlloExplore/activate/bg-img-next.png",
+    "hash": "63b74f1735f5ad647a93901b4b580e25"
+  },
+  {
+    "file": "assets/AlloExplore/activate/bg-img.png",
+    "hash": "af058cc41383ded5fd8bdb6ea5a578fb"
+  },
+  {
+    "file": "assets/AlloExplore/activate/bg-mpc.png",
+    "hash": "7c6e8f3b6f7072d8ebefe7e62391c1f5"
+  },
+  {
+    "file": "assets/AlloExplore/activate/bg-next-img.png",
+    "hash": "68738eb4f8ee888de919bbc317e78d2d"
+  },
+  {
+    "file": "assets/AlloExplore/activate/ic-check.png",
+    "hash": "d6b1f40346df8437d6f9828d461aa8a9"
+  },
+  {
+    "file": "assets/AlloExplore/bubble-background-coachmark.png",
+    "hash": "4f7898b0547f01fd2f2acd80b94ced61"
+  },
+  {
+    "file": "assets/AlloExplore/explore.png",
+    "hash": "9c574f03665619eb07f6df120b121a56"
+  },
+  {
+    "file": "assets/AlloExplore/explore.svg",
+    "hash": "624e25a5bbb269b2ae57379e09c75615"
+  },
+  {
+    "file": "assets/AlloExplore/explore2.png",
+    "hash": "e1546c072b7f375aeee8244e54fd4c7c"
+  },
+  {
+    "file": "assets/apply-cc/background-1.png",
+    "hash": "e8cfae2e2e0e69e3b5f7532872268308"
+  },
+  {
+    "file": "assets/apply-cc/background-2.png",
+    "hash": "f617bc99ca91577d06cb77aff81b9af5"
+  },
+  {
+    "file": "assets/apply-cc/bank-mega-logo.png",
+    "hash": "a3ab65b3a51b3bbaf03fe63f954f32fe"
+  },
+  {
+    "file": "assets/apply-cc/banner-bottom-website-onboarding-cc.png",
+    "hash": "21d91b73ed1e75e6cfd9434106448120"
+  },
+  {
+    "file": "assets/apply-cc/card-block-modal.png",
+    "hash": "f72b7fa1379ae134a046acbf332998a4"
+  },
+  {
+    "file": "assets/apply-cc/cek-cc-bg.png",
+    "hash": "f546c87e70991d0044ef9129a8a15249"
+  },
+  {
+    "file": "assets/apply-cc/chevron-right.png",
+    "hash": "628624f9acc3d46856e85925140b0b4a"
+  },
+  {
+    "file": "assets/apply-cc/credit-card-gold.png",
+    "hash": "8938ff44dcf3887ff69871b0cb17cfec"
+  },
+  {
+    "file": "assets/apply-cc/credit-card-metro.png",
+    "hash": "1031b149f24e6d8e4a67c6ca73c1d382"
+  },
+  {
+    "file": "assets/apply-cc/credit-card-platinum.png",
+    "hash": "2250f93d6ecf4f9e4a8ddf056b9ee60c"
+  },
+  {
+    "file": "assets/apply-cc/credit-card-travel.png",
+    "hash": "279878aea4f8cd665c78388e5d3b78b1"
+  },
+  {
+    "file": "assets/apply-cc/icon-activation-success.png",
+    "hash": "282e7afbbb9b771b5bc8eb6f6141d5f9"
+  },
+  {
+    "file": "assets/apply-cc/icon-activation-success2.png",
+    "hash": "6383dafd83d95f55749d640cad726c74"
+  },
+  {
+    "file": "assets/apply-cc/icon-already-have.png",
+    "hash": "d2346cad25d50cec1dce09d8b4163ce4"
+  },
+  {
+    "file": "assets/apply-cc/icon-arrow-down.png",
+    "hash": "07aa9f0742b993ef1fc184ef9cd339f0"
+  },
+  {
+    "file": "assets/apply-cc/icon-back.png",
+    "hash": "065c6ba4dabb3383c9925e1a9c5ba863"
+  },
+  {
+    "file": "assets/apply-cc/icon-calendar.png",
+    "hash": "3b8b592ddf252e1dd63899926c4cf634"
+  },
+  {
+    "file": "assets/apply-cc/icon-camera.png",
+    "hash": "11ae94041e340875ef1a2c180573e197"
+  },
+  {
+    "file": "assets/apply-cc/icon-card-small.png",
+    "hash": "5addee53e0fa3cdb792e602aa5ecdc5e"
+  },
+  {
+    "file": "assets/apply-cc/icon-card-yellow.png",
+    "hash": "4c796f1c707a57402a5ba15c2abf79e2"
+  },
+  {
+    "file": "assets/apply-cc/icon-check-gray.png",
+    "hash": "2fec4fb78a11f772188c05dae2de468d"
+  },
+  {
+    "file": "assets/apply-cc/icon-check-green.png",
+    "hash": "c934b2d544e38017065582a546794f5d"
+  },
+  {
+    "file": "assets/apply-cc/icon-check-grey.png",
+    "hash": "2fec4fb78a11f772188c05dae2de468d"
+  },
+  {
+    "file": "assets/apply-cc/icon-check-white.png",
+    "hash": "f774580464ba28acd72065e5a007ed3f"
+  },
+  {
+    "file": "assets/apply-cc/icon-check-yellow.png",
+    "hash": "40f63722ced14d0b026491b51af13d2c"
+  },
+  {
+    "file": "assets/apply-cc/icon-close-failed.png",
+    "hash": "d0c237016fa67355d0562bfe9c71577d"
+  },
+  {
+    "file": "assets/apply-cc/icon-close-orange.png",
+    "hash": "7f069b6329ae245da9da5f54cc71b975"
+  },
+  {
+    "file": "assets/apply-cc/icon-close-small.png",
+    "hash": "b5287130ecc6f6b111c69ffd2a6bfc5a"
+  },
+  {
+    "file": "assets/apply-cc/icon-close.png",
+    "hash": "e6fa75f7cde7ce1d040e300a520d9e5f"
+  },
+  {
+    "file": "assets/apply-cc/icon-delivery-cc.png",
+    "hash": "0b61c3993a5fa20d6d367b330651f59a"
+  },
+  {
+    "file": "assets/apply-cc/icon-delivery-done.png",
+    "hash": "0a959422e5864cbef3443756842943ad"
+  },
+  {
+    "file": "assets/apply-cc/icon-delivery-process.png",
+    "hash": "cf584417dc622a1034bd61b7ed84536c"
+  },
+  {
+    "file": "assets/apply-cc/icon-failed-apply-new.png",
+    "hash": "3be891fa084976830d7f5d76f152933d"
+  },
+  {
+    "file": "assets/apply-cc/icon-failed-apply.png",
+    "hash": "6c621c630fd1237db987471d21613d26"
+  },
+  {
+    "file": "assets/apply-cc/icon-file.png",
+    "hash": "b148a32405ec2764c1ca1fd50764af82"
+  },
+  {
+    "file": "assets/apply-cc/icon-home-check.png",
+    "hash": "2e7f79f34250c3b1b66fc97ab1b6d7d8"
+  },
+  {
+    "file": "assets/apply-cc/icon-home-failed.png",
+    "hash": "fe2ea9b1f9ea39da41b1f3c1ca0b69c2"
+  },
+  {
+    "file": "assets/apply-cc/icon-home-plane.png",
+    "hash": "fca772bd583c312497e955e9a7a95437"
+  },
+  {
+    "file": "assets/apply-cc/icon-home-send.png",
+    "hash": "e8473115c7ce253ccc54831faf58ab31"
+  },
+  {
+    "file": "assets/apply-cc/icon-home-time.png",
+    "hash": "f2cbfe8c8aa982cfa232824031e37f94"
+  },
+  {
+    "file": "assets/apply-cc/icon-house-small.png",
+    "hash": "c84c9d03097252be85a26edaf11a782b"
+  },
+  {
+    "file": "assets/apply-cc/icon-info.png",
+    "hash": "d4fc103147e8e8df3962bb6a67d01bc4"
+  },
+  {
+    "file": "assets/apply-cc/icon-lamp-yellow.png",
+    "hash": "1718ee2433b0b4be55bb26c860a9ba52"
+  },
+  {
+    "file": "assets/apply-cc/icon-lamp.png",
+    "hash": "0cffcf90b57f2d17f36df3f9a5f6efab"
+  },
+  {
+    "file": "assets/apply-cc/icon-m-smile.png",
+    "hash": "73e0b44a2d04d589fab94dbdc7dcf3cb"
+  },
+  {
+    "file": "assets/apply-cc/icon-modal-process.png",
+    "hash": "3549596e1fcc37dbbc1308444b53ba0c"
+  },
+  {
+    "file": "assets/apply-cc/icon-person-yellow.png",
+    "hash": "58afa0d2ceb6437f7407fd0066f854ee"
+  },
+  {
+    "file": "assets/apply-cc/icon-person.png",
+    "hash": "c911ec8b730f658ff7f2a4af7ae652be"
+  },
+  {
+    "file": "assets/apply-cc/icon-phone-small.png",
+    "hash": "6ea59f62341f4f668b0626decbcf8c1f"
+  },
+  {
+    "file": "assets/apply-cc/icon-picture-yellow.png",
+    "hash": "497324c32578acaf7c31545326aefc73"
+  },
+  {
+    "file": "assets/apply-cc/icon-process-new.png",
+    "hash": "2fb32b7a923a3b33b1eebba055ff6928"
+  },
+  {
+    "file": "assets/apply-cc/icon-process.png",
+    "hash": "52275f87cd183a1d25c210da40eb171c"
+  },
+  {
+    "file": "assets/apply-cc/icon-sended-email.png",
+    "hash": "e31b148ab7bc2fa90506a2a15844914b"
+  },
+  {
+    "file": "assets/apply-cc/icon-sent-email.png",
+    "hash": "e0a2fe4e893e8b962eddc9a734d3bc35"
+  },
+  {
+    "file": "assets/apply-cc/icon-success-apply-new.png",
+    "hash": "9a6aa4cb070d023fcfcdc010c334488f"
+  },
+  {
+    "file": "assets/apply-cc/icon-success-apply.png",
+    "hash": "aca4b0ef640e86528a89d69a5eaad198"
+  },
+  {
+    "file": "assets/apply-cc/icon-time-circle.png",
+    "hash": "d46489cb9233cbd09a85ac6413224d92"
+  },
+  {
+    "file": "assets/apply-cc/icon-time-small.png",
+    "hash": "44ea2d155b90c4dc4f49255e49f18af3"
+  },
+  {
+    "file": "assets/apply-cc/icon-warning-red.png",
+    "hash": "ab9d029216fe2b80c3debeddf018decb"
+  },
+  {
+    "file": "assets/apply-cc/image-liveness.png",
+    "hash": "2d66522f277a64962a1c1c650fad949f"
+  },
+  {
+    "file": "assets/apply-cc/image-success-liveness.png",
+    "hash": "7ee1f7d0c78ffeb2d8ecfb3b159c44d3"
+  },
+  {
+    "file": "assets/apply-cc/print-card-logo.png",
+    "hash": "bd3b957bfd5d698be99cf3c657836894"
+  },
+  {
+    "file": "assets/assets/akunsaya/bayartagihan.png",
+    "hash": "e3d37b5bab8983527a7c5a7d700e2211"
+  },
+  {
+    "file": "assets/assets/akunsaya/cc.png",
+    "hash": "43ebaad1a1baa06617ea4a76c4b82298"
+  },
+  {
+    "file": "assets/assets/akunsaya/creditshield.svg",
+    "hash": "5bfb71794a831943d128a2d8c4d38fb0"
+  },
+  {
+    "file": "assets/assets/akunsaya/megabill.svg",
+    "hash": "6b4c82b30af4b32b098bf176123d58ce"
+  },
+  {
+    "file": "assets/assets/akunsaya/roundbayar.png",
+    "hash": "6e54a8cf1a06ab9554b16d400717ccaf"
+  },
+  {
+    "file": "assets/assets/akunsaya/roundbeli.png",
+    "hash": "fa6cf656ba2cecd4efbb65dd4c40ff37"
+  },
+  {
+    "file": "assets/assets/akunsaya/roundtariktunai.png",
+    "hash": "454c6782a238dd4aeb66f99a730dd246"
+  },
+  {
+    "file": "assets/assets/akunsaya/roundtopup.png",
+    "hash": "b2f191d6324544abca59f336e8482043"
+  },
+  {
+    "file": "assets/assets/akunsaya/roundtransfer.png",
+    "hash": "d2404e550777ca4bad8ce12464bf4c19"
+  },
+  {
+    "file": "assets/assets/akunsaya/ubahcicilan.png",
+    "hash": "be8a115df058109cb3bdeda95b55ccf8"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/arrow-back.png",
+    "hash": "028a6ee7bb1d8aa9fa7080149350f813"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/arrow-back.svg",
+    "hash": "cf00c3980bc87759cf8a22016f874b04"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/bg-collab.png",
+    "hash": "4d888443da1105bd1dfc59891f8b795d"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/bg-img-next.png",
+    "hash": "63b74f1735f5ad647a93901b4b580e25"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/bg-img.png",
+    "hash": "af058cc41383ded5fd8bdb6ea5a578fb"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/bg-mpc.png",
+    "hash": "7c6e8f3b6f7072d8ebefe7e62391c1f5"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/bg-next-img.png",
+    "hash": "68738eb4f8ee888de919bbc317e78d2d"
+  },
+  {
+    "file": "assets/assets/AlloExplore/activate/ic-check.png",
+    "hash": "d6b1f40346df8437d6f9828d461aa8a9"
+  },
+  {
+    "file": "assets/assets/AlloExplore/bubble-background-coachmark.png",
+    "hash": "4f7898b0547f01fd2f2acd80b94ced61"
+  },
+  {
+    "file": "assets/assets/AlloExplore/explore.png",
+    "hash": "9c574f03665619eb07f6df120b121a56"
+  },
+  {
+    "file": "assets/assets/AlloExplore/explore.svg",
+    "hash": "624e25a5bbb269b2ae57379e09c75615"
+  },
+  {
+    "file": "assets/assets/AlloExplore/explore2.png",
+    "hash": "e1546c072b7f375aeee8244e54fd4c7c"
+  },
+  {
+    "file": "assets/assets/apply-cc/background-1.png",
+    "hash": "e8cfae2e2e0e69e3b5f7532872268308"
+  },
+  {
+    "file": "assets/assets/apply-cc/background-2.png",
+    "hash": "f617bc99ca91577d06cb77aff81b9af5"
+  },
+  {
+    "file": "assets/assets/apply-cc/bank-mega-logo.png",
+    "hash": "a3ab65b3a51b3bbaf03fe63f954f32fe"
+  },
+  {
+    "file": "assets/assets/apply-cc/banner-bottom-website-onboarding-cc.png",
+    "hash": "21d91b73ed1e75e6cfd9434106448120"
+  },
+  {
+    "file": "assets/assets/apply-cc/card-block-modal.png",
+    "hash": "f72b7fa1379ae134a046acbf332998a4"
+  },
+  {
+    "file": "assets/assets/apply-cc/cek-cc-bg.png",
+    "hash": "f546c87e70991d0044ef9129a8a15249"
+  },
+  {
+    "file": "assets/assets/apply-cc/chevron-right.png",
+    "hash": "628624f9acc3d46856e85925140b0b4a"
+  },
+  {
+    "file": "assets/assets/apply-cc/credit-card-gold.png",
+    "hash": "8938ff44dcf3887ff69871b0cb17cfec"
+  },
+  {
+    "file": "assets/assets/apply-cc/credit-card-metro.png",
+    "hash": "1031b149f24e6d8e4a67c6ca73c1d382"
+  },
+  {
+    "file": "assets/assets/apply-cc/credit-card-platinum.png",
+    "hash": "2250f93d6ecf4f9e4a8ddf056b9ee60c"
+  },
+  {
+    "file": "assets/assets/apply-cc/credit-card-travel.png",
+    "hash": "279878aea4f8cd665c78388e5d3b78b1"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-activation-success.png",
+    "hash": "282e7afbbb9b771b5bc8eb6f6141d5f9"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-activation-success2.png",
+    "hash": "6383dafd83d95f55749d640cad726c74"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-already-have.png",
+    "hash": "d2346cad25d50cec1dce09d8b4163ce4"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-arrow-down.png",
+    "hash": "07aa9f0742b993ef1fc184ef9cd339f0"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-back.png",
+    "hash": "065c6ba4dabb3383c9925e1a9c5ba863"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-calendar.png",
+    "hash": "3b8b592ddf252e1dd63899926c4cf634"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-camera.png",
+    "hash": "11ae94041e340875ef1a2c180573e197"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-card-small.png",
+    "hash": "5addee53e0fa3cdb792e602aa5ecdc5e"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-card-yellow.png",
+    "hash": "4c796f1c707a57402a5ba15c2abf79e2"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-check-gray.png",
+    "hash": "2fec4fb78a11f772188c05dae2de468d"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-check-green.png",
+    "hash": "c934b2d544e38017065582a546794f5d"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-check-grey.png",
+    "hash": "2fec4fb78a11f772188c05dae2de468d"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-check-white.png",
+    "hash": "f774580464ba28acd72065e5a007ed3f"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-check-yellow.png",
+    "hash": "40f63722ced14d0b026491b51af13d2c"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-close-failed.png",
+    "hash": "d0c237016fa67355d0562bfe9c71577d"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-close-orange.png",
+    "hash": "7f069b6329ae245da9da5f54cc71b975"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-close-small.png",
+    "hash": "b5287130ecc6f6b111c69ffd2a6bfc5a"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-close.png",
+    "hash": "e6fa75f7cde7ce1d040e300a520d9e5f"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-delivery-cc.png",
+    "hash": "0b61c3993a5fa20d6d367b330651f59a"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-delivery-done.png",
+    "hash": "0a959422e5864cbef3443756842943ad"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-delivery-process.png",
+    "hash": "cf584417dc622a1034bd61b7ed84536c"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-failed-apply-new.png",
+    "hash": "3be891fa084976830d7f5d76f152933d"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-failed-apply.png",
+    "hash": "6c621c630fd1237db987471d21613d26"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-file.png",
+    "hash": "b148a32405ec2764c1ca1fd50764af82"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-home-check.png",
+    "hash": "2e7f79f34250c3b1b66fc97ab1b6d7d8"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-home-failed.png",
+    "hash": "fe2ea9b1f9ea39da41b1f3c1ca0b69c2"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-home-plane.png",
+    "hash": "fca772bd583c312497e955e9a7a95437"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-home-send.png",
+    "hash": "e8473115c7ce253ccc54831faf58ab31"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-home-time.png",
+    "hash": "f2cbfe8c8aa982cfa232824031e37f94"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-house-small.png",
+    "hash": "c84c9d03097252be85a26edaf11a782b"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-info.png",
+    "hash": "d4fc103147e8e8df3962bb6a67d01bc4"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-lamp-yellow.png",
+    "hash": "1718ee2433b0b4be55bb26c860a9ba52"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-lamp.png",
+    "hash": "0cffcf90b57f2d17f36df3f9a5f6efab"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-m-smile.png",
+    "hash": "73e0b44a2d04d589fab94dbdc7dcf3cb"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-modal-process.png",
+    "hash": "3549596e1fcc37dbbc1308444b53ba0c"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-person-yellow.png",
+    "hash": "58afa0d2ceb6437f7407fd0066f854ee"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-person.png",
+    "hash": "c911ec8b730f658ff7f2a4af7ae652be"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-phone-small.png",
+    "hash": "6ea59f62341f4f668b0626decbcf8c1f"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-picture-yellow.png",
+    "hash": "497324c32578acaf7c31545326aefc73"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-process-new.png",
+    "hash": "2fb32b7a923a3b33b1eebba055ff6928"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-process.png",
+    "hash": "52275f87cd183a1d25c210da40eb171c"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-sended-email.png",
+    "hash": "e31b148ab7bc2fa90506a2a15844914b"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-sent-email.png",
+    "hash": "e0a2fe4e893e8b962eddc9a734d3bc35"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-success-apply-new.png",
+    "hash": "9a6aa4cb070d023fcfcdc010c334488f"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-success-apply.png",
+    "hash": "aca4b0ef640e86528a89d69a5eaad198"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-time-circle.png",
+    "hash": "d46489cb9233cbd09a85ac6413224d92"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-time-small.png",
+    "hash": "44ea2d155b90c4dc4f49255e49f18af3"
+  },
+  {
+    "file": "assets/assets/apply-cc/icon-warning-red.png",
+    "hash": "ab9d029216fe2b80c3debeddf018decb"
+  },
+  {
+    "file": "assets/assets/apply-cc/image-liveness.png",
+    "hash": "2d66522f277a64962a1c1c650fad949f"
+  },
+  {
+    "file": "assets/assets/apply-cc/image-success-liveness.png",
+    "hash": "7ee1f7d0c78ffeb2d8ecfb3b159c44d3"
+  },
+  {
+    "file": "assets/assets/apply-cc/print-card-logo.png",
+    "hash": "bd3b957bfd5d698be99cf3c657836894"
+  },
+  {
+    "file": "assets/assets/bantuan-new/bg-atas-kanan.svg",
+    "hash": "21fe1c5f4e2010271c0f32d96009786b"
+  },
+  {
+    "file": "assets/assets/bantuan-new/bg-atas-kiri.svg",
+    "hash": "21fe1c5f4e2010271c0f32d96009786b"
+  },
+  {
+    "file": "assets/assets/bantuan-new/bg-atas.svg",
+    "hash": "4648801d276bfc6ae84125a3bc97eb40"
+  },
+  {
+    "file": "assets/assets/bantuan-new/bg-cate.svg",
+    "hash": "e7bc15c1b0618ab516b7cc408fa5fb08"
+  },
+  {
+    "file": "assets/assets/bantuan-new/cc.svg",
+    "hash": "bcd6ef6c6e81b7bb36363e0310c580d2"
+  },
+  {
+    "file": "assets/assets/bantuan-new/close.svg",
+    "hash": "ec1e2dcae2cde50ec64da3eb2dfec1af"
+  },
+  {
+    "file": "assets/assets/bantuan-new/deposito.svg",
+    "hash": "d72595c8fdacb3de1de61efd26205608"
+  },
+  {
+    "file": "assets/assets/bantuan-new/detail/check.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/detail/dislike.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/detail/like.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/detail/popup.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/hub/fb.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/hub/form.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/hub/ig.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/hub/megacall.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/hub/mila.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/hub/twitter.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/icon/search.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/bantuan-new/investasi.svg",
+    "hash": "5d7104b02f63c0567a71e20eca3f279f"
+  },
+  {
+    "file": "assets/assets/bantuan-new/lainnya.svg",
+    "hash": "46b042f874c525895de9a2f04e2af6b5"
+  },
+  {
+    "file": "assets/assets/bantuan-new/m-money.svg",
+    "hash": "4f9b63d059a6e63a9fb65188a244e427"
+  },
+  {
+    "file": "assets/assets/bantuan-new/tabungan.svg",
+    "hash": "2106b93ffab2fbc411cd13149d3e5345"
+  },
+  {
+    "file": "assets/assets/bantuan-new/transaksi.svg",
+    "hash": "6cdf1c724ab9002696f35ba8b05cbb49"
+  },
+  {
+    "file": "assets/assets/bantuan-new/umum.svg",
+    "hash": "ef33b3b052aeda4d1d068dc3ffdcbaab"
+  },
+  {
+    "file": "assets/assets/css/ios.scss",
+    "hash": "96e74d1616ff37342c612541a5c89361"
+  },
+  {
+    "file": "assets/assets/dashboard2/akun-new.svg",
+    "hash": "ce6581140e4d83ea7e07bdf1e45e861d"
+  },
+  {
+    "file": "assets/assets/dashboard2/akun.svg",
+    "hash": "79cef86b68b8bd60c8f7fd398e56e435"
+  },
+  {
+    "file": "assets/assets/dashboard2/all-new.svg",
+    "hash": "55df84ebac9b8f017025a602573dcaa9"
+  },
+  {
+    "file": "assets/assets/dashboard2/all.svg",
+    "hash": "2bf590b00eece9da9ae45dac79bce687"
+  },
+  {
+    "file": "assets/assets/dashboard2/apply-new.svg",
+    "hash": "f2be2051e51479eedde34360412749a3"
+  },
+  {
+    "file": "assets/assets/dashboard2/apply.svg",
+    "hash": "e0cc94790a502c9bdf387927bd005bf1"
+  },
+  {
+    "file": "assets/assets/dashboard2/bannerleft.png",
+    "hash": "6bbad747f916d0e245bcbffdb4b42e8d"
+  },
+  {
+    "file": "assets/assets/dashboard2/bannerright.png",
+    "hash": "441d1c1d75491337a63e6f489446fcce"
+  },
+  {
+    "file": "assets/assets/dashboard2/bayar.svg",
+    "hash": "c6142d9d893e43f92e09c1300a669b72"
+  },
+  {
+    "file": "assets/assets/dashboard2/beli.svg",
+    "hash": "91096851e00dd7fd68508e5a4c8f0b46"
+  },
+  {
+    "file": "assets/assets/dashboard2/calender.png",
+    "hash": "ebdeac6cb5c5e658f02a51d475177ee4"
+  },
+  {
+    "file": "assets/assets/dashboard2/explore.svg",
+    "hash": "f0263e3a18df00dc3de898b480d03e87"
+  },
+  {
+    "file": "assets/assets/dashboard2/flatbanner.png",
+    "hash": "5a9ee3efc0ec652798f487fa6c0f901a"
+  },
+  {
+    "file": "assets/assets/dashboard2/flatbannerleft.png",
+    "hash": "28970c29ac77f72692eefe7c26dbaa33"
+  },
+  {
+    "file": "assets/assets/dashboard2/flatbannerright.png",
+    "hash": "12802b529b075b545d6d08f21dffe16f"
+  },
+  {
+    "file": "assets/assets/dashboard2/header.png",
+    "hash": "be0711c81c10ba32fd061025c1fba8b7"
+  },
+  {
+    "file": "assets/assets/dashboard2/headercorel2.png",
+    "hash": "ede0eac06a9babecf7f917a129c9884e"
+  },
+  {
+    "file": "assets/assets/dashboard2/homecalender.png",
+    "hash": "cbef41ae1eadddcb314b3087ec8cfec5"
+  },
+  {
+    "file": "assets/assets/dashboard2/homecalender.svg",
+    "hash": "292637ef7c75ca49cda30a6455189db0"
+  },
+  {
+    "file": "assets/assets/dashboard2/infocircle.svg",
+    "hash": "e16c59fc2a61535ec1cd68ac9ab48211"
+  },
+  {
+    "file": "assets/assets/dashboard2/infolainnya-new.svg",
+    "hash": "6268f9d1e34ad3fc2c5672ef32e09feb"
+  },
+  {
+    "file": "assets/assets/dashboard2/infolainnya.svg",
+    "hash": "4f51d3b8d2b2ffae06a861955ae0b980"
+  },
+  {
+    "file": "assets/assets/dashboard2/inves-new.svg",
+    "hash": "e3244ce6203b5bde34aac734a9c67967"
+  },
+  {
+    "file": "assets/assets/dashboard2/inves.svg",
+    "hash": "3709e3bbf3c929767a62f83bf97d280d"
+  },
+  {
+    "file": "assets/assets/dashboard2/kalender.png",
+    "hash": "b08a65d466f385bd973c713ae0d334c7"
+  },
+  {
+    "file": "assets/assets/dashboard2/kupon.png",
+    "hash": "ffb8ac3ca4d21b5e34273a5451bf92d9"
+  },
+  {
+    "file": "assets/assets/dashboard2/kupon.svg",
+    "hash": "c8747ecfdc37aaf2cedbc523efde5281"
+  },
+  {
+    "file": "assets/assets/dashboard2/layanan-new.svg",
+    "hash": "e6c6b693ca6df1652674efe04fe502c2"
+  },
+  {
+    "file": "assets/assets/dashboard2/layanan.svg",
+    "hash": "10ea9ff6562f5368b9b61dd8a1af85fa"
+  },
+  {
+    "file": "assets/assets/dashboard2/lonceng.svg",
+    "hash": "10efcc5cf004f0e32f459670553f9537"
+  },
+  {
+    "file": "assets/assets/dashboard2/lonceng2.png",
+    "hash": "21eb9c79e8c7149a1132c658d0c596b8"
+  },
+  {
+    "file": "assets/assets/dashboard2/mbranch.svg",
+    "hash": "35144507c8e552cfb61f51fdfe72cfc4"
+  },
+  {
+    "file": "assets/assets/dashboard2/megametro.jpg",
+    "hash": "c4496dd8af495b59c92a6187075d0c48"
+  },
+  {
+    "file": "assets/assets/dashboard2/mf.jpg",
+    "hash": "983e29cfb8ff27bc748d7347ab34488d"
+  },
+  {
+    "file": "assets/assets/dashboard2/mpc.svg",
+    "hash": "322789bc06b5ba9e8da08f3c2d6b25a2"
+  },
+  {
+    "file": "assets/assets/dashboard2/promo.png",
+    "hash": "d1a37c1d43204ed86872b90adaffdab8"
+  },
+  {
+    "file": "assets/assets/dashboard2/qris.svg",
+    "hash": "2fef79e4053f9e7a3501ef72cdca0983"
+  },
+  {
+    "file": "assets/assets/dashboard2/tarik-new.svg",
+    "hash": "e82199205bf6d6c75b563281d3b56e35"
+  },
+  {
+    "file": "assets/assets/dashboard2/tarik.svg",
+    "hash": "013c07dd34d5c6e0fa10c0e17a58f7db"
+  },
+  {
+    "file": "assets/assets/dashboard2/topup_beli.svg",
+    "hash": "5ad074142cc65b54b92596fa078c5643"
+  },
+  {
+    "file": "assets/assets/dashboard2/topup.svg",
+    "hash": "2e854d46ca2441730ad9dc3d322b38ee"
+  },
+  {
+    "file": "assets/assets/dashboard2/trf.svg",
+    "hash": "79a7e70d9706b67307a7ad15c08ff567"
+  },
+  {
+    "file": "assets/assets/dashboard2/voice.svg",
+    "hash": "b4140da4cf6fa4f3c5614371e1c91851"
+  },
+  {
+    "file": "assets/assets/dashboard2/voice2.png",
+    "hash": "84ea0b8e403a9bcf10cce8c2d7c0ed65"
+  },
+  {
+    "file": "assets/assets/fonts/dm_sans/DMSans-Medium.ttf",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/dm_sans/rP2Cp2ywxg089UriASitCBamC2QX.woff2",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/dm_sans/rP2Cp2ywxg089UriASitCBimCw.woff2",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/dm_sans/rP2Hp2ywxg089UriCZ2IHSeH.woff2",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/dm_sans/rP2Hp2ywxg089UriCZOIHQ.woff2",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/icon/icomoon.eot",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/icon/icomoon.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/icon/icomoon.ttf",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/fonts/icon/icomoon.woff",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/ancient-scroll.svg",
+    "hash": "dff30fcbb16236929ac570ec845ab13c"
+  },
+  {
+    "file": "assets/assets/icon/arrow-down.png",
+    "hash": "1d63a9c461a519f545415cc1757ce55f"
+  },
+  {
+    "file": "assets/assets/icon/arrow-forward.png",
+    "hash": "ff8183d62ad6849b7f1fab58fd86634f"
+  },
+  {
+    "file": "assets/assets/icon/arrow-forward.svg",
+    "hash": "34ad64270469944a598e719cf9c29444"
+  },
+  {
+    "file": "assets/assets/icon/arrow-ntb.png",
+    "hash": "9f0310e0fc92d49f8c09ed918f0fe335"
+  },
+  {
+    "file": "assets/assets/icon/banner-mmoney.jpeg",
+    "hash": "a85fe2b37cd70927657774878d07daf6"
+  },
+  {
+    "file": "assets/assets/icon/biller/biller_data.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/biller/biller_emoney.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/biller/biller_pln.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/biller/biller_pulsa.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/btn-login.svg",
+    "hash": "f6f96311c9642b6f187d2f3c96bb6a0a"
+  },
+  {
+    "file": "assets/assets/icon/btn-registrasi.svg",
+    "hash": "e8e19bd78dc047826c94ffabf3e8a77c"
+  },
+  {
+    "file": "assets/assets/icon/calendar.svg",
+    "hash": "8ac9bf08356691fcc5b200a8424d366b"
+  },
+  {
+    "file": "assets/assets/icon/cancel-music.svg",
+    "hash": "bb93e3a2bf87cd2035f1215f4bea8aa3"
+  },
+  {
+    "file": "assets/assets/icon/cancel.svg",
+    "hash": "a135db8fc1694ed5d859ce5e9b269d7c"
+  },
+  {
+    "file": "assets/assets/icon/cancelNew.svg",
+    "hash": "b57ecfd17c228157a08ac1415510b0b2"
+  },
+  {
+    "file": "assets/assets/icon/canvas_lockscreen.svg",
+    "hash": "6e1f0f5a8367f2897f168231e3b7fe2b"
+  },
+  {
+    "file": "assets/assets/icon/canvas.svg",
+    "hash": "03dc4d3bb19990cb4707923c593ee37b"
+  },
+  {
+    "file": "assets/assets/icon/card-add.svg",
+    "hash": "7ab23c26da3ae736ab3fe94fac261e6b"
+  },
+  {
+    "file": "assets/assets/icon/ceklis.svg",
+    "hash": "e5acf52f0c766fe4405cabafbbfa0f58"
+  },
+  {
+    "file": "assets/assets/icon/check-mark.svg",
+    "hash": "6b862b7407430b85e216b3f025235054"
+  },
+  {
+    "file": "assets/assets/icon/checklist.svg",
+    "hash": "c9b0c99037db91dd8ef98989353685be"
+  },
+  {
+    "file": "assets/assets/icon/close-circle-outline.svg",
+    "hash": "64600fb03bc924808555575e2d89c9a6"
+  },
+  {
+    "file": "assets/assets/icon/color/add-card.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/add-user.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/atm_idr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/bank-account_idr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/bar-chart.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/bill_.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/bill_idr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/c-card.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/calculator.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/cart.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/chat.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/credit-card.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/d-card.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/debit-card.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/discount.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/history.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/home.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/icon_call.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/icon_kartu_kredit.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/icon_kecelakaan.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/icon_kesehatan.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/icon_qr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/icon_task.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/icon-mega.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/increased-revenue_idr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/invoice_idr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/key.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/log-in.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/log-out.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/mccm.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/nfc.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/passcode.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/pdf.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/placeholder.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/plus.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/question.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/receipt_idr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/ref.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/secure-trx.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/shield.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/transfer_idr.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/transference.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/wallet.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/color/walletplus.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/contacts.svg",
+    "hash": "67d243710b5102e3b4f21724fa1e2d6d"
+  },
+  {
+    "file": "assets/assets/icon/create-outline.svg",
+    "hash": "ddbbfa50d820699b32d11ae56ee03955"
+  },
+  {
+    "file": "assets/assets/icon/cvv.png",
+    "hash": "224aa8f25f4d273ec60e74583a064ca9"
+  },
+  {
+    "file": "assets/assets/icon/default.png",
+    "hash": "51b374608c40aef3036db38544cdcdb9"
+  },
+  {
+    "file": "assets/assets/icon/delete.svg",
+    "hash": "ba88e569655e96c50f7b334307f6aa27"
+  },
+  {
+    "file": "assets/assets/icon/deposito.svg",
+    "hash": "2f03d651007e831165958d8218d1ceb0"
+  },
+  {
+    "file": "assets/assets/icon/donasi.svg",
+    "hash": "6282b257485afd6d68c83a32cb7b6c90"
+  },
+  {
+    "file": "assets/assets/icon/doubleup.svg",
+    "hash": "9b04909127146fabdd00df2477dfa432"
+  },
+  {
+    "file": "assets/assets/icon/email_verified.svg",
+    "hash": "6041e3708399434b547c55cd3329c675"
+  },
+  {
+    "file": "assets/assets/icon/face.svg",
+    "hash": "0b186effb41b3baee90f8309fa9a351b"
+  },
+  {
+    "file": "assets/assets/icon/failed.svg",
+    "hash": "14d91afc3fe789f162ec6e299ea97a54"
+  },
+  {
+    "file": "assets/assets/icon/favicon.ico",
+    "hash": "0350f4b3a2067110b1e642ee5931a38a"
+  },
+  {
+    "file": "assets/assets/icon/favlist.svg",
+    "hash": "bae8d2bd10e214363991c58dca3efcbc"
+  },
+  {
+    "file": "assets/assets/icon/fbColor.svg",
+    "hash": "dce3111d4b2650532f5bca14ac0f9d9e"
+  },
+  {
+    "file": "assets/assets/icon/filter-promo.png",
+    "hash": "634133c0dcb59e1247e56f877938130d"
+  },
+  {
+    "file": "assets/assets/icon/filter-promo.svg",
+    "hash": "33e9b78b1f3340053e8183897d1da5dd"
+  },
+  {
+    "file": "assets/assets/icon/filter.svg",
+    "hash": "48ce69069e5a250abaad7268d181eebc"
+  },
+  {
+    "file": "assets/assets/icon/focus.svg",
+    "hash": "6d70a77fa6bf459587c12b3678d91197"
+  },
+  {
+    "file": "assets/assets/icon/focusCard.svg",
+    "hash": "4ce61b2fa61f01923cf2de96a9cb30d8"
+  },
+  {
+    "file": "assets/assets/icon/focusCardWhite.svg",
+    "hash": "2894e41029a9ae805c24520a554d31ec"
+  },
+  {
+    "file": "assets/assets/icon/fotoFocus.svg",
+    "hash": "5a9e4da4200cad21b65739faf34b02c2"
+  },
+  {
+    "file": "assets/assets/icon/fotoIdCard.svg",
+    "hash": "3917aab3f7ee3b28563282dca1d8f84d"
+  },
+  {
+    "file": "assets/assets/icon/fotoSelfie.svg",
+    "hash": "97dd59fd9be02ca844ad48960edcbc52"
+  },
+  {
+    "file": "assets/assets/icon/frame_scan_2.png",
+    "hash": "94a43fe84c0e98e681fce1b3c957c0d0"
+  },
+  {
+    "file": "assets/assets/icon/frame_scan.png",
+    "hash": "c1892c7124c84f3b7b2c8b217dd958df"
+  },
+  {
+    "file": "assets/assets/icon/frame_scan3.svg",
+    "hash": "4d45873fc43e085e2855706823fc81e5"
+  },
+  {
+    "file": "assets/assets/icon/frame_scan4.png",
+    "hash": "f732a82fd3d09e62b57deda00a35866d"
+  },
+  {
+    "file": "assets/assets/icon/generate-paymentqr.svg",
+    "hash": "1ff5df29337e5f67107854e18f773e40"
+  },
+  {
+    "file": "assets/assets/icon/generate-setortunaiqr.svg",
+    "hash": "9f58dabbe031ce909e39a2e64195a38b"
+  },
+  {
+    "file": "assets/assets/icon/generate-transferqr.svg",
+    "hash": "d65f42c5b05024eb5ca124f3b5898d29"
+  },
+  {
+    "file": "assets/assets/icon/history.svg",
+    "hash": "bace974540a0aa4e42fee562505b23d4"
+  },
+  {
+    "file": "assets/assets/icon/holdphone.png",
+    "hash": "9b27d873f549d097f54c697b112c54c4"
+  },
+  {
+    "file": "assets/assets/icon/IgColor.svg",
+    "hash": "c15b915284e0eb6ace7fd850ec809fe2"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/atur_jenis_transaksi.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/atur_limit.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/blokir_kartu_debit.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/blokir_kartu.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/daftar_suplemen.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/delivery_tracking.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/kenaikan_limit.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/kenaikan_limit.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/loc.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/pendaftaran_asuransi.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/pendaftaran_megabill.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/perubahan_data.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/split_bill.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/status_transaksi.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/transaksi_terjadwal.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/ubah_cicilan.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/layanan_icon/ubah_pin.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/left-arrow.svg",
+    "hash": "6c9efe0c8c1fb630cd48d0381ece4297"
+  },
+  {
+    "file": "assets/assets/icon/milea_new.png",
+    "hash": "7c5f7ef8f6968d704bac384b19599f14"
+  },
+  {
+    "file": "assets/assets/icon/milea.png",
+    "hash": "187948f79cf13f2d36d21ca5d5047ce4"
+  },
+  {
+    "file": "assets/assets/icon/milea.svg",
+    "hash": "c37dd44c0a3f9885f28bd3e9d66b04f0"
+  },
+  {
+    "file": "assets/assets/icon/more_menu.jpg",
+    "hash": "60d5ef8a3ffd7c26950826005a690e6b"
+  },
+  {
+    "file": "assets/assets/icon/more_menu.svg",
+    "hash": "ec3bdee03d5bdab35f4524e1ae521a8d"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/bgimage.jpeg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/bgimage.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/bgimage.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/ceklis.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/closeBtn.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/pending.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/share.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/split.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/new_struk/star.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/no-card.svg",
+    "hash": "3ef6f9bf758a7477c43154f7ea20de42"
+  },
+  {
+    "file": "assets/assets/icon/notif-fail.svg",
+    "hash": "03a758cb7e4d4ef8d2ad53adafd91a7f"
+  },
+  {
+    "file": "assets/assets/icon/notif-succes.svg",
+    "hash": "b05e554523f238f1f8c6a38480f322ae"
+  },
+  {
+    "file": "assets/assets/icon/onBoardFile.svg",
+    "hash": "bc9986c7016bf4740a63053d65803685"
+  },
+  {
+    "file": "assets/assets/icon/onBoardFileCheck.svg",
+    "hash": "0ffdfb7f625631af83a2245116c9b3c2"
+  },
+  {
+    "file": "assets/assets/icon/operator/axis.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/operator/indosat.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/operator/smartfren.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/operator/telkomsel.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/operator/three.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/operator/xl.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/pdf.svg",
+    "hash": "9c14ffc2bda7ef57dc0724657474eb7e"
+  },
+  {
+    "file": "assets/assets/icon/phone-book.svg",
+    "hash": "e2934ab8a49a0d62d3e1c67055755231"
+  },
+  {
+    "file": "assets/assets/icon/phone-error.svg",
+    "hash": "04d94a1cc83c05dc086e38f8f12ec959"
+  },
+  {
+    "file": "assets/assets/icon/phoneColor.svg",
+    "hash": "294e3cf02b2062622d6fefcd95c5b4c6"
+  },
+  {
+    "file": "assets/assets/icon/photo-camera-white.svg",
+    "hash": "81ae6403dadaa2e7e0617e5662e34ae5"
+  },
+  {
+    "file": "assets/assets/icon/photo-camera.svg",
+    "hash": "b98a7d01d44a1157e247e2c165e61da5"
+  },
+  {
+    "file": "assets/assets/icon/poin/homeCircle.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/poin/information.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/qr-code.svg",
+    "hash": "8e8e39effa9f5cd75a4601920ac97ca0"
+  },
+  {
+    "file": "assets/assets/icon/qris_logo.png",
+    "hash": "ce8125af4f625f652360eca956a39007"
+  },
+  {
+    "file": "assets/assets/icon/qris_logoall.jpg",
+    "hash": "433440875011eae8763e299aebc9489c"
+  },
+  {
+    "file": "assets/assets/icon/qrislogo-green.png",
+    "hash": "94c3375d22e5bb52e0e5ba835920a7e5"
+  },
+  {
+    "file": "assets/assets/icon/receipt.svg",
+    "hash": "18b2c7b2d1bcaaf58e56813e18c94ae0"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/ashmore.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/campuran.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/manulife.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/megaAsset.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/megaInvestama.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/pasarUang.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/pendapatanTetap.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/reksaDown.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/reksaUp.png",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/saham.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/reksaDana/schroders.jpg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr_bayar.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr_flash_off.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr_flash_on.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr_frame_target.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr_qris_logo.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr_terima_transfer.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr_upload.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_icon/qr-setor_tunai.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_produk/e_money.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_produk/e_wallet.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/revamp_produk/kontak.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/scanqr.svg",
+    "hash": "e8768d25d41099a325fb3781b281e5d3"
+  },
+  {
+    "file": "assets/assets/icon/select-all.svg",
+    "hash": "6ac7102e978c97192023e13833e087c2"
+  },
+  {
+    "file": "assets/assets/icon/selfie.svg",
+    "hash": "95b718668447a87c5eb2df3b06f6ef8f"
+  },
+  {
+    "file": "assets/assets/icon/selfieCard.svg",
+    "hash": "d00db86b08cd310f82fb25d3424246c5"
+  },
+  {
+    "file": "assets/assets/icon/sms.svg",
+    "hash": "e8cafdd2a633ba2cd4eb1716ac2a8ca1"
+  },
+  {
+    "file": "assets/assets/icon/spinner.gif",
+    "hash": "fce4eaff7392dd76eac2b027e556b55e"
+  },
+  {
+    "file": "assets/assets/icon/succes.svg",
+    "hash": "095f325f401036148d167bd65efa93a7"
+  },
+  {
+    "file": "assets/assets/icon/tabungan_deposito.svg",
+    "hash": "02a8e0ba05a1311b64c5e6eb548c03b7"
+  },
+  {
+    "file": "assets/assets/icon/tick.svg",
+    "hash": "27ce898f8b3d268552d167c1e2d05503"
+  },
+  {
+    "file": "assets/assets/icon/trash-outline.svg",
+    "hash": "720e54b7387008fa518b946f212cdf18"
+  },
+  {
+    "file": "assets/assets/icon/twitterColor.svg",
+    "hash": "4f41a9846006dbe195ddcf426c32c502"
+  },
+  {
+    "file": "assets/assets/icon/ubah-email/bg.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/ubah-email/email.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/ubah-email/vector.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/up-arrow.svg",
+    "hash": "0fe370902c598fbe9164af4630c432a2"
+  },
+  {
+    "file": "assets/assets/icon/uploadqr.svg",
+    "hash": "766f308b831b60f7a8121540bc0585ab"
+  },
+  {
+    "file": "assets/assets/icon/verify-email/close.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/verify-email/email.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/verify-email/time.svg",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/assets/icon/wifi.svg",
+    "hash": "b29a781a7b43d9cf06040ba60ae42e44"
+  },
+  {
+    "file": "assets/assets/icon/youtubeColor.svg",
+    "hash": "c2634b5b1958979ae3b8568009efb43d"
+  },
+  {
+    "file": "assets/assets/obdStyle.scss",
+    "hash": "b8aa476e214b2ef3160e4716b031ef54"
+  },
+  {
+    "file": "assets/assets/reksaDana.scss",
+    "hash": "4fc640f37aec49a54d17f649b679de4f"
+  },
+  {
+    "file": "assets/assets/splash.png",
+    "hash": "84fbcb538b50c166da985ea18f626d31"
+  },
+  {
+    "file": "assets/bantuan-new/bg-atas-kanan.svg",
+    "hash": "21fe1c5f4e2010271c0f32d96009786b"
+  },
+  {
+    "file": "assets/bantuan-new/bg-atas-kiri.svg",
+    "hash": "21fe1c5f4e2010271c0f32d96009786b"
+  },
+  {
+    "file": "assets/bantuan-new/bg-atas.svg",
+    "hash": "4648801d276bfc6ae84125a3bc97eb40"
+  },
+  {
+    "file": "assets/bantuan-new/bg-cate.svg",
+    "hash": "e7bc15c1b0618ab516b7cc408fa5fb08"
+  },
+  {
+    "file": "assets/bantuan-new/cc.svg",
+    "hash": "bcd6ef6c6e81b7bb36363e0310c580d2"
+  },
+  {
+    "file": "assets/bantuan-new/close.svg",
+    "hash": "ec1e2dcae2cde50ec64da3eb2dfec1af"
+  },
+  {
+    "file": "assets/bantuan-new/deposito.svg",
+    "hash": "d72595c8fdacb3de1de61efd26205608"
+  },
+  {
+    "file": "assets/bantuan-new/detail/check.svg",
+    "hash": "1637e068f6a37351e13740af37cb00f2"
+  },
+  {
+    "file": "assets/bantuan-new/detail/dislike.svg",
+    "hash": "1179cd4d105b98aaef9c213d37de95a3"
+  },
+  {
+    "file": "assets/bantuan-new/detail/like.svg",
+    "hash": "5896c4fe8bdfb991be4f268250e548cd"
+  },
+  {
+    "file": "assets/bantuan-new/detail/popup.svg",
+    "hash": "ca063b99419fecf43cbd2e9727dfff3c"
+  },
+  {
+    "file": "assets/bantuan-new/hub/fb.svg",
+    "hash": "7c08e73ec072cdb77afb44395aac96fc"
+  },
+  {
+    "file": "assets/bantuan-new/hub/form.svg",
+    "hash": "42a88836e0643ef89969c670fa720d1d"
+  },
+  {
+    "file": "assets/bantuan-new/hub/ig.svg",
+    "hash": "7eb508a5abdc7cf84a0e6fa3238ab61f"
+  },
+  {
+    "file": "assets/bantuan-new/hub/megacall.svg",
+    "hash": "26f05228deb6e5482e7ffde6d5bf6fa3"
+  },
+  {
+    "file": "assets/bantuan-new/hub/mila.svg",
+    "hash": "5340e6097f977ff7f3867ca6e2349f95"
+  },
+  {
+    "file": "assets/bantuan-new/hub/twitter.svg",
+    "hash": "498a8eb06be04d36354b677077dffc52"
+  },
+  {
+    "file": "assets/bantuan-new/icon/search.svg",
+    "hash": "fa61701ac0805aa56711a1b85500fdc5"
+  },
+  {
+    "file": "assets/bantuan-new/investasi.svg",
+    "hash": "5d7104b02f63c0567a71e20eca3f279f"
+  },
+  {
+    "file": "assets/bantuan-new/lainnya.svg",
+    "hash": "46b042f874c525895de9a2f04e2af6b5"
+  },
+  {
+    "file": "assets/bantuan-new/m-money.svg",
+    "hash": "4f9b63d059a6e63a9fb65188a244e427"
+  },
+  {
+    "file": "assets/bantuan-new/tabungan.svg",
+    "hash": "2106b93ffab2fbc411cd13149d3e5345"
+  },
+  {
+    "file": "assets/bantuan-new/transaksi.svg",
+    "hash": "6cdf1c724ab9002696f35ba8b05cbb49"
+  },
+  {
+    "file": "assets/bantuan-new/umum.svg",
+    "hash": "ef33b3b052aeda4d1d068dc3ffdcbaab"
+  },
+  {
+    "file": "assets/cashline/box-bundle-failed.png",
+    "hash": "b07e0922544798b10c1262591224ee9c"
+  },
+  {
+    "file": "assets/cashline/box-bundle-success.png",
+    "hash": "4a2e5daa95e6677fbcb413409374ce6e"
+  },
+  {
+    "file": "assets/cashline/failed-icon.png",
+    "hash": "8c2f1a8cb671baf1149940db1f8546c0"
+  },
+  {
+    "file": "assets/cashline/illu-failed.svg",
+    "hash": "5565009f80f7801ea0914efdecbbefa2"
+  },
+  {
+    "file": "assets/cashline/illu-process.svg",
+    "hash": "3d2afc08d36bc0f233d34268f6bab176"
+  },
+  {
+    "file": "assets/cashline/illu-success.svg",
+    "hash": "41fb43d38dd32fa7246b3507a1656f65"
+  },
+  {
+    "file": "assets/cashline/illu-waiting.svg",
+    "hash": "b675fbe7ffceaa05defe162ae1a503b3"
+  },
+  {
+    "file": "assets/cashline/info-icon.png",
+    "hash": "c9ae8dfab45522d27b2ffa5399de4252"
+  },
+  {
+    "file": "assets/cashline/limit-ornament.png",
+    "hash": "da92579c2d589f264e1072d1d3ba36cf"
+  },
+  {
+    "file": "assets/cashline/mega-zaver-ornament.png",
+    "hash": "79a4e41738a0ebec1b527aaa8590d5a1"
+  },
+  {
+    "file": "assets/cashline/mob-info.png",
+    "hash": "58f55cc5140bdb3f60a9147729cd951f"
+  },
+  {
+    "file": "assets/cashline/nominal-box-process.png",
+    "hash": "be02cf0fad827b43f22501a29d74967f"
+  },
+  {
+    "file": "assets/cashline/nominal-box-success.png",
+    "hash": "4174f68264417021f25c2921451d5e15"
+  },
+  {
+    "file": "assets/cashline/process-icon.png",
+    "hash": "2794000c32e080c51f8768cc71994a69"
+  },
+  {
+    "file": "assets/cashline/tick-icon.png",
+    "hash": "c0c3b4f957013411ecbda7bd39d0cf2d"
+  },
+  {
+    "file": "assets/css/ios.scss",
+    "hash": "96e74d1616ff37342c612541a5c89361"
+  },
+  {
+    "file": "assets/dashboard2/akun-new.svg",
+    "hash": "ce6581140e4d83ea7e07bdf1e45e861d"
+  },
+  {
+    "file": "assets/dashboard2/akun.svg",
+    "hash": "79cef86b68b8bd60c8f7fd398e56e435"
+  },
+  {
+    "file": "assets/dashboard2/all-new.svg",
+    "hash": "55df84ebac9b8f017025a602573dcaa9"
+  },
+  {
+    "file": "assets/dashboard2/all.svg",
+    "hash": "2bf590b00eece9da9ae45dac79bce687"
+  },
+  {
+    "file": "assets/dashboard2/apply-new.svg",
+    "hash": "f2be2051e51479eedde34360412749a3"
+  },
+  {
+    "file": "assets/dashboard2/apply.svg",
+    "hash": "e0cc94790a502c9bdf387927bd005bf1"
+  },
+  {
+    "file": "assets/dashboard2/bannerleft.png",
+    "hash": "6bbad747f916d0e245bcbffdb4b42e8d"
+  },
+  {
+    "file": "assets/dashboard2/bannerright.png",
+    "hash": "441d1c1d75491337a63e6f489446fcce"
+  },
+  {
+    "file": "assets/dashboard2/bayar.svg",
+    "hash": "c6142d9d893e43f92e09c1300a669b72"
+  },
+  {
+    "file": "assets/dashboard2/beli.svg",
+    "hash": "91096851e00dd7fd68508e5a4c8f0b46"
+  },
+  {
+    "file": "assets/dashboard2/calender.png",
+    "hash": "ebdeac6cb5c5e658f02a51d475177ee4"
+  },
+  {
+    "file": "assets/dashboard2/explore.svg",
+    "hash": "f0263e3a18df00dc3de898b480d03e87"
+  },
+  {
+    "file": "assets/dashboard2/flatbanner.png",
+    "hash": "5a9ee3efc0ec652798f487fa6c0f901a"
+  },
+  {
+    "file": "assets/dashboard2/flatbannerleft.png",
+    "hash": "28970c29ac77f72692eefe7c26dbaa33"
+  },
+  {
+    "file": "assets/dashboard2/flatbannerright.png",
+    "hash": "12802b529b075b545d6d08f21dffe16f"
+  },
+  {
+    "file": "assets/dashboard2/header.png",
+    "hash": "be0711c81c10ba32fd061025c1fba8b7"
+  },
+  {
+    "file": "assets/dashboard2/headercorel2.png",
+    "hash": "ede0eac06a9babecf7f917a129c9884e"
+  },
+  {
+    "file": "assets/dashboard2/homecalender.png",
+    "hash": "cbef41ae1eadddcb314b3087ec8cfec5"
+  },
+  {
+    "file": "assets/dashboard2/homecalender.svg",
+    "hash": "292637ef7c75ca49cda30a6455189db0"
+  },
+  {
+    "file": "assets/dashboard2/infocircle.svg",
+    "hash": "e16c59fc2a61535ec1cd68ac9ab48211"
+  },
+  {
+    "file": "assets/dashboard2/infolainnya-new.svg",
+    "hash": "6268f9d1e34ad3fc2c5672ef32e09feb"
+  },
+  {
+    "file": "assets/dashboard2/infolainnya.svg",
+    "hash": "4f51d3b8d2b2ffae06a861955ae0b980"
+  },
+  {
+    "file": "assets/dashboard2/inves-new.svg",
+    "hash": "e3244ce6203b5bde34aac734a9c67967"
+  },
+  {
+    "file": "assets/dashboard2/inves.svg",
+    "hash": "3709e3bbf3c929767a62f83bf97d280d"
+  },
+  {
+    "file": "assets/dashboard2/kalender.png",
+    "hash": "b08a65d466f385bd973c713ae0d334c7"
+  },
+  {
+    "file": "assets/dashboard2/kupon.png",
+    "hash": "ffb8ac3ca4d21b5e34273a5451bf92d9"
+  },
+  {
+    "file": "assets/dashboard2/kupon.svg",
+    "hash": "c8747ecfdc37aaf2cedbc523efde5281"
+  },
+  {
+    "file": "assets/dashboard2/layanan-new.svg",
+    "hash": "e6c6b693ca6df1652674efe04fe502c2"
+  },
+  {
+    "file": "assets/dashboard2/layanan.svg",
+    "hash": "10ea9ff6562f5368b9b61dd8a1af85fa"
+  },
+  {
+    "file": "assets/dashboard2/lonceng.svg",
+    "hash": "10efcc5cf004f0e32f459670553f9537"
+  },
+  {
+    "file": "assets/dashboard2/lonceng2.png",
+    "hash": "21eb9c79e8c7149a1132c658d0c596b8"
+  },
+  {
+    "file": "assets/dashboard2/mbranch.svg",
+    "hash": "35144507c8e552cfb61f51fdfe72cfc4"
+  },
+  {
+    "file": "assets/dashboard2/megametro.jpg",
+    "hash": "c4496dd8af495b59c92a6187075d0c48"
+  },
+  {
+    "file": "assets/dashboard2/mf.jpg",
+    "hash": "983e29cfb8ff27bc748d7347ab34488d"
+  },
+  {
+    "file": "assets/dashboard2/mpc.svg",
+    "hash": "322789bc06b5ba9e8da08f3c2d6b25a2"
+  },
+  {
+    "file": "assets/dashboard2/msmile-logo-new.png",
+    "hash": "27a207a4d0149209ea3b149b4329b7fd"
+  },
+  {
+    "file": "assets/dashboard2/promo.png",
+    "hash": "d1a37c1d43204ed86872b90adaffdab8"
+  },
+  {
+    "file": "assets/dashboard2/qris.svg",
+    "hash": "2fef79e4053f9e7a3501ef72cdca0983"
+  },
+  {
+    "file": "assets/dashboard2/tarik-new.svg",
+    "hash": "e82199205bf6d6c75b563281d3b56e35"
+  },
+  {
+    "file": "assets/dashboard2/tarik.svg",
+    "hash": "013c07dd34d5c6e0fa10c0e17a58f7db"
+  },
+  {
+    "file": "assets/dashboard2/top-bg.png",
+    "hash": "af9c2fc78f65f5294d11ed73cae03f7d"
+  },
+  {
+    "file": "assets/dashboard2/topup_beli.svg",
+    "hash": "5ad074142cc65b54b92596fa078c5643"
+  },
+  {
+    "file": "assets/dashboard2/topup.svg",
+    "hash": "2e854d46ca2441730ad9dc3d322b38ee"
+  },
+  {
+    "file": "assets/dashboard2/trf.svg",
+    "hash": "79a7e70d9706b67307a7ad15c08ff567"
+  },
+  {
+    "file": "assets/dashboard2/voice.svg",
+    "hash": "b4140da4cf6fa4f3c5614371e1c91851"
+  },
+  {
+    "file": "assets/dashboard2/voice2.png",
+    "hash": "84ea0b8e403a9bcf10cce8c2d7c0ed65"
+  },
+  {
+    "file": "assets/file/cat-lottie.json",
+    "hash": "d7d69a6634382995eeba4c5235a0ff51"
+  },
+  {
+    "file": "assets/file/countries.ts",
+    "hash": "02b8174b59a6113be0b999603a249051"
+  },
+  {
+    "file": "assets/file/currencies-with-flags.ts",
+    "hash": "03ae4ea2b5973dcd9ac93ccd5d0bd104"
+  },
+  {
+    "file": "assets/file/gen-z-ai.gif",
+    "hash": "48f77abc07c8a7ef75cdf192465e16cc"
+  },
+  {
+    "file": "assets/file/gen-z-ai.mp4",
+    "hash": "53e2dd769450c06cc9a92ae6dbbd68cb"
+  },
+  {
+    "file": "assets/file/lottie-anim.json",
+    "hash": "02bf923c2bf9c293fbc8a57cdc41f6e5"
+  },
+  {
+    "file": "assets/file/lottie-anim2.json",
+    "hash": "577390299533f3014eeea538fd299ad7"
+  },
+  {
+    "file": "assets/file/pending-lottie.json",
+    "hash": "8ac4467d0f614cb95d57c97474e5c5e7"
+  },
+  {
+    "file": "assets/file/riplay-creditshield.pdf",
+    "hash": "2ae33a75bd00af762c00b8d2fbb322d8"
+  },
+  {
+    "file": "assets/file/tes-lottie.json",
+    "hash": "cdcc788ccf2618627948c51515f8cd91"
+  },
+  {
+    "file": "assets/file/tes.pdf",
+    "hash": "441b4a806af793c373d675cec174e0e6"
+  },
+  {
+    "file": "assets/fonts/dm_sans/DMSans-Medium.ttf",
+    "hash": "e7c71a71fabede4915c352ff5f2a00ce"
+  },
+  {
+    "file": "assets/fonts/dm_sans/rP2Cp2ywxg089UriASitCBamC2QX.woff2",
+    "hash": "7cde51d22170a16ad99db9e3096c8ce2"
+  },
+  {
+    "file": "assets/fonts/dm_sans/rP2Cp2ywxg089UriASitCBimCw.woff2",
+    "hash": "ca72fb4e277e59be50b8850190822581"
+  },
+  {
+    "file": "assets/fonts/dm_sans/rP2Hp2ywxg089UriCZ2IHSeH.woff2",
+    "hash": "d8cdecc881af604e33f6a2a04ec09def"
+  },
+  {
+    "file": "assets/fonts/dm_sans/rP2Hp2ywxg089UriCZOIHQ.woff2",
+    "hash": "f29503a1895affee5ed85d0246238af8"
+  },
+  {
+    "file": "assets/fonts/icon/icomoon.eot",
+    "hash": "eca0ed8daf9194a7f420c7a727a4c88e"
+  },
+  {
+    "file": "assets/fonts/icon/icomoon.svg",
+    "hash": "b094e05bb4e71e8f0888edf526bf6892"
+  },
+  {
+    "file": "assets/fonts/icon/icomoon.ttf",
+    "hash": "7828c5f6cb38b5dd1ffd4ce3767b4e1d"
+  },
+  {
+    "file": "assets/fonts/icon/icomoon.woff",
+    "hash": "79f33a80af8b1338dd391590d0a4778b"
+  },
+  {
+    "file": "assets/fonts/ionicons.eot",
+    "hash": "bdf1d30681cf87986c385eea78e8de9a"
+  },
+  {
+    "file": "assets/fonts/ionicons.scss",
+    "hash": "c1fdfabf9cbd412b444f064d27641f10"
+  },
+  {
+    "file": "assets/fonts/ionicons.svg",
+    "hash": "d9496a234c81179afbca6bf5959cc30a"
+  },
+  {
+    "file": "assets/fonts/ionicons.ttf",
+    "hash": "74c652671225d6ded874a648502e5f0a"
+  },
+  {
+    "file": "assets/fonts/ionicons.woff",
+    "hash": "81414686e99c00d2921e03dd53c0ab04"
+  },
+  {
+    "file": "assets/fonts/ionicons.woff2",
+    "hash": "311d81961c5880647fec7eaca1221b2a"
+  },
+  {
+    "file": "assets/fonts/noto-sans-bold.ttf",
+    "hash": "a165a42685795361b25593effb32fdb1"
+  },
+  {
+    "file": "assets/fonts/noto-sans-bold.woff",
+    "hash": "ce3d777f2c41cca1494021cfa3fcd72c"
+  },
+  {
+    "file": "assets/fonts/noto-sans-regular.ttf",
+    "hash": "2fd9c16b805724d590c0cff96da070a4"
+  },
+  {
+    "file": "assets/fonts/noto-sans-regular.woff",
+    "hash": "ce8ba1a4ff970db896192c41fc3c96b1"
+  },
+  {
+    "file": "assets/fonts/noto-sans.scss",
+    "hash": "47d5f7264952ccee8cead7b6dcb6d1bd"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.ttf",
+    "hash": "1f4fd7e4df65487f07ba9148f7ca095d"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.woff",
+    "hash": "43183beef21370d8a4b0d64152287eba"
+  },
+  {
+    "file": "assets/fonts/roboto-bold.woff2",
+    "hash": "28d80f43ae4cc35f19e1f1a6ab670f25"
+  },
+  {
+    "file": "assets/fonts/roboto-light.ttf",
+    "hash": "9ff15bd34ea83e4dd3f23c20c7f5090e"
+  },
+  {
+    "file": "assets/fonts/roboto-light.woff",
+    "hash": "7e2d32e7141050d758a38b4ec96390c0"
+  },
+  {
+    "file": "assets/fonts/roboto-light.woff2",
+    "hash": "a826ff848e9f52b1732fed7d154afa97"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.ttf",
+    "hash": "a937e2cae14e68262a45aa91204c2fdf"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.woff",
+    "hash": "0f3b7101a8adc1afe1fbe89775553c32"
+  },
+  {
+    "file": "assets/fonts/roboto-medium.woff2",
+    "hash": "b2c9c262e089411e20689ed393c00796"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.ttf",
+    "hash": "07f8fb6acbabeb10d3fad9ab02d65e0b"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.woff",
+    "hash": "f94d5e5102359961c44a1da1b58d37c9"
+  },
+  {
+    "file": "assets/fonts/roboto-regular.woff2",
+    "hash": "e6b9d54811307f98da62eae992ae05ba"
+  },
+  {
+    "file": "assets/fonts/roboto.scss",
+    "hash": "e7c30075bc0f0b11422bfbdb2236f9e7"
+  },
+  {
+    "file": "assets/gen-z-ai.png",
+    "hash": "df8925f8db81ca316a3fa361e8d0c3fc"
+  },
+  {
+    "file": "assets/icon/ancient-scroll.svg",
+    "hash": "dff30fcbb16236929ac570ec845ab13c"
+  },
+  {
+    "file": "assets/icon/arrow-down.png",
+    "hash": "1d63a9c461a519f545415cc1757ce55f"
+  },
+  {
+    "file": "assets/icon/arrow-forward.png",
+    "hash": "ff8183d62ad6849b7f1fab58fd86634f"
+  },
+  {
+    "file": "assets/icon/arrow-forward.svg",
+    "hash": "34ad64270469944a598e719cf9c29444"
+  },
+  {
+    "file": "assets/icon/arrow-list-item.png",
+    "hash": "a2a05b93a26780bda587c384c18eda10"
+  },
+  {
+    "file": "assets/icon/arrow-ntb.png",
+    "hash": "9f0310e0fc92d49f8c09ed918f0fe335"
+  },
+  {
+    "file": "assets/icon/banner-cc-detail.png",
+    "hash": "d07a6be364c92565fc53b0d932e639af"
+  },
+  {
+    "file": "assets/icon/banner-mmoney.jpeg",
+    "hash": "a85fe2b37cd70927657774878d07daf6"
+  },
+  {
+    "file": "assets/icon/biller/biller_data.png",
+    "hash": "9f79a07d44d4363dabd1da86dc961c0f"
+  },
+  {
+    "file": "assets/icon/biller/biller_emoney.png",
+    "hash": "53fc8a4b731c12c06384e0c34c1363f3"
+  },
+  {
+    "file": "assets/icon/biller/biller_pln.png",
+    "hash": "e0bf67d9f783163ad5c5f4b87ae4bde2"
+  },
+  {
+    "file": "assets/icon/biller/biller_pulsa.png",
+    "hash": "c55bb41f1976921d3d4d06bfb7a5e5c4"
+  },
+  {
+    "file": "assets/icon/biometrik/face.png",
+    "hash": "d161c0cef7308c3b5db8f031d5aea4f0"
+  },
+  {
+    "file": "assets/icon/biometrik/fingerprint.png",
+    "hash": "a017eff604ef2a08dac7b92b8aa029ce"
+  },
+  {
+    "file": "assets/icon/btn-login.svg",
+    "hash": "f6f96311c9642b6f187d2f3c96bb6a0a"
+  },
+  {
+    "file": "assets/icon/btn-registrasi.svg",
+    "hash": "e8e19bd78dc047826c94ffabf3e8a77c"
+  },
+  {
+    "file": "assets/icon/calendar.svg",
+    "hash": "8ac9bf08356691fcc5b200a8424d366b"
+  },
+  {
+    "file": "assets/icon/cancel-music.svg",
+    "hash": "bb93e3a2bf87cd2035f1215f4bea8aa3"
+  },
+  {
+    "file": "assets/icon/cancel.svg",
+    "hash": "a135db8fc1694ed5d859ce5e9b269d7c"
+  },
+  {
+    "file": "assets/icon/cancelNew.svg",
+    "hash": "b57ecfd17c228157a08ac1415510b0b2"
+  },
+  {
+    "file": "assets/icon/canvas_lockscreen.svg",
+    "hash": "6e1f0f5a8367f2897f168231e3b7fe2b"
+  },
+  {
+    "file": "assets/icon/canvas.svg",
+    "hash": "03dc4d3bb19990cb4707923c593ee37b"
+  },
+  {
+    "file": "assets/icon/card-add.svg",
+    "hash": "7ab23c26da3ae736ab3fe94fac261e6b"
+  },
+  {
+    "file": "assets/icon/ceklis.svg",
+    "hash": "e5acf52f0c766fe4405cabafbbfa0f58"
+  },
+  {
+    "file": "assets/icon/check-mark.svg",
+    "hash": "6b862b7407430b85e216b3f025235054"
+  },
+  {
+    "file": "assets/icon/checklist.svg",
+    "hash": "c9b0c99037db91dd8ef98989353685be"
+  },
+  {
+    "file": "assets/icon/claim-step1.svg",
+    "hash": "a3e389844b49051d01e96f5cff8f77fb"
+  },
+  {
+    "file": "assets/icon/claim-step2.svg",
+    "hash": "3434e9d5b710a738a98148d236a91028"
+  },
+  {
+    "file": "assets/icon/claim-step3.svg",
+    "hash": "1e1ec451aa83ef9db9dc39c618178bc1"
+  },
+  {
+    "file": "assets/icon/claim-step4.svg",
+    "hash": "0168666ffa6bf7f81fbe4705b87c79ba"
+  },
+  {
+    "file": "assets/icon/claim-step5.svg",
+    "hash": "483b627dd62184f3a727ca4aaeae0b3b"
+  },
+  {
+    "file": "assets/icon/claim-step6.svg",
+    "hash": "b14bd58875d84462be122e5177dc9b14"
+  },
+  {
+    "file": "assets/icon/close-circle-outline.svg",
+    "hash": "64600fb03bc924808555575e2d89c9a6"
+  },
+  {
+    "file": "assets/icon/close.svg",
+    "hash": "ec1e2dcae2cde50ec64da3eb2dfec1af"
+  },
+  {
+    "file": "assets/icon/color/add-card.svg",
+    "hash": "27e50344b8f2a66d2eb94a5da49b6281"
+  },
+  {
+    "file": "assets/icon/color/add-user.svg",
+    "hash": "a81d6318aa8e951917e587d856e92452"
+  },
+  {
+    "file": "assets/icon/color/atm_idr.svg",
+    "hash": "1a8129d89a2abcd422a9ece4370e998c"
+  },
+  {
+    "file": "assets/icon/color/bank-account_idr.svg",
+    "hash": "a6716092f186f95acea1a5266e5dc9d5"
+  },
+  {
+    "file": "assets/icon/color/bar-chart.svg",
+    "hash": "2cd0fc2f7012c7619ef72a8b0c51228d"
+  },
+  {
+    "file": "assets/icon/color/bill_.svg",
+    "hash": "8b78a727857f740b96e6072b02f93dc0"
+  },
+  {
+    "file": "assets/icon/color/bill_idr.svg",
+    "hash": "b0c6b2a5b453a278b02ace341212f1ea"
+  },
+  {
+    "file": "assets/icon/color/c-card.svg",
+    "hash": "bed546186eef5dfacd4bd451e22707cc"
+  },
+  {
+    "file": "assets/icon/color/calculator.svg",
+    "hash": "3f897c7969e169893bc6958b41d0e200"
+  },
+  {
+    "file": "assets/icon/color/cart.svg",
+    "hash": "93b08c72d46cdf831476f13475dc6c8e"
+  },
+  {
+    "file": "assets/icon/color/chat.svg",
+    "hash": "a8ad14ee050c579f76af2751919e8d10"
+  },
+  {
+    "file": "assets/icon/color/credit-card.svg",
+    "hash": "b45bec4e70a959644fefbe117628f948"
+  },
+  {
+    "file": "assets/icon/color/d-card.svg",
+    "hash": "551dcc0a25a0de0feaa6a8195eca3e84"
+  },
+  {
+    "file": "assets/icon/color/debit-card.svg",
+    "hash": "4ea9666d5521ec82caa2a9869202707e"
+  },
+  {
+    "file": "assets/icon/color/discount.svg",
+    "hash": "0cfb6db4ed36f76bc7693ee111889cf3"
+  },
+  {
+    "file": "assets/icon/color/history.svg",
+    "hash": "f2e91ad0b05e3f609537e3a1fd0e315a"
+  },
+  {
+    "file": "assets/icon/color/home.svg",
+    "hash": "7af20470f85bf1ad733bfeb8d0ce3037"
+  },
+  {
+    "file": "assets/icon/color/icon_call.svg",
+    "hash": "d4e2b70db8776df4c389181538541685"
+  },
+  {
+    "file": "assets/icon/color/icon_kartu_kredit.svg",
+    "hash": "ed20677ac8ae1dbd272b23da11ae015a"
+  },
+  {
+    "file": "assets/icon/color/icon_kecelakaan.svg",
+    "hash": "949ff7f21464ef89aa3a21a050491774"
+  },
+  {
+    "file": "assets/icon/color/icon_kesehatan.svg",
+    "hash": "0bdc7713f1694062eb8c927b7de657f9"
+  },
+  {
+    "file": "assets/icon/color/icon_qr.svg",
+    "hash": "737ee68b7a7e448a80192b86cb5dba96"
+  },
+  {
+    "file": "assets/icon/color/icon_task.svg",
+    "hash": "49dc130004bada0ba3a2f0e86d11db55"
+  },
+  {
+    "file": "assets/icon/color/icon-mega.svg",
+    "hash": "7d86c6e7c37fc8d7c9d3509cc22ac753"
+  },
+  {
+    "file": "assets/icon/color/increased-revenue_idr.svg",
+    "hash": "3b8d94318dc0fb9d458701742c66f77e"
+  },
+  {
+    "file": "assets/icon/color/invoice_idr.svg",
+    "hash": "d2f2783149be6185821ca6f596bce549"
+  },
+  {
+    "file": "assets/icon/color/key.svg",
+    "hash": "b0805e34a8f08f1db578732f77c901f8"
+  },
+  {
+    "file": "assets/icon/color/log-in.svg",
+    "hash": "47590da81dd308d08c70c71aea112046"
+  },
+  {
+    "file": "assets/icon/color/log-out.svg",
+    "hash": "8f555bef4d503485e9ca15b86f2409ed"
+  },
+  {
+    "file": "assets/icon/color/mccm.svg",
+    "hash": "024ae5ba49c800da3d19983687628f4f"
+  },
+  {
+    "file": "assets/icon/color/nfc.svg",
+    "hash": "17480361618032dbc55ac5bf4fad54c3"
+  },
+  {
+    "file": "assets/icon/color/passcode.svg",
+    "hash": "066e87112b5934214cbacadeee740252"
+  },
+  {
+    "file": "assets/icon/color/pdf.svg",
+    "hash": "7d7b22ee63b0485a61b9af1ff8d57593"
+  },
+  {
+    "file": "assets/icon/color/placeholder.svg",
+    "hash": "54a4538c5a101905837ec8b7c39cab71"
+  },
+  {
+    "file": "assets/icon/color/plus.svg",
+    "hash": "4dcfaef3efc478f4c9fd3347ed4e2787"
+  },
+  {
+    "file": "assets/icon/color/question.svg",
+    "hash": "55f2df943c482e7442bf9e00b3acaeb1"
+  },
+  {
+    "file": "assets/icon/color/receipt_idr.svg",
+    "hash": "1047c918f474ea6277e85dc74fca511e"
+  },
+  {
+    "file": "assets/icon/color/ref.svg",
+    "hash": "65b5759703166046aacd4c10dd2d8704"
+  },
+  {
+    "file": "assets/icon/color/secure-trx.svg",
+    "hash": "5682c0ec0d1a5ec2edf81721d559f09d"
+  },
+  {
+    "file": "assets/icon/color/shield.svg",
+    "hash": "0c847f5573322e1b9c8d43a67e9267df"
+  },
+  {
+    "file": "assets/icon/color/transfer_idr.svg",
+    "hash": "7b2f6c689e456ac7dc9ef4f1497aa5f7"
+  },
+  {
+    "file": "assets/icon/color/transference.svg",
+    "hash": "a868c752a09895adf99c5f8879baf191"
+  },
+  {
+    "file": "assets/icon/color/wallet.svg",
+    "hash": "e7a76553f20e0426766d24be65cd670a"
+  },
+  {
+    "file": "assets/icon/color/walletplus.svg",
+    "hash": "49421980f5f2df9605ef87ce1a091242"
+  },
+  {
+    "file": "assets/icon/contacts.svg",
+    "hash": "67d243710b5102e3b4f21724fa1e2d6d"
+  },
+  {
+    "file": "assets/icon/create-outline.svg",
+    "hash": "ddbbfa50d820699b32d11ae56ee03955"
+  },
+  {
+    "file": "assets/icon/credit-shield-plus.png",
+    "hash": "8b2def68c7f9b91606aa0f6b3f7b718f"
+  },
+  {
+    "file": "assets/icon/credit-shield-plus2.png",
+    "hash": "4c1c573d0abac6c90e7904bb8ad41c3e"
+  },
+  {
+    "file": "assets/icon/cvv.png",
+    "hash": "224aa8f25f4d273ec60e74583a064ca9"
+  },
+  {
+    "file": "assets/icon/cvv.svg",
+    "hash": "c6d99a56897511ca967d17d6f7549654"
+  },
+  {
+    "file": "assets/icon/default.png",
+    "hash": "51b374608c40aef3036db38544cdcdb9"
+  },
+  {
+    "file": "assets/icon/delete.svg",
+    "hash": "ba88e569655e96c50f7b334307f6aa27"
+  },
+  {
+    "file": "assets/icon/deposito.svg",
+    "hash": "2f03d651007e831165958d8218d1ceb0"
+  },
+  {
+    "file": "assets/icon/donasi.svg",
+    "hash": "6282b257485afd6d68c83a32cb7b6c90"
+  },
+  {
+    "file": "assets/icon/doubleup.svg",
+    "hash": "9b04909127146fabdd00df2477dfa432"
+  },
+  {
+    "file": "assets/icon/email_verified.svg",
+    "hash": "6041e3708399434b547c55cd3329c675"
+  },
+  {
+    "file": "assets/icon/email.svg",
+    "hash": "122c6ff10464ea1aa228d5a564123177"
+  },
+  {
+    "file": "assets/icon/face.svg",
+    "hash": "0b186effb41b3baee90f8309fa9a351b"
+  },
+  {
+    "file": "assets/icon/failed.svg",
+    "hash": "14d91afc3fe789f162ec6e299ea97a54"
+  },
+  {
+    "file": "assets/icon/favicon.ico",
+    "hash": "0350f4b3a2067110b1e642ee5931a38a"
+  },
+  {
+    "file": "assets/icon/favlist.svg",
+    "hash": "bae8d2bd10e214363991c58dca3efcbc"
+  },
+  {
+    "file": "assets/icon/fbColor.svg",
+    "hash": "dce3111d4b2650532f5bca14ac0f9d9e"
+  },
+  {
+    "file": "assets/icon/filter-promo.png",
+    "hash": "634133c0dcb59e1247e56f877938130d"
+  },
+  {
+    "file": "assets/icon/filter-promo.svg",
+    "hash": "33e9b78b1f3340053e8183897d1da5dd"
+  },
+  {
+    "file": "assets/icon/filter.svg",
+    "hash": "48ce69069e5a250abaad7268d181eebc"
+  },
+  {
+    "file": "assets/icon/focus.svg",
+    "hash": "6d70a77fa6bf459587c12b3678d91197"
+  },
+  {
+    "file": "assets/icon/focusCard.svg",
+    "hash": "4ce61b2fa61f01923cf2de96a9cb30d8"
+  },
+  {
+    "file": "assets/icon/focusCardWhite.svg",
+    "hash": "2894e41029a9ae805c24520a554d31ec"
+  },
+  {
+    "file": "assets/icon/fotoFocus.svg",
+    "hash": "5a9e4da4200cad21b65739faf34b02c2"
+  },
+  {
+    "file": "assets/icon/fotoIdCard.svg",
+    "hash": "3917aab3f7ee3b28563282dca1d8f84d"
+  },
+  {
+    "file": "assets/icon/fotoSelfie.svg",
+    "hash": "97dd59fd9be02ca844ad48960edcbc52"
+  },
+  {
+    "file": "assets/icon/frame_scan_2.png",
+    "hash": "94a43fe84c0e98e681fce1b3c957c0d0"
+  },
+  {
+    "file": "assets/icon/frame_scan.png",
+    "hash": "c1892c7124c84f3b7b2c8b217dd958df"
+  },
+  {
+    "file": "assets/icon/frame_scan3.svg",
+    "hash": "4d45873fc43e085e2855706823fc81e5"
+  },
+  {
+    "file": "assets/icon/frame_scan4.png",
+    "hash": "f732a82fd3d09e62b57deda00a35866d"
+  },
+  {
+    "file": "assets/icon/generate-paymentqr.svg",
+    "hash": "1ff5df29337e5f67107854e18f773e40"
+  },
+  {
+    "file": "assets/icon/generate-setortunaiqr.svg",
+    "hash": "9f58dabbe031ce909e39a2e64195a38b"
+  },
+  {
+    "file": "assets/icon/generate-transferqr.svg",
+    "hash": "d65f42c5b05024eb5ca124f3b5898d29"
+  },
+  {
+    "file": "assets/icon/history.svg",
+    "hash": "bace974540a0aa4e42fee562505b23d4"
+  },
+  {
+    "file": "assets/icon/holdphone.png",
+    "hash": "9b27d873f549d097f54c697b112c54c4"
+  },
+  {
+    "file": "assets/icon/icon-back.svg",
+    "hash": "6234add5a9646268424ab7ba4fcfa143"
+  },
+  {
+    "file": "assets/icon/icon-cert.svg",
+    "hash": "d986878801fa1a8209d47d74ff8de240"
+  },
+  {
+    "file": "assets/icon/icon-home-time.png",
+    "hash": "f2cbfe8c8aa982cfa232824031e37f94"
+  },
+  {
+    "file": "assets/icon/icon-no-cc.svg",
+    "hash": "94b489327facac5cda32b2720b3285a6"
+  },
+  {
+    "file": "assets/icon/icon-not-eligible.svg",
+    "hash": "60eb79f7855f98056a8ac8fac880b45e"
+  },
+  {
+    "file": "assets/icon/icon-on-process.svg",
+    "hash": "490e558c8fb2c3c87a574bc0ff74efcc"
+  },
+  {
+    "file": "assets/icon/IgColor.svg",
+    "hash": "c15b915284e0eb6ace7fd850ec809fe2"
+  },
+  {
+    "file": "assets/icon/lamp-idea.png",
+    "hash": "24ed3be3f0747fd5154e41b9023eaa02"
+  },
+  {
+    "file": "assets/icon/layanan_icon/atur_jenis_transaksi.svg",
+    "hash": "22e6d27161cf2cf6d44883223833864a"
+  },
+  {
+    "file": "assets/icon/layanan_icon/atur_limit.svg",
+    "hash": "6c3c241778cac01e5e438e2025aa4bdf"
+  },
+  {
+    "file": "assets/icon/layanan_icon/blokir_kartu_debit.svg",
+    "hash": "66eaebc34701060339a54c1a1a6808f3"
+  },
+  {
+    "file": "assets/icon/layanan_icon/blokir_kartu.svg",
+    "hash": "66eaebc34701060339a54c1a1a6808f3"
+  },
+  {
+    "file": "assets/icon/layanan_icon/daftar_suplemen.svg",
+    "hash": "a18836bfb53ce37cd0b42eb1f8f30c16"
+  },
+  {
+    "file": "assets/icon/layanan_icon/delivery_tracking.svg",
+    "hash": "9e8b351ccc89053ca752202a4c809fa0"
+  },
+  {
+    "file": "assets/icon/layanan_icon/kenaikan_limit.png",
+    "hash": "9fa17347a59259408f0025030febf65c"
+  },
+  {
+    "file": "assets/icon/layanan_icon/kenaikan_limit.svg",
+    "hash": "b91b841ad30818000992dc8acba4023a"
+  },
+  {
+    "file": "assets/icon/layanan_icon/loc.svg",
+    "hash": "178847835a190b91a3f22a02019daecc"
+  },
+  {
+    "file": "assets/icon/layanan_icon/pendaftaran_asuransi.svg",
+    "hash": "83ef82257ea921fa83a8c0255ddf1ef0"
+  },
+  {
+    "file": "assets/icon/layanan_icon/pendaftaran_megabill.svg",
+    "hash": "48af5ddc46dfb13946e6b15c0d9edb66"
+  },
+  {
+    "file": "assets/icon/layanan_icon/perubahan_data.svg",
+    "hash": "17f3eabde2c5479c3a920c1b6fdc2b6a"
+  },
+  {
+    "file": "assets/icon/layanan_icon/split_bill.svg",
+    "hash": "5a2a2dba585941bc11353edbc3404beb"
+  },
+  {
+    "file": "assets/icon/layanan_icon/status_transaksi.svg",
+    "hash": "3708b31d822bf4556fdd64d0fe7ca451"
+  },
+  {
+    "file": "assets/icon/layanan_icon/transaksi_terjadwal.svg",
+    "hash": "745c575ef957c8eb946a33bb98ea086c"
+  },
+  {
+    "file": "assets/icon/layanan_icon/ubah_cicilan.svg",
+    "hash": "a7d5a03aa801bc96d3db8483402dd73b"
+  },
+  {
+    "file": "assets/icon/layanan_icon/ubah_pin.svg",
+    "hash": "78d08df6ca8c67d2e40dc46fd0fbb3bc"
+  },
+  {
+    "file": "assets/icon/left-arrow.svg",
+    "hash": "6c9efe0c8c1fb630cd48d0381ece4297"
+  },
+  {
+    "file": "assets/icon/milea_new.png",
+    "hash": "7c5f7ef8f6968d704bac384b19599f14"
+  },
+  {
+    "file": "assets/icon/milea.png",
+    "hash": "187948f79cf13f2d36d21ca5d5047ce4"
+  },
+  {
+    "file": "assets/icon/milea.svg",
+    "hash": "c37dd44c0a3f9885f28bd3e9d66b04f0"
+  },
+  {
+    "file": "assets/icon/more_menu.jpg",
+    "hash": "60d5ef8a3ffd7c26950826005a690e6b"
+  },
+  {
+    "file": "assets/icon/more_menu.svg",
+    "hash": "ec3bdee03d5bdab35f4524e1ae521a8d"
+  },
+  {
+    "file": "assets/icon/new_struk/bgimage.jpeg",
+    "hash": "fdd19db42dde109d8f43f17b5ac44969"
+  },
+  {
+    "file": "assets/icon/new_struk/bgimage.png",
+    "hash": "ff983c7b9575e8c0089ca37fe7a62e43"
+  },
+  {
+    "file": "assets/icon/new_struk/bgimage.svg",
+    "hash": "d70406e0bdfc2918de03586ce16afa60"
+  },
+  {
+    "file": "assets/icon/new_struk/ceklis.svg",
+    "hash": "45c6f256bcd8c12763421f74a90f19e3"
+  },
+  {
+    "file": "assets/icon/new_struk/closeBtn.svg",
+    "hash": "1b94fbe686b2d0ac0b15ddabb063566a"
+  },
+  {
+    "file": "assets/icon/new_struk/pending.svg",
+    "hash": "8259a7794a6bf27be682fdda2fb2308f"
+  },
+  {
+    "file": "assets/icon/new_struk/share.svg",
+    "hash": "d189c1173d26e6dad64c55b2794821b1"
+  },
+  {
+    "file": "assets/icon/new_struk/split.svg",
+    "hash": "93627a8ba8e199dbfa3945d8fdb4a147"
+  },
+  {
+    "file": "assets/icon/new_struk/star.svg",
+    "hash": "a1f7f9072ee0e86becb85754a5f037be"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/apply-cc.svg",
+    "hash": "421fee1df78e00d25a8014ebe283df90"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/apply-deposito.svg",
+    "hash": "4a936de1cf03aaf7cb1e3a6b61d8ba5e"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/apply-mmoney.svg",
+    "hash": "53e6e9c4a0acaa70807fe71dbf8b7f56"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/apply-obligasi.svg",
+    "hash": "dc8fa15a1edcb233b96274089d031b7b"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/apply-reksadana.svg",
+    "hash": "6b8781bb042dda0f08917064b622b342"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/apply-tabungan.svg",
+    "hash": "b3dd6f417a5efa36427b3cb46a527256"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/circle-bg.png",
+    "hash": "045927e7a380310a59b83e22101f99ee"
+  },
+  {
+    "file": "assets/icon/newDesain/APPLY/circle.png",
+    "hash": "962dc9ad7eb71a48223003fccd46de36"
+  },
+  {
+    "file": "assets/icon/newDesain/AUTO-DEBIT/AIR.png",
+    "hash": "21f940d2550a8665b6c3fb965acaca47"
+  },
+  {
+    "file": "assets/icon/newDesain/AUTO-DEBIT/ASURANSI.png",
+    "hash": "bb7b6f14c4a157af9eeb94514e102c22"
+  },
+  {
+    "file": "assets/icon/newDesain/AUTO-DEBIT/HP.png",
+    "hash": "5b8b7860195b5dd79ff76a73e019018c"
+  },
+  {
+    "file": "assets/icon/newDesain/AUTO-DEBIT/INTERNET.png",
+    "hash": "41315c9e4b98d290803f440d585bbee3"
+  },
+  {
+    "file": "assets/icon/newDesain/AUTO-DEBIT/LISTRIK.png",
+    "hash": "c2f5fd1a741e629bc8a872f4c9449a25"
+  },
+  {
+    "file": "assets/icon/newDesain/BANTUAN/FB.png",
+    "hash": "57b703a3bb567a873108b50a81f91170"
+  },
+  {
+    "file": "assets/icon/newDesain/BANTUAN/IG.png",
+    "hash": "880f884a656b5177ed4bd4ba5bbd764a"
+  },
+  {
+    "file": "assets/icon/newDesain/BANTUAN/MEGACALL.png",
+    "hash": "c02667118c9fcdbfd5d779b30dde457f"
+  },
+  {
+    "file": "assets/icon/newDesain/BANTUAN/MILEA.png",
+    "hash": "486c6706c029e876f8c747f218556012"
+  },
+  {
+    "file": "assets/icon/newDesain/BANTUAN/TWITTER.png",
+    "hash": "9156b1c2e00f51e3b1a45208846698e7"
+  },
+  {
+    "file": "assets/icon/newDesain/BANTUAN/YOUTUBE.png",
+    "hash": "553f5527ec702056e2fe5200d24b1a1a"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/AIR.png",
+    "hash": "21f940d2550a8665b6c3fb965acaca47"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/ANGSURAN.png",
+    "hash": "abf633a7c6ad4fbbe11cb22cbebb5147"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/BAYAR LISTRIK.png",
+    "hash": "c2f5fd1a741e629bc8a872f4c9449a25"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/BAYAR PULSA.png",
+    "hash": "d230932d483d5449e7dd5283f8a6bb5d"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/ECOMMERCE.png",
+    "hash": "acd14da206d2d8861d96d4a7d357a12a"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/INTERNET.png",
+    "hash": "41315c9e4b98d290803f440d585bbee3"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/KARTU KREDIT.png",
+    "hash": "3b12200596d1b31c2c045f8a954763e9"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/PINJAMAN.png",
+    "hash": "d6dc45632fcdda02850f82322529731b"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/split bill-keluar.svg",
+    "hash": "2446e89f08a9f0a46f8077cb375185b7"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/split bill-masuk.svg",
+    "hash": "7798b6502441f678b4cf0adb5428d098"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/TIKET.png",
+    "hash": "f0ddd61b7a4280088d203ddaeefa6a43"
+  },
+  {
+    "file": "assets/icon/newDesain/BAYAR/TV BERBAYAR.png",
+    "hash": "bb7b6f14c4a157af9eeb94514e102c22"
+  },
+  {
+    "file": "assets/icon/newDesain/BELI/games.svg",
+    "hash": "02c62af859e3214662f1a9cf3351ae84"
+  },
+  {
+    "file": "assets/icon/newDesain/BELI/LISTRIK.png",
+    "hash": "6f719c5f164bbcd83e2f5e0404521600"
+  },
+  {
+    "file": "assets/icon/newDesain/BELI/PAKET DATA.png",
+    "hash": "9aee0d4c0b1dff40c783cfd62e5a2ab4"
+  },
+  {
+    "file": "assets/icon/newDesain/BELI/PULSA.png",
+    "hash": "49c5309c3a53d4de2b9f01d23044e7b7"
+  },
+  {
+    "file": "assets/icon/newDesain/BELI/voucher_game.svg",
+    "hash": "52ba3b90de240301276db0c4e2e0b964"
+  },
+  {
+    "file": "assets/icon/newDesain/BELI/voucher_stream.svg",
+    "hash": "2211558e556c2b3ebfb7a9b3065e4108"
+  },
+  {
+    "file": "assets/icon/newDesain/BELI/voucher.svg",
+    "hash": "3673098d52e8bac914cf570762e53758"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/apply_inbox_logo.png",
+    "hash": "3a184857cda1fbd91a50acb480ba2d9a"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/BAYAR.png",
+    "hash": "88b0597993ed684423bbd03f0ee0d3eb"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/BELI.png",
+    "hash": "41bd04f2e979e48844547c324893fffb"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/QR.png",
+    "hash": "e5b7fdb19aa6895fd0813860aee4c5cd"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/revamp/apply.svg",
+    "hash": "3e76aca145bcbd287999ceaf8c58014a"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/revamp/bayar.svg",
+    "hash": "cad3c728ad6026535819dfc2b3e9ab34"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/revamp/investasi.svg",
+    "hash": "421bde8b049b36a75ff023a1604e4920"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/revamp/qr.svg",
+    "hash": "23c26f33f6488850428239966660bb37"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/revamp/splitbill.svg",
+    "hash": "ec978ad61b18b12fb34db25e8ae54c35"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/revamp/topup.svg",
+    "hash": "e8070f658552a47dc05d6c0825bf04ee"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/revamp/transfer.svg",
+    "hash": "b1af0944e355e169feb9c668dd94ed41"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/TARIK TUNAI.png",
+    "hash": "1549850cb3a5c773e16487fb8566fb25"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/TOPUP.png",
+    "hash": "d7c182d7adaea542e2441918a2e82cf6"
+  },
+  {
+    "file": "assets/icon/newDesain/INBOX/TRANSFER.png",
+    "hash": "e65073d27b6c27cc482892a8fd3d0b9f"
+  },
+  {
+    "file": "assets/icon/newDesain/INFO LAINNYA/LOKASI CABANG.png",
+    "hash": "81443bd4264d4774be10487de917b525"
+  },
+  {
+    "file": "assets/icon/newDesain/INFO LAINNYA/SUKU BUNGA.png",
+    "hash": "9ff3c22eab7700360358bad08598edea"
+  },
+  {
+    "file": "assets/icon/newDesain/INFO LAINNYA/VALUTA ASING.png",
+    "hash": "2aa656feb32c302d4bc6f4a4e9e392ef"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/ASURANSI KARTU KREDIT.png",
+    "hash": "3b7e7c2d9ec822d228012ca5ec83e5c9"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/ATUR JENIS TRANSAKSI.png",
+    "hash": "a58f42aa4ba38e428affe188999ed476"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/ATUR LIMIT.png",
+    "hash": "e1f37f3bfb5fb0a049dbe216e97b386f"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/AUTO DEBIT.png",
+    "hash": "a68fa0c29044ae481a39901a1920ac34"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/BLOCK KARTU DEBIT.png",
+    "hash": "4a39ab82f4dc845b850b1ac15e26755f"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/BLOKIR KARTU KREDIT.png",
+    "hash": "d9a078e788988c8e73034c5079a9db03"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/KENAIKAN LIMIT.png",
+    "hash": "9fa17347a59259408f0025030febf65c"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/LOAN ON CARD.png",
+    "hash": "5f02b617a01d90071e42d63b6c857be3"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/MEGABILL.png",
+    "hash": "d962e390a37e195a10e47a9b85a8e77f"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/MEGAPAY.png",
+    "hash": "f8829b59a23de7386a82d7986e8b496a"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN KARTU KREDIT/TRANSAKSI TERJADWAL.png",
+    "hash": "6a9c1c6ccd872291b4c5b93c59ec7436"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN LAINNYA/DELIVERY TRACKING.png",
+    "hash": "2b74d5b3156b89bd7d9d3fc141ed0e40"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN LAINNYA/split bill-keluar.svg",
+    "hash": "2446e89f08a9f0a46f8077cb375185b7"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN LAINNYA/split bill-masuk.svg",
+    "hash": "7798b6502441f678b4cf0adb5428d098"
+  },
+  {
+    "file": "assets/icon/newDesain/LAYANAN LAINNYA/SPLITBILL.svg",
+    "hash": "fbd466847b6eccce5e52a12b94afc414"
+  },
+  {
+    "file": "assets/icon/newDesain/M-APPLY/DEPOSITO.png",
+    "hash": "ad2ecdb31dfac345d19a25a6ca16a307"
+  },
+  {
+    "file": "assets/icon/newDesain/M-APPLY/KARTU KREDIT.png",
+    "hash": "e0a93a94e6dfd13102fde7c1cfba42b3"
+  },
+  {
+    "file": "assets/icon/newDesain/M-APPLY/MMONEY.png",
+    "hash": "839c70e99a60cebf20b65ec72045c9a8"
+  },
+  {
+    "file": "assets/icon/newDesain/M-APPLY/TABUNGAN.png",
+    "hash": "ef6b6d4a93a00e96ac1ac2914196ab40"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/atur-akun.svg",
+    "hash": "db79c109473cd922274f3840e59a413a"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/atur-favorit.svg",
+    "hash": "4b118381c527c0aa7c87e3c79b4c678b"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/atur-notifikasi.svg",
+    "hash": "064e4f3702356fe3af087b7f66523806"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/faceId.svg",
+    "hash": "9e27313981ee67e9b5b1b307564af577"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/fingerprint.svg",
+    "hash": "4271c6417f1a3bf43864121463ce7048"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/GANTI BAHASA.png",
+    "hash": "73a89d4fa31da0c3cf3c76e08d5e59c9"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/GANTI FAVORIT.png",
+    "hash": "82d525a94488181d8050039fff725059"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/GANTI PASSWORD.png",
+    "hash": "4dd5d953efd3d1ddcf9c9b0e9955fc39"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/GANTI PIN.png",
+    "hash": "9089063952af8bfe20329b3010c7fcb4"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/GANTI SUMBER DANA.png",
+    "hash": "64b3b66d157d282fcce660b2ef8a91ae"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/hapusAkun.svg",
+    "hash": "61d2b6371cfb740f5284f7c18d3acb19"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/logout.svg",
+    "hash": "7ad9e0e854b79c0efac0c1fa96185a6b"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/Lupa-MPIN.svg",
+    "hash": "07c79296bb05c15b517cfc4f662917d5"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/lupaMpin.svg",
+    "hash": "b6238b77c16ccb190fb0610c073a1428"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/m-pin.svg",
+    "hash": "a302ca2b5dfd984334ba0e3c83f712f2"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/transaksi-terjadwal.svg",
+    "hash": "c2ed506d0bffff37fce4b1ce11fc7fbf"
+  },
+  {
+    "file": "assets/icon/newDesain/PENGATURAN/ubah-password.svg",
+    "hash": "7df0b96113d8a1737b97e4bc439f6ea3"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_cc.jpg",
+    "hash": "1fa405c0ee4699761fe47ad2c7ed090b"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_cc.svg",
+    "hash": "a378d28f223e31a933b5f6502993b03a"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_debit.jpg",
+    "hash": "780a5000d358604c5cac6d9f90576dda"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_debit.svg",
+    "hash": "b5e2e42b1df316396113cab159f428d3"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_email_done.svg",
+    "hash": "f61dd531cd1dcc86eca0f727f0ad0a26"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_email.svg",
+    "hash": "fe388ba2fdca44184520f47b6bc74e5a"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_giro.jpg",
+    "hash": "44cbbcee0fc996ca680adf7d96181507"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_giro.svg",
+    "hash": "165f25d5df5cf80ab1544f280a42cf60"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_mmoney.jpg",
+    "hash": "2427a1d2c096a705bdd7cad6f38b696f"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new_mmoney.svg",
+    "hash": "034eee3220f655b9ef7f0bb61ebfb2d7"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/info_circle.png",
+    "hash": "66dba6ecda7960718263e7caa6d7b4bf"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/new_cc.svg",
+    "hash": "e5b5e43339def1b691f49d5b9b3f9967"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/new_debit.png",
+    "hash": "afba975984810264c1b943f536620f13"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/new_debit.svg",
+    "hash": "cac50d04f9bdba9bf8194bcaed100af0"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/new_giro.svg",
+    "hash": "83cea4df48f9521176afe0d9a2c87e0f"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/new_mmoney.svg",
+    "hash": "554f60f21b0db465696415fdb8ba8587"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/seen.svg",
+    "hash": "0887bbc76a3a92ca0b0c46b081bd8949"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/send_email.png",
+    "hash": "bd14080e59402f940968fbfc64b80df4"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/unseen.svg",
+    "hash": "e61b8586c3c78c4274eda2e18b2382e9"
+  },
+  {
+    "file": "assets/icon/newDesain/REGISTRASI/new/verifikasi_sukses.png",
+    "hash": "b80b71cd35ddd6867c8014d9c6dc8929"
+  },
+  {
+    "file": "assets/icon/newDesain/TOPUP/M_MONEY GOPAY.png",
+    "hash": "8f3acf9a51ec79c8f5902d99ee9792ac"
+  },
+  {
+    "file": "assets/icon/newDesain/TOPUP/M_MONEY.png",
+    "hash": "212629e9d75cb496e0233feeab1ed96a"
+  },
+  {
+    "file": "assets/icon/newDesain/TOPUP/OVO.png",
+    "hash": "c7bb05af8a23f6f89de37a25fd97637c"
+  },
+  {
+    "file": "assets/icon/no-card.svg",
+    "hash": "3ef6f9bf758a7477c43154f7ea20de42"
+  },
+  {
+    "file": "assets/icon/notice.svg",
+    "hash": "fca01d3aab10435a254928fdda8a6425"
+  },
+  {
+    "file": "assets/icon/notif-banner.svg",
+    "hash": "0ce80d7cc06572369dd7a4a203326a03"
+  },
+  {
+    "file": "assets/icon/notif-fail.svg",
+    "hash": "03a758cb7e4d4ef8d2ad53adafd91a7f"
+  },
+  {
+    "file": "assets/icon/notif-succes.svg",
+    "hash": "b05e554523f238f1f8c6a38480f322ae"
+  },
+  {
+    "file": "assets/icon/number-circle.png",
+    "hash": "33f71e6039ea369daf4375bc4f3a0c5f"
+  },
+  {
+    "file": "assets/icon/onBoardFile.svg",
+    "hash": "bc9986c7016bf4740a63053d65803685"
+  },
+  {
+    "file": "assets/icon/onBoardFileCheck.svg",
+    "hash": "0ffdfb7f625631af83a2245116c9b3c2"
+  },
+  {
+    "file": "assets/icon/operator/axis.png",
+    "hash": "31553c8a04aa209e9033c7df861be1d8"
+  },
+  {
+    "file": "assets/icon/operator/indosat.png",
+    "hash": "18bd7dc7590157e3a856914eb0f38e4b"
+  },
+  {
+    "file": "assets/icon/operator/smartfren.png",
+    "hash": "b0f919ac068f54bc1f9dbf33c574ec38"
+  },
+  {
+    "file": "assets/icon/operator/telkomsel.png",
+    "hash": "2f83910cf054a2d5eac1487eccbeb041"
+  },
+  {
+    "file": "assets/icon/operator/three.png",
+    "hash": "43e4ab9f62a44a95fef3807b9732c44c"
+  },
+  {
+    "file": "assets/icon/operator/v2/axis.png",
+    "hash": "74fc3b780f09c8ad7f8b5502a1e7936e"
+  },
+  {
+    "file": "assets/icon/operator/v2/im3.png",
+    "hash": "38a6975db43cda55d565b9c3de986622"
+  },
+  {
+    "file": "assets/icon/operator/v2/smartfren.png",
+    "hash": "006832f94c6e20933451e28dd44ed04a"
+  },
+  {
+    "file": "assets/icon/operator/v2/telkomsel.png",
+    "hash": "dba4cfd5606d754cf5088d08bd89fbbd"
+  },
+  {
+    "file": "assets/icon/operator/v2/tri.png",
+    "hash": "eadd907bdd255bbb28ad59a6f408bb7c"
+  },
+  {
+    "file": "assets/icon/operator/v2/xl.png",
+    "hash": "e280ccee8bf7bb5c044d686672335a9e"
+  },
+  {
+    "file": "assets/icon/operator/xl.png",
+    "hash": "3d7c00ffb0d5823ab843bee140749ad3"
+  },
+  {
+    "file": "assets/icon/pdf.svg",
+    "hash": "9c14ffc2bda7ef57dc0724657474eb7e"
+  },
+  {
+    "file": "assets/icon/phone-book.svg",
+    "hash": "e2934ab8a49a0d62d3e1c67055755231"
+  },
+  {
+    "file": "assets/icon/phone-error.svg",
+    "hash": "04d94a1cc83c05dc086e38f8f12ec959"
+  },
+  {
+    "file": "assets/icon/phone.png",
+    "hash": "b48c7b29da592ad5fab7cb33357494bd"
+  },
+  {
+    "file": "assets/icon/phoneColor.svg",
+    "hash": "294e3cf02b2062622d6fefcd95c5b4c6"
+  },
+  {
+    "file": "assets/icon/photo-camera-white.svg",
+    "hash": "81ae6403dadaa2e7e0617e5662e34ae5"
+  },
+  {
+    "file": "assets/icon/photo-camera.svg",
+    "hash": "b98a7d01d44a1157e247e2c165e61da5"
+  },
+  {
+    "file": "assets/icon/poin/homeCircle.svg",
+    "hash": "7ff6a9727eaeca653ee57d48265e8152"
+  },
+  {
+    "file": "assets/icon/poin/information.png",
+    "hash": "65211e4aee4064edd5aee701c6dc27d5"
+  },
+  {
+    "file": "assets/icon/point-green.png",
+    "hash": "9bff75876f705da762b7e752e80f82c1"
+  },
+  {
+    "file": "assets/icon/print-card-logo.svg",
+    "hash": "747231dd0a921262a8d28f2aa9dc5c8a"
+  },
+  {
+    "file": "assets/icon/qr-code.svg",
+    "hash": "8e8e39effa9f5cd75a4601920ac97ca0"
+  },
+  {
+    "file": "assets/icon/qris_logo.png",
+    "hash": "ce8125af4f625f652360eca956a39007"
+  },
+  {
+    "file": "assets/icon/qris_logoall.jpg",
+    "hash": "433440875011eae8763e299aebc9489c"
+  },
+  {
+    "file": "assets/icon/qrislogo-green.png",
+    "hash": "94c3375d22e5bb52e0e5ba835920a7e5"
+  },
+  {
+    "file": "assets/icon/receipt.svg",
+    "hash": "18b2c7b2d1bcaaf58e56813e18c94ae0"
+  },
+  {
+    "file": "assets/icon/reksaDana/ashmore.jpg",
+    "hash": "05a740a116625d8bfbcdcac06d0b2c89"
+  },
+  {
+    "file": "assets/icon/reksaDana/campuran.jpg",
+    "hash": "90a92f8008bdb5a2ea5a73a3c1ca99f1"
+  },
+  {
+    "file": "assets/icon/reksaDana/manulife.jpg",
+    "hash": "84c3f8a8a363c047b869c031cbe847f8"
+  },
+  {
+    "file": "assets/icon/reksaDana/megaAsset.jpg",
+    "hash": "bc26e2b5b65bb518b2723042bfbc37a3"
+  },
+  {
+    "file": "assets/icon/reksaDana/megaInvestama.jpg",
+    "hash": "8a422d0e31d84f11695ff2d0b16dc4eb"
+  },
+  {
+    "file": "assets/icon/reksaDana/pasarUang.jpg",
+    "hash": "d5224fa2f5f47a7349c6b920132eef02"
+  },
+  {
+    "file": "assets/icon/reksaDana/pendapatanTetap.jpg",
+    "hash": "933772d77b3695ee20ebaf6e96d80c39"
+  },
+  {
+    "file": "assets/icon/reksaDana/reksaDown.png",
+    "hash": "143211daff09840dc34af1e80856008b"
+  },
+  {
+    "file": "assets/icon/reksaDana/reksaUp.png",
+    "hash": "0d9ff40972732e4f1de168c15357e9b9"
+  },
+  {
+    "file": "assets/icon/reksaDana/saham.jpg",
+    "hash": "7ff2ea96c8cd54d330c548d7d68b7dad"
+  },
+  {
+    "file": "assets/icon/reksaDana/schroders.jpg",
+    "hash": "31e47efdd6a2aa3d7906b3896b9b7abd"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr_bayar.svg",
+    "hash": "ebaf584393d5fa1fe71ec185c8ac0118"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr_flash_off.svg",
+    "hash": "86143631bc4cc66b24e24f81d8dbdab5"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr_flash_on.svg",
+    "hash": "6dba4b12337084ee583013fabec53c9e"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr_frame_target.svg",
+    "hash": "66b0e78861e24b369b2a83a7b79e0e24"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr_qris_logo.svg",
+    "hash": "ad1de5ebf5f1d9212a097f3be2472b79"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr_terima_transfer.svg",
+    "hash": "a1c60047a70360f922f2faf27f6ea1c8"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr_upload.svg",
+    "hash": "736b565124aaff64462f43742da97fd6"
+  },
+  {
+    "file": "assets/icon/revamp_icon/qr-setor_tunai.svg",
+    "hash": "9091f90e504019a28fe45e9ea757d45c"
+  },
+  {
+    "file": "assets/icon/revamp_produk/e_money.svg",
+    "hash": "333a4857a58bc22ddf3696e849e50b9f"
+  },
+  {
+    "file": "assets/icon/revamp_produk/e_wallet.svg",
+    "hash": "2b6aa056bfa96a128f26069f58831ca1"
+  },
+  {
+    "file": "assets/icon/revamp_produk/kontak.svg",
+    "hash": "9014a4ee40df861b79c6bce5bfb27a9b"
+  },
+  {
+    "file": "assets/icon/scanqr.svg",
+    "hash": "e8768d25d41099a325fb3781b281e5d3"
+  },
+  {
+    "file": "assets/icon/select-all.svg",
+    "hash": "6ac7102e978c97192023e13833e087c2"
+  },
+  {
+    "file": "assets/icon/selfie.svg",
+    "hash": "95b718668447a87c5eb2df3b06f6ef8f"
+  },
+  {
+    "file": "assets/icon/selfieCard.svg",
+    "hash": "d00db86b08cd310f82fb25d3424246c5"
+  },
+  {
+    "file": "assets/icon/shield-badge.svg",
+    "hash": "1dd60af02e9ce306f04efdb878dbbb24"
+  },
+  {
+    "file": "assets/icon/sms.svg",
+    "hash": "e8cafdd2a633ba2cd4eb1716ac2a8ca1"
+  },
+  {
+    "file": "assets/icon/spinner.gif",
+    "hash": "fce4eaff7392dd76eac2b027e556b55e"
+  },
+  {
+    "file": "assets/icon/succes.svg",
+    "hash": "095f325f401036148d167bd65efa93a7"
+  },
+  {
+    "file": "assets/icon/tabungan_deposito.svg",
+    "hash": "02a8e0ba05a1311b64c5e6eb548c03b7"
+  },
+  {
+    "file": "assets/icon/tick.svg",
+    "hash": "27ce898f8b3d268552d167c1e2d05503"
+  },
+  {
+    "file": "assets/icon/trash-outline.svg",
+    "hash": "720e54b7387008fa518b946f212cdf18"
+  },
+  {
+    "file": "assets/icon/triangle.png",
+    "hash": "447fba92c45d916c105b58b2d9ad300c"
+  },
+  {
+    "file": "assets/icon/ttp.svg",
+    "hash": "f69598883175633961bed00ec57c8d81"
+  },
+  {
+    "file": "assets/icon/twitterColor.svg",
+    "hash": "4f41a9846006dbe195ddcf426c32c502"
+  },
+  {
+    "file": "assets/icon/ubah-email/bg.svg",
+    "hash": "fdbe5cab4151bb8aac49376233c71bdb"
+  },
+  {
+    "file": "assets/icon/ubah-email/email.svg",
+    "hash": "3f6577c8b52cc29d94834407edd45d91"
+  },
+  {
+    "file": "assets/icon/ubah-email/vector.svg",
+    "hash": "135b67fef0e39a0af6090743e6d578de"
+  },
+  {
+    "file": "assets/icon/up-arrow.svg",
+    "hash": "0fe370902c598fbe9164af4630c432a2"
+  },
+  {
+    "file": "assets/icon/uploadqr.svg",
+    "hash": "766f308b831b60f7a8121540bc0585ab"
+  },
+  {
+    "file": "assets/icon/verify-email/close.svg",
+    "hash": "ec1e2dcae2cde50ec64da3eb2dfec1af"
+  },
+  {
+    "file": "assets/icon/verify-email/email.svg",
+    "hash": "1b5b1ef66dd0e0e0788520b9cf8ed1b1"
+  },
+  {
+    "file": "assets/icon/verify-email/time.svg",
+    "hash": "bf99c2727c205c3dfd35ed7c25d919f5"
+  },
+  {
+    "file": "assets/icon/visa-logo.png",
+    "hash": "8879307b15f0b31ffa77e74525f23511"
+  },
+  {
+    "file": "assets/icon/wifi.svg",
+    "hash": "b29a781a7b43d9cf06040ba60ae42e44"
+  },
+  {
+    "file": "assets/icon/youtubeColor.svg",
+    "hash": "c2634b5b1958979ae3b8568009efb43d"
+  },
+  {
+    "file": "assets/icon/zoom-in.svg",
+    "hash": "7b88533c87ea35d940d63c785ed07b55"
+  },
+  {
+    "file": "assets/icon/zoom-out.svg",
+    "hash": "29c7b88098d8ee6a2f9e9106542f8ca0"
+  },
+  {
+    "file": "assets/imgs/apply_produk/berbagi_landscape.jpg",
+    "hash": "354943170b028f9bfaeb5bd8af77138b"
+  },
+  {
+    "file": "assets/imgs/apply_produk/berbagi_logo.jpg",
+    "hash": "60032be7ca10152b43b1bda7c27b80bf"
+  },
+  {
+    "file": "assets/imgs/apply_produk/dana_landscape.jpg",
+    "hash": "3b1cb6046d266be1d996d2de01838127"
+  },
+  {
+    "file": "assets/imgs/apply_produk/dana_logo.jpg",
+    "hash": "2c95ef6c89cd8919757e2bc7654c8388"
+  },
+  {
+    "file": "assets/imgs/apply_produk/maxi_landscape.jpg",
+    "hash": "61d6da3e9c497a28c56c5798d7dc3bac"
+  },
+  {
+    "file": "assets/imgs/apply_produk/maxi_logo.jpg",
+    "hash": "27fade4387b8c86b5c2c254f20f9cf1a"
+  },
+  {
+    "file": "assets/imgs/apply_produk/rencana_landscape.jpg",
+    "hash": "2ac3570fd4c75890be0550e6e0a9660d"
+  },
+  {
+    "file": "assets/imgs/apply_produk/rencana_logo.jpg",
+    "hash": "42086cfff4693510ebb3b526d67c6fd7"
+  },
+  {
+    "file": "assets/imgs/apply_produk/valas_landscape.jpg",
+    "hash": "4067b752ee745ef6206519482b4a6436"
+  },
+  {
+    "file": "assets/imgs/apply_produk/valas_logo.jpg",
+    "hash": "0454d16f34f3128de5b253c56ada439f"
+  },
+  {
+    "file": "assets/imgs/bank_lain.png",
+    "hash": "3c16a5343ba93458dcbdc5eb91a54887"
+  },
+  {
+    "file": "assets/imgs/bankmega_new.png",
+    "hash": "75758a1498591b7dd6bc2dd1a012c3a1"
+  },
+  {
+    "file": "assets/imgs/bankmega2.png",
+    "hash": "df28dc63a18a1671a1e8d0fe07918dc3"
+  },
+  {
+    "file": "assets/imgs/banner-apply.png",
+    "hash": "984f0cb9e9d9f0a928ec4584557537a6"
+  },
+  {
+    "file": "assets/imgs/banner-apply2.png",
+    "hash": "f83fa2368d86d87120bef5e75769524c"
+  },
+  {
+    "file": "assets/imgs/banner1.png",
+    "hash": "488da0ba93a47ffd026312bef96ab2ed"
+  },
+  {
+    "file": "assets/imgs/banner12.png",
+    "hash": "5954fc59678357a6dad368911fb9d16c"
+  },
+  {
+    "file": "assets/imgs/banner2.png",
+    "hash": "8253fcdc11a6693bed186e259e66d81d"
+  },
+  {
+    "file": "assets/imgs/banner22.png",
+    "hash": "6db06dcfc452060f3ce9db2dfb3bee4f"
+  },
+  {
+    "file": "assets/imgs/bg-info.png",
+    "hash": "ad1b1bb08596555a1afee1a53ebc0703"
+  },
+  {
+    "file": "assets/imgs/bgtabs.png",
+    "hash": "51869a940059ed9d091b86e7548b135c"
+  },
+  {
+    "file": "assets/imgs/biometrik/2.svg",
+    "hash": "befda774658ed6177af31da34b639527"
+  },
+  {
+    "file": "assets/imgs/biometrik/alert-gagal.svg",
+    "hash": "6ffc760deede92363224468f5aca4308"
+  },
+  {
+    "file": "assets/imgs/biometrik/alert-img.svg",
+    "hash": "eb6753770139a46b7f1a08785dbd91d4"
+  },
+  {
+    "file": "assets/imgs/biometrik/alert-sukses.svg",
+    "hash": "26204bc8de69cd764233ddcc94b06b90"
+  },
+  {
+    "file": "assets/imgs/biometrik/btn-close.svg",
+    "hash": "022b64efc83ee92bcaebc89a8c99994d"
+  },
+  {
+    "file": "assets/imgs/biometrik/btn-icon-camera.svg",
+    "hash": "befda774658ed6177af31da34b639527"
+  },
+  {
+    "file": "assets/imgs/biometrik/btn-img.svg",
+    "hash": "b729551f92fae34b024ca2f0aca981c4"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/Camera.svg",
+    "hash": "65409d0a4e4f9ad70787fa392e093e9e"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/Element Garis.svg",
+    "hash": "de0cd34ee4ab807015c193f8be23b53a"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/Example.svg",
+    "hash": "bf725e58a1b0c2a5eccb224331c51bd8"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/icon-1.svg",
+    "hash": "b68956f5117ae6a4839857be740cde28"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/icon-2.svg",
+    "hash": "8266f2969153ecd8c3aa3ce1618c7601"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/icon-3.svg",
+    "hash": "4d41853c4d47a297a1788f310c6a2c2c"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/icon-4.svg",
+    "hash": "eadf8decc4bb95316f22335a758d4540"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/Illu Verified.png",
+    "hash": "d0406adae8b1437c243dfc1dd8fcb88a"
+  },
+  {
+    "file": "assets/imgs/biometrik/card/Mask group.svg",
+    "hash": "b9990084d642c7d583ca8bf767a735af"
+  },
+  {
+    "file": "assets/imgs/biometrik/img-contoh.png",
+    "hash": "4cd7ab40ebb4d7dc512d27ad839fda45"
+  },
+  {
+    "file": "assets/imgs/biometrik/img-instruksi.svg",
+    "hash": "e6af59abe22feb4200d6f3ad85e2303c"
+  },
+  {
+    "file": "assets/imgs/biometrik/img-live-head.svg",
+    "hash": "85715bee3fc08126ac8b83a0e5096b24"
+  },
+  {
+    "file": "assets/imgs/biometrik/lampu-right.svg",
+    "hash": "d1f369b097fc33bc6be87618c98192f4"
+  },
+  {
+    "file": "assets/imgs/biometrik/left/icon-kiri-atas.svg",
+    "hash": "f659bb2d009b91cf2f63a4469810fc57"
+  },
+  {
+    "file": "assets/imgs/biometrik/regist-bio-sms.png",
+    "hash": "5a1cab16b20c38f11e2b2fddc91b75dc"
+  },
+  {
+    "file": "assets/imgs/biometrik/right/icon-kanan.svg",
+    "hash": "2e0c905e231174cae1a28d976a8ae672"
+  },
+  {
+    "file": "assets/imgs/cc_barca.jpg",
+    "hash": "42d8e287b50f8daf2d0e5b9a468f85e5"
+  },
+  {
+    "file": "assets/imgs/ccCard/infinite.jpg",
+    "hash": "63a357f781c1abc8bac51feb7e041c70"
+  },
+  {
+    "file": "assets/imgs/ccCard/metro.jpg",
+    "hash": "0ddff9483c48f85e4f2566b1e574ad94"
+  },
+  {
+    "file": "assets/imgs/cek-cc-bg.png",
+    "hash": "f546c87e70991d0044ef9129a8a15249"
+  },
+  {
+    "file": "assets/imgs/clover-bg.png",
+    "hash": "01498f2a75780b271041a32f208b1feb"
+  },
+  {
+    "file": "assets/imgs/company-partner.png",
+    "hash": "dc2432fa2f6cea9f25670e7d4dcc1c98"
+  },
+  {
+    "file": "assets/imgs/confirmRegister.png",
+    "hash": "a5be4bfd8d9810b6dd9eb3f46b4715d3"
+  },
+  {
+    "file": "assets/imgs/credit-shield-detail.png",
+    "hash": "b1c2882a490e77c08dd06f0f1f5ead5c"
+  },
+  {
+    "file": "assets/imgs/credit-shield-detail2.png",
+    "hash": "f566edc80c6a9b81418794b5f9fddc01"
+  },
+  {
+    "file": "assets/imgs/credit-shield-natural.png",
+    "hash": "2ec304a518b8a5ea26ca4428afa636d1"
+  },
+  {
+    "file": "assets/imgs/ct-arsa1.jpg",
+    "hash": "bae176ac0a93829089f0386eb9df24b5"
+  },
+  {
+    "file": "assets/imgs/ct-arsa2.jpg",
+    "hash": "aac3c54d9c38ff97e2758a4e00c75491"
+  },
+  {
+    "file": "assets/imgs/cvv.jpeg",
+    "hash": "e321e46471b9fa888a3e20b3445427b3"
+  },
+  {
+    "file": "assets/imgs/dashMenu/AKUN SAYA.png",
+    "hash": "20d046fb2d42c040792e3d7385e7a8ed"
+  },
+  {
+    "file": "assets/imgs/dashMenu/APPLY.png",
+    "hash": "af420c5d3e3a613ab69c63afadb712ad"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconAkun.jpg",
+    "hash": "89b823375fa14cb71de844ccbc37dcb5"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconBayar.svg",
+    "hash": "ce2a1a57b79f79cc9a3f9cc205331444"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconBeli.svg",
+    "hash": "47e5e9cb4b3901ab94005868b0863b7a"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconInformasi.jpg",
+    "hash": "add562a27310711fde775f88a3c654f0"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconLayanan.jpg",
+    "hash": "0060ac24634a6b0a49435187e291d206"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconMApply.jpg",
+    "hash": "72fd2271f381dc715cfe645fd81e3295"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconMilea.jpg",
+    "hash": "ffa8ec988306d1f4ab3fd063ef6de442"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconMMoney.jpg",
+    "hash": "fcaa4c7426bf8022b413ad1d3bf74cfa"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconMTunai.jpg",
+    "hash": "c3d54b4fdbbbcadeff2c8cd169a8d627"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconQr.svg",
+    "hash": "c1f8e84a960a5966f4c915035b86f8ce"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconTopUp.jpg",
+    "hash": "e6ace21f99f7080c9089dc00d0b0e360"
+  },
+  {
+    "file": "assets/imgs/dashMenu/iconTransfer.svg",
+    "hash": "0310516910eee1d2e5dbc3070f36b7b8"
+  },
+  {
+    "file": "assets/imgs/dashMenu/INFO LAINNYA.png",
+    "hash": "665643b44a7dba545cc317f2ef620980"
+  },
+  {
+    "file": "assets/imgs/dashMenu/KARTU KREDIT.png",
+    "hash": "6b0e2413287aefc51f72b228b8f81bd6"
+  },
+  {
+    "file": "assets/imgs/dashMenu/M-MONEY.png",
+    "hash": "1e8ebec28d17dbf14b4f4257eba2bff3"
+  },
+  {
+    "file": "assets/imgs/dashMenu/NOTIFIKASI - ADA.png",
+    "hash": "95702ff4f4fa8c73050baf1a24cbebd1"
+  },
+  {
+    "file": "assets/imgs/dashMenu/NOTIFIKASI - KOSONG.png",
+    "hash": "675f345ade7ceec1d00627fdd9eeb321"
+  },
+  {
+    "file": "assets/imgs/dashMenu/TARIK TUNAI.png",
+    "hash": "0a37d06ee9a41b4d14d4eeb6dc390ee6"
+  },
+  {
+    "file": "assets/imgs/dashMenu/TOP UP.png",
+    "hash": "bd28156066c0e6bdadbbfbff69610b3c"
+  },
+  {
+    "file": "assets/imgs/eCard.jpg",
+    "hash": "9ab3705eee6b279753496bfc10c59640"
+  },
+  {
+    "file": "assets/imgs/eCard1.png",
+    "hash": "e30cd87f116a512890cf277a8e24eeb2"
+  },
+  {
+    "file": "assets/imgs/gen-z/ai.png",
+    "hash": "49798810940266ae3964d16765d9d51a"
+  },
+  {
+    "file": "assets/imgs/gen-z/arrow-yellow.png",
+    "hash": "0d2790bf757076fcbc738e17d98c5a4e"
+  },
+  {
+    "file": "assets/imgs/gen-z/atur-limit.png",
+    "hash": "c00ad332030d7545b2662c7c3f0a14c1"
+  },
+  {
+    "file": "assets/imgs/gen-z/atur-transaksi.png",
+    "hash": "d5d438c50fe03d455f0b9e482d5f55ed"
+  },
+  {
+    "file": "assets/imgs/gen-z/bg-moon.png",
+    "hash": "065e207a0746ae52532552f4b75ce1f3"
+  },
+  {
+    "file": "assets/imgs/gen-z/bliv-ver-temp5.png",
+    "hash": "15e5e1f5a397c25bbdfd52f1034084dd"
+  },
+  {
+    "file": "assets/imgs/gen-z/blokir-kartu.png",
+    "hash": "0f04b45277d838e9c8ac423b2d361637"
+  },
+  {
+    "file": "assets/imgs/gen-z/coins-money.png",
+    "hash": "e34ce234626a16d7a86990f930f3cf2b"
+  },
+  {
+    "file": "assets/imgs/gen-z/eye-off.png",
+    "hash": "ad0ce8b43db64d87542587bd21c4c4b5"
+  },
+  {
+    "file": "assets/imgs/gen-z/eye-on.png",
+    "hash": "37c8646d86aae5d0d5ff94f69d1309b4"
+  },
+  {
+    "file": "assets/imgs/gen-z/frame-cashback.png",
+    "hash": "9a07894723006dd9d4fdb87c5bb0016b"
+  },
+  {
+    "file": "assets/imgs/gen-z/loc.png",
+    "hash": "c59143a198055fa2bfc93519081f9b23"
+  },
+  {
+    "file": "assets/imgs/gen-z/menu-bayar.png",
+    "hash": "d05c143b60c7339b0db0a0d56a09a93c"
+  },
+  {
+    "file": "assets/imgs/gen-z/regis-supplement.png",
+    "hash": "d7a21c6a9e3d13e72510b81f9c5932ab"
+  },
+  {
+    "file": "assets/imgs/gen-z/ubah-pin.png",
+    "hash": "cd607981ee6a60e56140b3a5f982e756"
+  },
+  {
+    "file": "assets/imgs/Group 1000005080.png",
+    "hash": "35175609989b37a6413034532ceefbff"
+  },
+  {
+    "file": "assets/imgs/header-upgrade-mmoney.png",
+    "hash": "8ee7b0922b3b84a28c5fbdd887a3410b"
+  },
+  {
+    "file": "assets/imgs/icontest.jpg",
+    "hash": "89b823375fa14cb71de844ccbc37dcb5"
+  },
+  {
+    "file": "assets/imgs/imageplaceholder.jpg",
+    "hash": "09b773495df08c18c7064d7721770408"
+  },
+  {
+    "file": "assets/imgs/intro/bg_wlcm_1.svg",
+    "hash": "a81106c1ac30d64bc7a705a41411b05f"
+  },
+  {
+    "file": "assets/imgs/intro/bg_wlcm_2.svg",
+    "hash": "1ccdd7448c28c97047249e7b0cfbdb8e"
+  },
+  {
+    "file": "assets/imgs/intro/bg_wlcm_3.svg",
+    "hash": "f15b135f16b9e7c7f483923a0475e2a2"
+  },
+  {
+    "file": "assets/imgs/intro/bg1.svg",
+    "hash": "abd7c3c72f11b0f1019cdfed2845254b"
+  },
+  {
+    "file": "assets/imgs/intro/bg2.svg",
+    "hash": "75fdfa92ad38f3dc052d5aaacaf9a75b"
+  },
+  {
+    "file": "assets/imgs/intro/bg3.svg",
+    "hash": "cadcb73fc99764e6e389239349a584e0"
+  },
+  {
+    "file": "assets/imgs/intro/intro1-4x.png",
+    "hash": "185cd0e0e1e94df6fd50207d8adacf6c"
+  },
+  {
+    "file": "assets/imgs/intro/intro1.png",
+    "hash": "a8ec59047a5361eb98ea5be01fd7de79"
+  },
+  {
+    "file": "assets/imgs/intro/intro2-4x.png",
+    "hash": "6bbc7308b0a29bf614a4bdbcdc46bb64"
+  },
+  {
+    "file": "assets/imgs/intro/intro2.png",
+    "hash": "9b350a339e27afb8241de8deaed40ff6"
+  },
+  {
+    "file": "assets/imgs/intro/intro3-4x.png",
+    "hash": "7d8008253750dc7c842c9192a87d3805"
+  },
+  {
+    "file": "assets/imgs/intro/intro3.png",
+    "hash": "7a5c9690d4026fa7fa8ebdcda222f0c4"
+  },
+  {
+    "file": "assets/imgs/intro/smileLogo-4x.png",
+    "hash": "cd7cfcf59f93441f441d39674f9f7292"
+  },
+  {
+    "file": "assets/imgs/investasi/invest.svg",
+    "hash": "33c20868b071122600f61e2c7c22c3e0"
+  },
+  {
+    "file": "assets/imgs/investasi/obligasi.svg",
+    "hash": "e5a7a9c7a1c287d09c6c6a3c43e5428d"
+  },
+  {
+    "file": "assets/imgs/Limit_trx.jpg",
+    "hash": "4776e5f78c607256856b6533cb6b39b1"
+  },
+  {
+    "file": "assets/imgs/loading_img.gif",
+    "hash": "c83e3e2d9b42a1b83f41d3046c41453e"
+  },
+  {
+    "file": "assets/imgs/loc/balon-white.png",
+    "hash": "cb1665fb2507ceff59097de7bc8807f4"
+  },
+  {
+    "file": "assets/imgs/loc/banner-tenor.png",
+    "hash": "afa46b1c658415091799cb93cf55bb6c"
+  },
+  {
+    "file": "assets/imgs/loc/hands-give.png",
+    "hash": "2d938c4bbd173593e204e6e03b4ac3ff"
+  },
+  {
+    "file": "assets/imgs/loc/idea_icon.svg",
+    "hash": "9f8e81842ebf6c4652ccd7daebccab55"
+  },
+  {
+    "file": "assets/imgs/loc/Info-Circle.svg",
+    "hash": "41bf668558a557c36cefd16713824e10"
+  },
+  {
+    "file": "assets/imgs/loc/loc_banner.png",
+    "hash": "dfc4a7584040bf3ba1a70990d00f9eca"
+  },
+  {
+    "file": "assets/imgs/loc/loc_banner.svg",
+    "hash": "303e74179eaf60618956d120349b6791"
+  },
+  {
+    "file": "assets/imgs/loc/loc_image_1.svg",
+    "hash": "988598aea2e537cd0564a1edd1ca80ad"
+  },
+  {
+    "file": "assets/imgs/loc/loc_image_2.svg",
+    "hash": "065d6ab2f049dc379a5d62457a62821d"
+  },
+  {
+    "file": "assets/imgs/loc/loc_image_3.svg",
+    "hash": "16ed3321f1f13a3c194b8b2a5eef86e5"
+  },
+  {
+    "file": "assets/imgs/loc/loc_image_4.svg",
+    "hash": "132e2e4bb28d9eb467c18465d3885bad"
+  },
+  {
+    "file": "assets/imgs/loc/no-data.svg",
+    "hash": "5c4ca68f9b6757356e4a39cbf4a507d4"
+  },
+  {
+    "file": "assets/imgs/loc/pengajuan_proses.svg",
+    "hash": "b5042895d837b8e23f917383b6aee09a"
+  },
+  {
+    "file": "assets/imgs/loc/waiting-page.svg",
+    "hash": "c23e9b56195f1d7098ecadbef68cfa8d"
+  },
+  {
+    "file": "assets/imgs/logo.png",
+    "hash": "ff5d7c95e2809b0dd177a9768ba3b619"
+  },
+  {
+    "file": "assets/imgs/logoMsmile_new.png",
+    "hash": "60df64ccd7bbc20d040f57d2c9e1847c"
+  },
+  {
+    "file": "assets/imgs/logoMsmile_old.png",
+    "hash": "416e58d0c5e25cce0ee5d2683e6b8b6f"
+  },
+  {
+    "file": "assets/imgs/logoMsmile.png",
+    "hash": "c9567103b949bc8912932fc50891481c"
+  },
+  {
+    "file": "assets/imgs/M-Smile.png",
+    "hash": "111d92bc805cdb1f516f83c9463f9428"
+  },
+  {
+    "file": "assets/imgs/megaPass.jpg",
+    "hash": "7c8548b4417c84e2f3050e5b5cd910f8"
+  },
+  {
+    "file": "assets/imgs/mpin-wave.jpg",
+    "hash": "45516ee984eb258d5870a6dc067ad0e9"
+  },
+  {
+    "file": "assets/imgs/MsmileLogo.png",
+    "hash": "8f333ad355e2d0597d33fc442a71d320"
+  },
+  {
+    "file": "assets/imgs/obdntb/bank_mega_logo.svg",
+    "hash": "b2b62a74880efc1c466813185bc48f42"
+  },
+  {
+    "file": "assets/imgs/obdntb/banner_atas_new.svg",
+    "hash": "455b3ee3b5aa180511611f6cc56232ce"
+  },
+  {
+    "file": "assets/imgs/obdntb/banner_atas.svg",
+    "hash": "2984025f780fd02ea5427de6d5c08452"
+  },
+  {
+    "file": "assets/imgs/obdntb/btn-img.svg",
+    "hash": "b729551f92fae34b024ca2f0aca981c4"
+  },
+  {
+    "file": "assets/imgs/obdntb/card-1.svg",
+    "hash": "2d1a78850e01f44291ad7be4696c0af4"
+  },
+  {
+    "file": "assets/imgs/obdntb/card.svg",
+    "hash": "6ef00c7ff13b084de4785304994905d2"
+  },
+  {
+    "file": "assets/imgs/obdntb/contoh.svg",
+    "hash": "458b7fe1d24f8892522d67cd46a5e41c"
+  },
+  {
+    "file": "assets/imgs/obdntb/icon-location.svg",
+    "hash": "7f14efd5b23a28ed9645c8f98698a7c5"
+  },
+  {
+    "file": "assets/imgs/obdntb/icon-not-data.svg",
+    "hash": "50f87e1aae9a0b4468931532e70178a8"
+  },
+  {
+    "file": "assets/imgs/obdntb/icon-search.svg",
+    "hash": "92b4fbd46236bf79a6f5e0e791470f0d"
+  },
+  {
+    "file": "assets/imgs/obdntb/lampu-right.svg",
+    "hash": "d1f369b097fc33bc6be87618c98192f4"
+  },
+  {
+    "file": "assets/imgs/obdntb/lampu.svg",
+    "hash": "f261f2304c2740407630360114b794f3"
+  },
+  {
+    "file": "assets/imgs/obdntb/langkah_ntb.svg",
+    "hash": "982b4b9c74e1d7c7a98f04dd4147066e"
+  },
+  {
+    "file": "assets/imgs/obdntb/langkah1.svg",
+    "hash": "ef0c1a93c8c236cee1f3f4a373ccecf3"
+  },
+  {
+    "file": "assets/imgs/obdntb/langkah2.svg",
+    "hash": "024e6ee8b821bde2da322cb59eef57e1"
+  },
+  {
+    "file": "assets/imgs/obdntb/langkah3.svg",
+    "hash": "cbbfc5b2048992a25df2a7e9290a0204"
+  },
+  {
+    "file": "assets/imgs/obdntb/liveness_ex.jpg",
+    "hash": "929a701fcd4796837a8b813359ebff09"
+  },
+  {
+    "file": "assets/imgs/obdntb/ntb_sukses.jpg",
+    "hash": "30c55de38d0c2a1f044a300d56572e30"
+  },
+  {
+    "file": "assets/imgs/obdntb/obd-checklikst.svg",
+    "hash": "256a1d5b587ef61c897af10173335642"
+  },
+  {
+    "file": "assets/imgs/obdntb/reg_sukses.svg",
+    "hash": "afa22e185fcd3338a485f2f4dfa27399"
+  },
+  {
+    "file": "assets/imgs/obdntb/vicall_sukses.svg",
+    "hash": "b27e3ba6e20a84c8648e7e024136bc26"
+  },
+  {
+    "file": "assets/imgs/obdntb/video.svg",
+    "hash": "7c12b640a9b84f95ffc3269f2aaad734"
+  },
+  {
+    "file": "assets/imgs/obligasi/__early_redem.png",
+    "hash": "19e056f0358eeb0dfe9dc7f34732d362"
+  },
+  {
+    "file": "assets/imgs/obligasi/__hapus_reg_dana.png",
+    "hash": "f8cee07f014d5f3e152487e295a99e9a"
+  },
+  {
+    "file": "assets/imgs/obligasi/__monitoring_early.png",
+    "hash": "77ad6564738ab1590404543ecee3390b"
+  },
+  {
+    "file": "assets/imgs/obligasi/__monitoring_pemesanan.png",
+    "hash": "caf8fc442bf7f47afd9e81ffd25987ec"
+  },
+  {
+    "file": "assets/imgs/obligasi/__pemesanan.png",
+    "hash": "376b15cc77a4dfea907e187d1e08ffcb"
+  },
+  {
+    "file": "assets/imgs/obligasi/__portofolio.png",
+    "hash": "7ce5cacc8f20703036599981e7138d67"
+  },
+  {
+    "file": "assets/imgs/obligasi/__reg_esbn.png",
+    "hash": "65c0afb14803640e09da4492183e8ae6"
+  },
+  {
+    "file": "assets/imgs/obligasi/__tambah_rek_dana.png",
+    "hash": "62a915dea2515f623bed43f7b798eb56"
+  },
+  {
+    "file": "assets/imgs/obligasi/__un reg.png",
+    "hash": "32cdec762c7f86ec35a4fa130426c70e"
+  },
+  {
+    "file": "assets/imgs/oops-error.jpg",
+    "hash": "0cfa5e4cc22465b1b441bfcc14ab37bb"
+  },
+  {
+    "file": "assets/imgs/oops-error2.jpg",
+    "hash": "290f637ede6ce38418c265fd62cdb7f4"
+  },
+  {
+    "file": "assets/imgs/oops-network_.jpg",
+    "hash": "8193ecd86be554128ae2a842a9d424b8"
+  },
+  {
+    "file": "assets/imgs/oops-network.jpg",
+    "hash": "744f07fbda3e39926f503331ddc69034"
+  },
+  {
+    "file": "assets/imgs/oops-network2.jpg",
+    "hash": "eb0f4b97c73f3f100c3c2d2bf9ad5e5a"
+  },
+  {
+    "file": "assets/imgs/payment-sukses.png",
+    "hash": "418dfebe194f0a27fab9e8527cbf86cd"
+  },
+  {
+    "file": "assets/imgs/periode-klaim-bg.png",
+    "hash": "971f55e11e88e6d711b47b487b824f59"
+  },
+  {
+    "file": "assets/imgs/produk/mega_berbagi.jpg",
+    "hash": "b55c90170a3394793c16e6e3a1d1a6d6"
+  },
+  {
+    "file": "assets/imgs/qris_logoall.jpg",
+    "hash": "433440875011eae8763e299aebc9489c"
+  },
+  {
+    "file": "assets/imgs/qris-cropped.png",
+    "hash": "f5a1cf098bc8650ec33eb26f7c085421"
+  },
+  {
+    "file": "assets/imgs/qrislogo-green.png",
+    "hash": "94c3375d22e5bb52e0e5ba835920a7e5"
+  },
+  {
+    "file": "assets/imgs/qrislogo-min.jpg",
+    "hash": "dff0e62c49e194192d5b60beb48b0d97"
+  },
+  {
+    "file": "assets/imgs/reksa/akunAshmore.jpg",
+    "hash": "93b184977699fa456175b625a3ea8fc3"
+  },
+  {
+    "file": "assets/imgs/reksa/akunManulife.jpg",
+    "hash": "5e106d2b6898d076ee77ca4bf0b9a4cc"
+  },
+  {
+    "file": "assets/imgs/reksa/akunMAsset.jpg",
+    "hash": "469f7518cb038f15ad49f2291b10d599"
+  },
+  {
+    "file": "assets/imgs/reksa/akunMInvestama.jpg",
+    "hash": "3ae6ac0bf56ee201714d305634dfbbde"
+  },
+  {
+    "file": "assets/imgs/reksa/akunSchroders.jpg",
+    "hash": "785addd7d6f4eb0f0094387888109ce2"
+  },
+  {
+    "file": "assets/imgs/reksa/artikel1.jpg",
+    "hash": "e14cd3af3a5e627fd59b51b1c6a0e46b"
+  },
+  {
+    "file": "assets/imgs/reksa/artikel2.jpg",
+    "hash": "43e7284fe3525a11cfb71d7ea8a06ff4"
+  },
+  {
+    "file": "assets/imgs/reksa/iconwealth.png",
+    "hash": "6ec2b436c863d2eea8174e890fc3a1dc"
+  },
+  {
+    "file": "assets/imgs/reksa/iconwealth2.png",
+    "hash": "38d1d709f3c457f26050833aed1f82f1"
+  },
+  {
+    "file": "assets/imgs/reksa/reksaAshmore.png",
+    "hash": "8fedb7cb09bcedcf06e81bbc9e5764bb"
+  },
+  {
+    "file": "assets/imgs/reksa/reksaL.png",
+    "hash": "189d27686bcbfe573e52dbad8255ff8a"
+  },
+  {
+    "file": "assets/imgs/reksa/reksaManulife.jpg",
+    "hash": "f5da42d73872fb69bb97e967030749dd"
+  },
+  {
+    "file": "assets/imgs/reksa/reksaManulife.png",
+    "hash": "60e8b16ff8e0ee4818c88b7f85ec704f"
+  },
+  {
+    "file": "assets/imgs/reksa/reksaMega.png",
+    "hash": "c8973864d2a6fdfc9e4f138ea57f9669"
+  },
+  {
+    "file": "assets/imgs/reksa/reksaMegaInv.png",
+    "hash": "812eee2fbec20c062d73cc3a864ca54c"
+  },
+  {
+    "file": "assets/imgs/reksa/reksaSchroders.png",
+    "hash": "5fa407d7aa5b9386bf88f50b945ab4e3"
+  },
+  {
+    "file": "assets/imgs/scan_line.png",
+    "hash": "19f7a1aaf1dd9b79fbeeb20d51c50f3c"
+  },
+  {
+    "file": "assets/imgs/selfieKtpIcon.jpg",
+    "hash": "6aba599e78466c28d808f808fc323dfb"
+  },
+  {
+    "file": "assets/imgs/sofCard2/bliv-template.png",
+    "hash": "80ac4d9a87b80b654d53d9853ebb23e3"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cashline.png",
+    "hash": "c7ca11a49771d30df21fd207ac6368ef"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_barca.jpg",
+    "hash": "e00f07af90705955cfbca03675d28ba3"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_bliv_blue_horizontal.jpg",
+    "hash": "dadafa8302fdef8cff66ea0380ed59b9"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_bliv_blue_vertical.jpg",
+    "hash": "ecd6517a2c02b41b56bee094e162cbc3"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_bliv_yellow_horizontal.jpg",
+    "hash": "8833fb84c138b75cd91fa453623f8b7f"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_bliv_yellow_vertical.jpg",
+    "hash": "be11b7b04a2bbcb22467a69779cd9e76"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_corporate.jpg",
+    "hash": "ffe7dc69cce2a9e13a127db806228f8c"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_corporate.png",
+    "hash": "8247c301a772cdb3bdb7a0fbceea23af"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_gold.jpg",
+    "hash": "fb39b4a078af47f6158267ebce01405d"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_gold.png",
+    "hash": "e39dc7311483f83d7a5710e58c8edd36"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_indonesia.png",
+    "hash": "54617bcb7244e1b4c70c31ba129f194f"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_platinum.jpg",
+    "hash": "42b1b2fc1186606eae848e1f0982dcfe"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_platinum.png",
+    "hash": "1cfdd0cff5da5ce177ece0cc9571d64e"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_transmart.jpg",
+    "hash": "ae2938b3d4fcbc3ab45f1d86af9c26e5"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_transmart.png",
+    "hash": "e5f80a7a4604a85da94aa5844232348e"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_travel.jpg",
+    "hash": "d07ad3287d248be81187b9742831c194"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_travel.png",
+    "hash": "e7d1d140d270c34dee5afb84ef0af4cf"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_tsm.jpg",
+    "hash": "9a07df30f7e25576e3cac3864fdc3bfc"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc_tsm.png",
+    "hash": "d43b19130f394ac705657f74e2943114"
+  },
+  {
+    "file": "assets/imgs/sofCard2/cc-bliv.png",
+    "hash": "dde5feb7e21c958d645179987f1fd976"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_absolut.jpg",
+    "hash": "2acc3ed1b1f0b09777961c9105097629"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_berbagi.jpg",
+    "hash": "7878f6641b39ab8781fb262b2c281f1c"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_dana.jpg",
+    "hash": "d35165b6bde3da5d6bf93d5022324326"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_dollar.jpg",
+    "hash": "dba4be92f20050f6e5417e3c36e9a70d"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_factoring.jpg",
+    "hash": "4ebf10e352741f506c2013f377d63078"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_giro.jpg",
+    "hash": "cd7e626254ab16ca33bde44b31c2ee2a"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_maxi.jpg",
+    "hash": "37899e0028ab704532be9d632ec10eff"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_payroll.jpg",
+    "hash": "a60e29262d9398a2808b844496bf9f13"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_perdana.jpg",
+    "hash": "ff68a8c69df311fda3c1676a5e562f4f"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_prestasi.jpg",
+    "hash": "2039bb25afa040c3b4678457e26a87f7"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_proteksi.jpg",
+    "hash": "d3b7530889aad50262c547679da05243"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_rencana.jpg",
+    "hash": "8c4602da06b213f3b57f6f5dd520f6e2"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_salary.jpg",
+    "hash": "36340aaac05d57c77679b36329369563"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_tabunganku.jpg",
+    "hash": "3c87d69a7c47ceeab17be566f41fc735"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_ultima.jpg",
+    "hash": "05dbea9b2136a15fdb0e83916bb9c5de"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_valas.jpg",
+    "hash": "195ea339102b7c182ca43840137477cb"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_zaver_payment.jpg",
+    "hash": "f087b5e71815af95f6841f6ff734edd2"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_zaver.jpg",
+    "hash": "de70eefa302cc99616ad81764d829317"
+  },
+  {
+    "file": "assets/imgs/sofCard2/dd_zaver.png",
+    "hash": "62fd4a0b0b8aea1d711713fed5ffd66a"
+  },
+  {
+    "file": "assets/imgs/sofCard2/deposito.jpg",
+    "hash": "4d9230649a9ffdf93c21a4362117f041"
+  },
+  {
+    "file": "assets/imgs/sofCard2/emoney.jpg",
+    "hash": "2d6c2b04dff01f9932116df12ba4d945"
+  },
+  {
+    "file": "assets/imgs/sofCard2/emoney+.jpg",
+    "hash": "93a6c22fc6284ec79ac979f3bec341b6"
+  },
+  {
+    "file": "assets/imgs/sofCard2/emoney2.jpg",
+    "hash": "a799848e8672eb6c95787bf19755c772"
+  },
+  {
+    "file": "assets/imgs/sofCard2/loan.jpg",
+    "hash": "402cac055096d1eb32224334c25b389b"
+  },
+  {
+    "file": "assets/imgs/sofCard2/metro_new_bin.jpg",
+    "hash": "c26175a2cf75133d977b8c1c782d5e50"
+  },
+  {
+    "file": "assets/imgs/sofCard2/metro_new_bin.png",
+    "hash": "9d86e762d9382d525932129037d8f20d"
+  },
+  {
+    "file": "assets/imgs/sofCard2/mvirtual.jpg",
+    "hash": "7013e1c9b9927810308a5fd4c636df77"
+  },
+  {
+    "file": "assets/imgs/sofCard2/obligasi.jpg",
+    "hash": "c1da00f2bf1cd7b7008f9206f00fe125"
+  },
+  {
+    "file": "assets/imgs/sofCard2/rdn.jpg",
+    "hash": "682c37db5bbb987a0b1e4168342619b5"
+  },
+  {
+    "file": "assets/imgs/spinner.gif",
+    "hash": "fce4eaff7392dd76eac2b027e556b55e"
+  },
+  {
+    "file": "assets/imgs/take_pic.png",
+    "hash": "5cdb365918e3e4f2598f6b25894252c0"
+  },
+  {
+    "file": "assets/imgs/taptopay/bg-info.png",
+    "hash": "ad1b1bb08596555a1afee1a53ebc0703"
+  },
+  {
+    "file": "assets/imgs/taptopay/illu_finish.svg",
+    "hash": "a3920dce441ce60c209e460ea75ce85f"
+  },
+  {
+    "file": "assets/imgs/taptopay/info-box.png",
+    "hash": "e444f45a9766e7730ced9c88e487cedd"
+  },
+  {
+    "file": "assets/imgs/taptopay/payment-sukses.png",
+    "hash": "418dfebe194f0a27fab9e8527cbf86cd"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp_bg.png",
+    "hash": "90c95095a6aa7ff7564aaaca75ece7d8"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp_logo1.svg",
+    "hash": "a66ec894abfcad75c348bee2be156c35"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp_logo2.svg",
+    "hash": "e700f62d35a7b88f9f6d188967637ab1"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp_logo3.svg",
+    "hash": "ee0511dd166721adca2af3a57f95ca3f"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp-alert.svg",
+    "hash": "4b4219014f9c0838264fcaaa8a3535ce"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp-finish.png",
+    "hash": "42c856512df012536855089a62e5edd4"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp-help-bg.png",
+    "hash": "c90de09a6a31b76bf1450af67e71f252"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp-step1.png",
+    "hash": "662ee16dfbfbf779f9472943d8436510"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp-step2.png",
+    "hash": "cea89a4fb24cadae06bb4b09da47b972"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp-step3.png",
+    "hash": "b30ec3c417dede811fcadccc49660a54"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp-tutorial.svg",
+    "hash": "41a612902874f6297003efcdd555d039"
+  },
+  {
+    "file": "assets/imgs/taptopay/ttp.svg",
+    "hash": "f69598883175633961bed00ec57c8d81"
+  },
+  {
+    "file": "assets/imgs/taptopay/visa-logo.png",
+    "hash": "8879307b15f0b31ffa77e74525f23511"
+  },
+  {
+    "file": "assets/imgs/tes.png",
+    "hash": "19d6f2694cbe59ec1a5c003e6edb22d9"
+  },
+  {
+    "file": "assets/imgs/testIcon.svg",
+    "hash": "28a5853e51a3cf39474fae127e50ba6c"
+  },
+  {
+    "file": "assets/imgs/tfchat/GreetingM-smile--53.svg",
+    "hash": "e12b1943afe5523c8003a928a6fb4ec8"
+  },
+  {
+    "file": "assets/imgs/tfchat/GreetingM-smile--54.svg",
+    "hash": "a25d5de2aed80b4bb8e7fe195bfa6a10"
+  },
+  {
+    "file": "assets/imgs/tfchat/GreetingM-smile--55.svg",
+    "hash": "36d1a7cb7831d81240492f9523dcca79"
+  },
+  {
+    "file": "assets/imgs/tfchat/GreetingM-smile--56.svg",
+    "hash": "479b4472f3667f15733fd0e1a6221c05"
+  },
+  {
+    "file": "assets/imgs/tfchat/GreetingM-smile--57.svg",
+    "hash": "50ae08e8984d28c9417d9bfb04b4f88d"
+  },
+  {
+    "file": "assets/imgs/tfchat/GreetingM-smile--58.svg",
+    "hash": "6dcb105ab3898136589b131af0a9d58f"
+  },
+  {
+    "file": "assets/imgs/tfchat/hadiah.jpg",
+    "hash": "f0d331631a541ab2d87ddfa5147ae638"
+  },
+  {
+    "file": "assets/imgs/tfchat/Icon_Kirim_01-02.svg",
+    "hash": "24d7308824910767bd3076ecab52cd87"
+  },
+  {
+    "file": "assets/imgs/tfchat/Icon_Kirim_01-06.svg",
+    "hash": "68e20d972aa445b15f26a2fb6293b23b"
+  },
+  {
+    "file": "assets/imgs/tfchat/Icon_Kirim_01-07.svg",
+    "hash": "5f7ecae70a1be8deb9cca349ec989d55"
+  },
+  {
+    "file": "assets/imgs/tfchat/Icon_Kirim_02-02.svg",
+    "hash": "82480f5edcff7aa01b977e9c11574384"
+  },
+  {
+    "file": "assets/imgs/tfchat/kado.svg",
+    "hash": "e3553f6040fca36c1b80c8fc985b4fc8"
+  },
+  {
+    "file": "assets/imgs/tfchat/kirim-kirim.svg",
+    "hash": "1c78c54c5c2906c27cf90546898f01e9"
+  },
+  {
+    "file": "assets/imgs/tfchat/lebaran-01.svg",
+    "hash": "8eb9cf5bfe342d2f34fbbdfdbedb6cf4"
+  },
+  {
+    "file": "assets/imgs/tfchat/lebaran-02.svg",
+    "hash": "4ddd13d3c8776dbe8b26441aab2b738a"
+  },
+  {
+    "file": "assets/imgs/tfchat/lebaran-03.svg",
+    "hash": "6688882a9a35d00d73252fad1e822033"
+  },
+  {
+    "file": "assets/imgs/tfchat/new_year.jpg",
+    "hash": "3b06a491cd40d877d33dd465b50d20a4"
+  },
+  {
+    "file": "assets/imgs/tick-bg.png",
+    "hash": "47e5ea22f4c9832c42fe489d84084627"
+  },
+  {
+    "file": "assets/imgs/tick-bg2.png",
+    "hash": "72c925e4d0fbd5e50b6cea1f941b421f"
+  },
+  {
+    "file": "assets/imgs/ttp-finish.png",
+    "hash": "42c856512df012536855089a62e5edd4"
+  },
+  {
+    "file": "assets/imgs/ttp-help-bg.png",
+    "hash": "c90de09a6a31b76bf1450af67e71f252"
+  },
+  {
+    "file": "assets/imgs/ttp-step1.png",
+    "hash": "662ee16dfbfbf779f9472943d8436510"
+  },
+  {
+    "file": "assets/imgs/ttp-step2.png",
+    "hash": "cea89a4fb24cadae06bb4b09da47b972"
+  },
+  {
+    "file": "assets/imgs/ttp-step3.png",
+    "hash": "b30ec3c417dede811fcadccc49660a54"
+  },
+  {
+    "file": "assets/imgs/ttp-tutorial.svg",
+    "hash": "41a612902874f6297003efcdd555d039"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/akun/1.jpeg",
+    "hash": "ddd012859c1a7d286814b85d25d85130"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/akun/2.png",
+    "hash": "cac2774fcb73cfc39b7626585c838197"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/akun/3.png",
+    "hash": "812f5d20a708aca61e990884f061bebf"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/akun/4.png",
+    "hash": "17e9896a52f217d7ed19c9f1add07f7b"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/akun/5.png",
+    "hash": "396770acfb5ce1d79d7b874880713834"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/akun/6.png",
+    "hash": "bdb2e3f78573958994d68cbf92501258"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/akun/7.png",
+    "hash": "b80ed54795d25b3856674eea6667cbef"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_cpm/1.jpeg",
+    "hash": "ddd012859c1a7d286814b85d25d85130"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_cpm/2.png",
+    "hash": "da3422dabd8b59ee0ce2e1ecee8c90c1"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_cpm/3.png",
+    "hash": "c75b77863fba2ff412781976809afb30"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_cpm/4.png",
+    "hash": "0af486b7798b20aa853791568826c363"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_cpm/5.png",
+    "hash": "7dffd4da7995ec128c8224e93b67f6d1"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_cpm/6.png",
+    "hash": "3182e72b1938068c9ab0d2a91764d327"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_mpm/1.jpeg",
+    "hash": "ddd012859c1a7d286814b85d25d85130"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_mpm/2.png",
+    "hash": "da3422dabd8b59ee0ce2e1ecee8c90c1"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_mpm/3.jpeg",
+    "hash": "ea4899fb9118da9cb21dbe905d96726a"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_mpm/4.png",
+    "hash": "3c0c206b47aa17c1710c006649d7d16e"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_mpm/5.png",
+    "hash": "fac319cb1a44612f751c5df8bc7db36c"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/qr_mpm/6.png",
+    "hash": "3182e72b1938068c9ab0d2a91764d327"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/1.png",
+    "hash": "b2ae3e07b2ce67420b5f562de457957c"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/10.png",
+    "hash": "99ffcda62c08ee012143b691e8ad542f"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/11.png",
+    "hash": "7589351dfd40b75c4f40c0fa49d2a9b1"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/12.jpeg",
+    "hash": "4c906ee8817f4468c78dbed79a268787"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/2.png",
+    "hash": "db524a9cbda295280ddd0ec6cf2eedea"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/3.png",
+    "hash": "e73f9b19c2ed053fbca3399af25b1814"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/4.png",
+    "hash": "993644a54f8a9c38d900029564349352"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/5.png",
+    "hash": "043733e673d1592562a1d31160b898bb"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/6.png",
+    "hash": "dfaab1b7e26420388ffcca8ab1899305"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/7.png",
+    "hash": "a518316dea920c93b11c96354c41e7d7"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/8.png",
+    "hash": "234e2438acc65430f10be06e90f4869a"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_kd/9.png",
+    "hash": "6a6a9113cfc405760a207162104e6955"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/1.png",
+    "hash": "b2ae3e07b2ce67420b5f562de457957c"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/10.png",
+    "hash": "f0d4906a2c82c8af48294feb026cb35e"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/11.png",
+    "hash": "273a1e420999f6248946fde9d48b0df7"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/12.jpeg",
+    "hash": "4c906ee8817f4468c78dbed79a268787"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/2.png",
+    "hash": "db524a9cbda295280ddd0ec6cf2eedea"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/3.jpeg",
+    "hash": "95b2f5000cd5e0d8f0ad5059bef081b5"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/4.png",
+    "hash": "392ecbcd433e2e78ee49711edea7aeaf"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/5.png",
+    "hash": "f0a614cadcb41c3fc340656ed1d6c757"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/6.png",
+    "hash": "c04b06f2b7ff9c8e9914f81cf25069f8"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/7.png",
+    "hash": "a518316dea920c93b11c96354c41e7d7"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/8.png",
+    "hash": "6e053c3aabc4a45e0c6c264aa03a58f6"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m1/9.png",
+    "hash": "751b6f2c41a91a6117dc3f1f56c2b7a5"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m2/1.png",
+    "hash": "0012a2fbf77141604e671f0a778b58be"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m2/2.jpeg",
+    "hash": "ddd012859c1a7d286814b85d25d85130"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m2/3.png",
+    "hash": "cac2774fcb73cfc39b7626585c838197"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m2/4.png",
+    "hash": "f0f9c68f314dc2432e7cf37b1b73e535"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m2/5.png",
+    "hash": "5ed8063ee1fcdf7487d0b3641391d447"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m2/6.png",
+    "hash": "3247801c85eb001cfc0ade8df14e1510"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/regis_m2/7.png",
+    "hash": "2aaea9529ee3637da9a924050476e5b8"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/1.jpeg",
+    "hash": "ddd012859c1a7d286814b85d25d85130"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/10.png",
+    "hash": "2b3d7b2ed4bd826376b9dce0e2e8224f"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/10a.png",
+    "hash": "2a743e199ec6f73e3eb1991190255dfc"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/2.png",
+    "hash": "db16973e1d64c6d76557fc951377b1a7"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/3.png",
+    "hash": "fa06342c8fa8834b123fa3c7766c021c"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/4.png",
+    "hash": "428842a656baa1bf0d1d6511e1313150"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/5.png",
+    "hash": "f5059d8d5f6d6ff302c635d2e7a54cb2"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/5a.png",
+    "hash": "d4dbf176301cccbd359a442656d56b5e"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/6.png",
+    "hash": "2acf75c3e9db2f4797e01f1ff7a231f4"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/7.png",
+    "hash": "4bcefd2aad054947755b14ed53734d46"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/8.png",
+    "hash": "4523e8973bd05b0bc399775a77d9fd89"
+  },
+  {
+    "file": "assets/imgs/tutor/revamp/tarik_tunai/9.png",
+    "hash": "38cd44404ff9e94054d89675f25f4577"
+  },
+  {
+    "file": "assets/imgs/tutor/tutorBaru03062020/regisM1-12.jpg",
+    "hash": "21528e404a0fa6b9453d542ef0a3d0fa"
+  },
+  {
+    "file": "assets/imgs/valas-bg2.svg",
+    "hash": "6f6ce4160b22a876c527e0cc65030b81"
+  },
+  {
+    "file": "assets/imgs/video call.PNG",
+    "hash": "3098e1dd10814002ab5b712748235f12"
+  },
+  {
+    "file": "assets/imgs/warning.png",
+    "hash": "fa659ce915c2e186b558969178e4c0f5"
+  },
+  {
+    "file": "assets/imgs/zoom.png",
+    "hash": "364b86d6ff2c897b2199db33e39d1de6"
+  },
+  {
+    "file": "assets/include/manfaat_hospital_investa.html",
+    "hash": "6edb493e6a933c53aabcf7bcec5ff41b"
+  },
+  {
+    "file": "assets/include/manfaat_maksima.html",
+    "hash": "ddda4e31ff6160f956f92b788bf57f5e"
+  },
+  {
+    "file": "assets/include/manfaat_medical_care.html",
+    "hash": "8a35d74f5b900f088fdc1cd10befa8d4"
+  },
+  {
+    "file": "assets/include/manfaat_medical_plus.html",
+    "hash": "06bf366f246ef228e4a605be57147536"
+  },
+  {
+    "file": "assets/include/manfaat_protection_plus.html",
+    "hash": "1f187b834ef8e88edea2a8b8e550bb4d"
+  },
+  {
+    "file": "assets/include/manfaat_protection.html",
+    "hash": "9e1d330388f054af35be389184ffcc2e"
+  },
+  {
+    "file": "assets/include/manfaat_proteksi_diri.html",
+    "hash": "dcc40a5c7097b4bead8942cde4e36f5c"
+  },
+  {
+    "file": "assets/include/manfaat_ultimashield.html",
+    "hash": "6171d912bc1e1bf18a58be371d9d2e98"
+  },
+  {
+    "file": "assets/include/perhatian_hospital_investa.html",
+    "hash": "86d3f609006222054a09a0b56354e3f1"
+  },
+  {
+    "file": "assets/include/perhatian_maksima.html",
+    "hash": "b1d64c9c1580645da5db23d833f6206f"
+  },
+  {
+    "file": "assets/include/perhatian_medical_care.html",
+    "hash": "666f580e8f571e58f483d13b726b287d"
+  },
+  {
+    "file": "assets/include/perhatian_medical_plus.html",
+    "hash": "b7d366e275dd68b5d6d9ec89d78be03a"
+  },
+  {
+    "file": "assets/include/perhatian_protection_plus.html",
+    "hash": "6e07e2609559d83dba0582a6ed667a38"
+  },
+  {
+    "file": "assets/include/perhatian_protection.html",
+    "hash": "80b28d450d776b6766a666512810b52d"
+  },
+  {
+    "file": "assets/include/perhatian_proteksi_diri.html",
+    "hash": "4132c13e56102b30f3e1c7398eacfc4f"
+  },
+  {
+    "file": "assets/include/perhatian_ultimashield.html",
+    "hash": "498274f2b9da1e2287254e48ac3220ac"
+  },
+  {
+    "file": "assets/include/rincian_hospital_investa.html",
+    "hash": "d455a65e5fb8a0401f97bc8b36e9da72"
+  },
+  {
+    "file": "assets/include/rincian_maksima.html",
+    "hash": "4ae89e7d347e76f92046037c5abb3853"
+  },
+  {
+    "file": "assets/include/rincian_medical_care.html",
+    "hash": "d455a65e5fb8a0401f97bc8b36e9da72"
+  },
+  {
+    "file": "assets/include/rincian_medical_plus.html",
+    "hash": "d455a65e5fb8a0401f97bc8b36e9da72"
+  },
+  {
+    "file": "assets/include/rincian_protection_plus.html",
+    "hash": "d455a65e5fb8a0401f97bc8b36e9da72"
+  },
+  {
+    "file": "assets/include/rincian_protection.1.html",
+    "hash": "4569bed2abf79b62a7e4cfb88ca6ce92"
+  },
+  {
+    "file": "assets/include/rincian_protection.html",
+    "hash": "4569bed2abf79b62a7e4cfb88ca6ce92"
+  },
+  {
+    "file": "assets/include/rincian_proteksi_diri.html",
+    "hash": "d455a65e5fb8a0401f97bc8b36e9da72"
+  },
+  {
+    "file": "assets/include/rincian_ultimashield.html",
+    "hash": "f986b70cbb2021b83ae2030b8353bdb3"
+  },
+  {
+    "file": "assets/include/rincianus.html",
+    "hash": "36164ca93c22eba6614827e465c11c3e"
+  },
+  {
+    "file": "assets/include/tentang_hospital_investa.html",
+    "hash": "170741760a32907f3c67b0845ae85543"
+  },
+  {
+    "file": "assets/include/tentang_maksima.html",
+    "hash": "3ac89c718ff360248a3dd54f9017279f"
+  },
+  {
+    "file": "assets/include/tentang_medical_care.html",
+    "hash": "93289f2240d3149cbdaaf2e4b79f4005"
+  },
+  {
+    "file": "assets/include/tentang_medical_plus.html",
+    "hash": "93289f2240d3149cbdaaf2e4b79f4005"
+  },
+  {
+    "file": "assets/include/tentang_protection_plus.html",
+    "hash": "93289f2240d3149cbdaaf2e4b79f4005"
+  },
+  {
+    "file": "assets/include/tentang_proteksi_diri.html",
+    "hash": "6054ae73fd11095ff38a20b022662309"
+  },
+  {
+    "file": "assets/include/tentang_ultima.html",
+    "hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  {
+    "file": "assets/include/ultimashield.html",
+    "hash": "41ace776ad7a3161a32230badf72df8f"
+  },
+  {
+    "file": "assets/intro-confrim/background.svg",
+    "hash": "135ba300facb00b82790744021e3f61f"
+  },
+  {
+    "file": "assets/intro-confrim/btn_cc_diterima.svg",
+    "hash": "d7aa7ca0b7d3885ae3ae053176125f9a"
+  },
+  {
+    "file": "assets/intro-confrim/btn_cc_sukses.svg",
+    "hash": "e3158db72524c34bb6208717b29daaa3"
+  },
+  {
+    "file": "assets/intro-confrim/bulat-kecil.svg",
+    "hash": "29ca94d88f1517c02de2846e495cdfe6"
+  },
+  {
+    "file": "assets/intro-confrim/bulat.svg",
+    "hash": "430d19e4401dbf90626f731907a1e542"
+  },
+  {
+    "file": "assets/intro-confrim/cc_diterima.svg",
+    "hash": "fe513791fb9a3fb8c3f22892294544d5"
+  },
+  {
+    "file": "assets/intro-confrim/cc_failed.svg",
+    "hash": "b21945667f82153ef42f5be4308198f7"
+  },
+  {
+    "file": "assets/intro-confrim/cc_sukses.svg",
+    "hash": "f68ba0204e3260b5726840bda1f3236e"
+  },
+  {
+    "file": "assets/intro-confrim/home/background.svg",
+    "hash": "dc06e6d8b5155ad95eacc4bcc605b764"
+  },
+  {
+    "file": "assets/intro-confrim/home/cancel.svg",
+    "hash": "f17697ab7b02d111f06f859c7b48ba42"
+  },
+  {
+    "file": "assets/intro-confrim/home/ticket_star.svg",
+    "hash": "8d04343c08a0b90234134019f9a7fc78"
+  },
+  {
+    "file": "assets/intro-confrim/home/ticket--.svg",
+    "hash": "23e806abc6bfc99490a9a435cc039b37"
+  },
+  {
+    "file": "assets/intro-confrim/home/ticket.svg",
+    "hash": "37d7407cb52bfea00fc44262d4815ea1"
+  },
+  {
+    "file": "assets/intro-confrim/icon_cc_sukses.svg",
+    "hash": "d1a343f69520b3cb01b374bf1a8f87a6"
+  },
+  {
+    "file": "assets/intro-confrim/icon_check_abu.svg",
+    "hash": "326d0f6e830ba9074beabb3499b2bff9"
+  },
+  {
+    "file": "assets/intro-confrim/icon_check_putih.svg",
+    "hash": "d1a343f69520b3cb01b374bf1a8f87a6"
+  },
+  {
+    "file": "assets/intro-confrim/icon_checked.svg",
+    "hash": "8f2869ee45d189bb7b0077a02cb57d09"
+  },
+  {
+    "file": "assets/intro-confrim/KARTU KREDIT.png",
+    "hash": "3b12200596d1b31c2c045f8a954763e9"
+  },
+  {
+    "file": "assets/intro-confrim/kartu-kredit.svg",
+    "hash": "8cfd161a5654498c9dd0518c69a8882f"
+  },
+  {
+    "file": "assets/intro-confrim/kotak.svg",
+    "hash": "7152f7a491b0dd9bf898695eae71dda8"
+  },
+  {
+    "file": "assets/intro-confrim/log.svg",
+    "hash": "3b181d9d26bfc5f80b490053e417cfc9"
+  },
+  {
+    "file": "assets/intro-confrim/milea.svg",
+    "hash": "dee4e981bd174d0321a70b456bc0fa50"
+  },
+  {
+    "file": "assets/intro-confrim/new.png",
+    "hash": "4acf9ff6f4cd6e20fd601f9a3cd74940"
+  },
+  {
+    "file": "assets/intro-confrim/pass.svg",
+    "hash": "31fed76c14ae86f3b692f3bce994d657"
+  },
+  {
+    "file": "assets/intro-confrim/qr.svg",
+    "hash": "aa4926aace1e9caa436b6b22ccd200bb"
+  },
+  {
+    "file": "assets/intro-confrim/tabungan-new.svg",
+    "hash": "20068d56156e522c662cd0dbabbbe582"
+  },
+  {
+    "file": "assets/intro-confrim/TABUNGAN.png",
+    "hash": "ef6b6d4a93a00e96ac1ac2914196ab40"
+  },
+  {
+    "file": "assets/intro-confrim/tarik.svg",
+    "hash": "6509a830a1bb5de83887cdbb5ecdf698"
+  },
+  {
+    "file": "assets/introv2/chat.svg",
+    "hash": "69f88f9c349d447bb312ff1f98875d6b"
+  },
+  {
+    "file": "assets/introv2/footerleft.png",
+    "hash": "df34faf3c744419f5c70103287a6fa25"
+  },
+  {
+    "file": "assets/introv2/mia.svg",
+    "hash": "a8423bdb4e2d9f78fbaaec4dc944edc7"
+  },
+  {
+    "file": "assets/introv2/miahd.png",
+    "hash": "5a0fea65f2a1a5a5cd1b6491b2e0200e"
+  },
+  {
+    "file": "assets/js/aes.js",
+    "hash": "11c5114e2a1face42de239b2b17943fb"
+  },
+  {
+    "file": "assets/js/face-api.min.js",
+    "hash": "53a1d0d2b43b70417b6dead92d079c52"
+  },
+  {
+    "file": "assets/js/hsm-aes-enc.js",
+    "hash": "5dc7a71d39c0565b79af45aa16be9398"
+  },
+  {
+    "file": "assets/js/hsmenc.js",
+    "hash": "3481d9ed70f6a7e3816f1385c0af206c"
+  },
+  {
+    "file": "assets/js/jsencrypt.min.js",
+    "hash": "b81dffaee81a4a764a26a016cd21e974"
+  },
+  {
+    "file": "assets/js/mode-ecb.js",
+    "hash": "29f976e515700e9159009201d669e01c"
+  },
+  {
+    "file": "assets/js/pad-zeropadding.js",
+    "hash": "09356e937d5c35e2c66ad38f3833244b"
+  },
+  {
+    "file": "assets/js/pad-zeropadding.min.js",
+    "hash": "09356e937d5c35e2c66ad38f3833244b"
+  },
+  {
+    "file": "assets/js/pbkdf2.js",
+    "hash": "75fb20feda623642a970b883e9978ba2"
+  },
+  {
+    "file": "assets/js/steganography.min.js",
+    "hash": "d5fb296e43e78e0a8b7a77e63782b16f"
+  },
+  {
+    "file": "assets/new_icon/akun saya.svg",
+    "hash": "a8940f387a86b01bc42ec6e1a1b4dae6"
+  },
+  {
+    "file": "assets/new_icon/akun saya2.svg",
+    "hash": "59746d2f93c38bf34913cda2a73c5736"
+  },
+  {
+    "file": "assets/new_icon/akun saya3.svg",
+    "hash": "0e00b1350a337a4eacfa6d5df7866eaf"
+  },
+  {
+    "file": "assets/new_icon/akun_saya.svg",
+    "hash": "a8940f387a86b01bc42ec6e1a1b4dae6"
+  },
+  {
+    "file": "assets/new_icon/apply.svg",
+    "hash": "d1fdb71cebd02252d0a2f0c13e9f9ba1"
+  },
+  {
+    "file": "assets/new_icon/bayar.svg",
+    "hash": "594a494a7973adf301abe80437182098"
+  },
+  {
+    "file": "assets/new_icon/beli.svg",
+    "hash": "6601315273cdb7b58ddce81ea7424bdf"
+  },
+  {
+    "file": "assets/new_icon/blokir_cc.svg",
+    "hash": "5bc64c71f1c3bc5c0ff85e719cebbaaa"
+  },
+  {
+    "file": "assets/new_icon/btn-camera.svg",
+    "hash": "9aeb25e08f4a8d12b09272f61b05c81c"
+  },
+  {
+    "file": "assets/new_icon/cal.png",
+    "hash": "e14d28a1e9c50ddf62d7f5d386a550ea"
+  },
+  {
+    "file": "assets/new_icon/donasi.svg",
+    "hash": "a29ef9776c0b9d546392175408caa432"
+  },
+  {
+    "file": "assets/new_icon/icon_delete.svg",
+    "hash": "778566f09aaaa609ef007e9a0292eb73"
+  },
+  {
+    "file": "assets/new_icon/icon_edit_success.svg",
+    "hash": "9f503fe285bf4eb9e473fd1145ac389e"
+  },
+  {
+    "file": "assets/new_icon/icon_gear.svg",
+    "hash": "3a5d3960bcfa783140127695cf5c978e"
+  },
+  {
+    "file": "assets/new_icon/icon_pending_atur.svg",
+    "hash": "3360e4662d73a7d560d1c9497a4cd515"
+  },
+  {
+    "file": "assets/new_icon/icon_refresh.svg",
+    "hash": "d1af9cf6060620b8581ea06b653b96f5"
+  },
+  {
+    "file": "assets/new_icon/icon-info-lifestyle.png",
+    "hash": "08c819312ac9220468c801680de2414e"
+  },
+  {
+    "file": "assets/new_icon/info lainnya.svg",
+    "hash": "650e9c8f856890404c47965603e86729"
+  },
+  {
+    "file": "assets/new_icon/info_lainnya.svg",
+    "hash": "650e9c8f856890404c47965603e86729"
+  },
+  {
+    "file": "assets/new_icon/kurs-angka.png",
+    "hash": "e3ca55636d3ffe5d3dafdab05c09862e"
+  },
+  {
+    "file": "assets/new_icon/kurs.jpg",
+    "hash": "65698b748c6936be0add27c70f24ee48"
+  },
+  {
+    "file": "assets/new_icon/kurs.svg",
+    "hash": "120254ac425d9a40f3ef47ba5e81f3b3"
+  },
+  {
+    "file": "assets/new_icon/layanan.svg",
+    "hash": "6d7925e6dbfe3741da0a83861aa504ab"
+  },
+  {
+    "file": "assets/new_icon/loan-oncard/banner-tenor.png",
+    "hash": "afa46b1c658415091799cb93cf55bb6c"
+  },
+  {
+    "file": "assets/new_icon/loan-oncard/hands-give.png",
+    "hash": "2d938c4bbd173593e204e6e03b4ac3ff"
+  },
+  {
+    "file": "assets/new_icon/loan-oncard/idea_icon.svg",
+    "hash": "9f8e81842ebf6c4652ccd7daebccab55"
+  },
+  {
+    "file": "assets/new_icon/loan-oncard/loc_banner.png",
+    "hash": "dfc4a7584040bf3ba1a70990d00f9eca"
+  },
+  {
+    "file": "assets/new_icon/loan-oncard/pengajuan_proses.svg",
+    "hash": "b5042895d837b8e23f917383b6aee09a"
+  },
+  {
+    "file": "assets/new_icon/lupa-pin/icon_click.svg",
+    "hash": "fcc103a211f0844e21d5a139d7c1b9dc"
+  },
+  {
+    "file": "assets/new_icon/lupa-pin/img-lupa-pin.png",
+    "hash": "47b8d2b23f10f70902540784c4a71e02"
+  },
+  {
+    "file": "assets/new_icon/menu_more.svg",
+    "hash": "1b4b90cadece71126d6036004cd9cba8"
+  },
+  {
+    "file": "assets/new_icon/more.png",
+    "hash": "f834666f0fa3bc41a9683f756e5f0bc1"
+  },
+  {
+    "file": "assets/new_icon/mstore/back.png",
+    "hash": "1a059159797a3c2ff4887c863dc5b454"
+  },
+  {
+    "file": "assets/new_icon/mstore/polem.png",
+    "hash": "095a2b769e4d116dca67d61e33fc68f5"
+  },
+  {
+    "file": "assets/new_icon/mstore/polem2.png",
+    "hash": "fe0bc943ddf0581cf797f9a58156e8c1"
+  },
+  {
+    "file": "assets/new_icon/mvirtual.svg",
+    "hash": "f0113c30b11a3941820ebc38b97063cd"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/btn-camera-1.svg",
+    "hash": "9aeb25e08f4a8d12b09272f61b05c81c"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/btn-camera.svg",
+    "hash": "4600a266b7c822a61bff1cd3a03d118e"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/btn-unggah.svg",
+    "hash": "6d8506c546dcd19567778e3f88531f1d"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/icon_calendar.svg",
+    "hash": "2f85675048c8ea4058db8dc8e0bdd733"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/icon_search.svg",
+    "hash": "56192de5a072ac68925b4f8175617038"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/icon_video.svg",
+    "hash": "7c12b640a9b84f95ffc3269f2aaad734"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/img_waiting_process.svg",
+    "hash": "f080024256a994717aeb0836dfacbb02"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/img-privy.png",
+    "hash": "d057a45717095e0d836e62c155006f30"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/mega_metro.png",
+    "hash": "f0ec5e5a1f4608deac590c5187cd6cd0"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/mega_travel.png",
+    "hash": "ac3b992c69cafb151a530476f1bf487f"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/mega_visa_gold.png",
+    "hash": "cea8bd7f1583d41d555849e4b7319407"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/mega_visa_platinum.png",
+    "hash": "75d09501efee66e0a91ab500394adc00"
+  },
+  {
+    "file": "assets/new_icon/onboarding-cc/sample-ktp.png",
+    "hash": "1ae148464cf119c4ddaa8e1aee0c71f4"
+  },
+  {
+    "file": "assets/new_icon/QR.svg",
+    "hash": "6cc2675dd15e3c4eb100fb7ee447d1b3"
+  },
+  {
+    "file": "assets/new_icon/reksa.png",
+    "hash": "ad8d75bb669ce209db6abab3d7fb608d"
+  },
+  {
+    "file": "assets/new_icon/tambah akun.svg",
+    "hash": "fef2f7749e5c903baf24660a7c4dace8"
+  },
+  {
+    "file": "assets/new_icon/taptopay/add-card.svg",
+    "hash": "f60324c54842413c63ed72748c09c181"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-corporate.png",
+    "hash": "09ab5b9f22a094681b9eb4853decbc22"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-corporate2.png",
+    "hash": "d65a50d9f767531e03abe008140eb72d"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-gold.png",
+    "hash": "73bac51cc1891f0757701996f679c33c"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-infinite.png",
+    "hash": "4cba2998365e88d23d85160ae26cd6d0"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-metro.png",
+    "hash": "5ac439ea3db0f4ad5df654f61f8eeb94"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-platinum.png",
+    "hash": "d07a6be364c92565fc53b0d932e639af"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-transmart.png",
+    "hash": "d74e4adc241878a76fc25657753fc84f"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-travel.png",
+    "hash": "202c7791f9ab484df20875737d96db96"
+  },
+  {
+    "file": "assets/new_icon/taptopay/banner-cc-tsm.png",
+    "hash": "f5deb64e74954067fb1da7fdd32fe79c"
+  },
+  {
+    "file": "assets/new_icon/taptopay/clock.png",
+    "hash": "6ef37e4f9c1231d9793f9e6109b11a58"
+  },
+  {
+    "file": "assets/new_icon/tarik tunai.svg",
+    "hash": "894c5f24e498928e87945805dc362848"
+  },
+  {
+    "file": "assets/new_icon/tarik_tunai.png",
+    "hash": "913be911d8a959c97a425dcc5d49de2c"
+  },
+  {
+    "file": "assets/new_icon/top up.svg",
+    "hash": "37debd98ba1badd72d9d5114d9d1a2db"
+  },
+  {
+    "file": "assets/new_icon/top_up.svg",
+    "hash": "64a4a950f707f7e4d9be3b0cf09ede36"
+  },
+  {
+    "file": "assets/new_icon/transfer.svg",
+    "hash": "cedffa949722d8bbf74066ba2f9ad200"
+  },
+  {
+    "file": "assets/obdntb/bank_mega_logo.svg",
+    "hash": "f8eb1347110dd08a23f36ed8235620b5"
+  },
+  {
+    "file": "assets/obdntb/banner_atas.svg",
+    "hash": "b0788e77d4411f8c0837117ba8ab3959"
+  },
+  {
+    "file": "assets/obdntb/btn-img.svg",
+    "hash": "b729551f92fae34b024ca2f0aca981c4"
+  },
+  {
+    "file": "assets/obdntb/card-1.svg",
+    "hash": "cebcd8cfdf4a2bd17715b3a00d5064bf"
+  },
+  {
+    "file": "assets/obdntb/card.svg",
+    "hash": "6ef00c7ff13b084de4785304994905d2"
+  },
+  {
+    "file": "assets/obdntb/contoh.svg",
+    "hash": "e1cf46b8c0382876a1e05ebc1fcc4eda"
+  },
+  {
+    "file": "assets/obdntb/lampu-right.svg",
+    "hash": "d1f369b097fc33bc6be87618c98192f4"
+  },
+  {
+    "file": "assets/obdntb/lampu.svg",
+    "hash": "f261f2304c2740407630360114b794f3"
+  },
+  {
+    "file": "assets/obdntb/langkah_ntb.svg",
+    "hash": "982b4b9c74e1d7c7a98f04dd4147066e"
+  },
+  {
+    "file": "assets/obdntb/langkah1.svg",
+    "hash": "ef0c1a93c8c236cee1f3f4a373ccecf3"
+  },
+  {
+    "file": "assets/obdntb/langkah2.svg",
+    "hash": "024e6ee8b821bde2da322cb59eef57e1"
+  },
+  {
+    "file": "assets/obdntb/langkah3.svg",
+    "hash": "cbbfc5b2048992a25df2a7e9290a0204"
+  },
+  {
+    "file": "assets/obdntb/liveness_ex.jpg",
+    "hash": "929a701fcd4796837a8b813359ebff09"
+  },
+  {
+    "file": "assets/obdntb/ntb_sukses.jpg",
+    "hash": "30c55de38d0c2a1f044a300d56572e30"
+  },
+  {
+    "file": "assets/obdntb/reg_sukses.svg",
+    "hash": "afa22e185fcd3338a485f2f4dfa27399"
+  },
+  {
+    "file": "assets/obdntb/vicall_sukses.svg",
+    "hash": "b27e3ba6e20a84c8648e7e024136bc26"
+  },
+  {
+    "file": "assets/obdntb/video.svg",
+    "hash": "7c12b640a9b84f95ffc3269f2aaad734"
+  },
+  {
+    "file": "assets/obdStyle.scss",
+    "hash": "b8aa476e214b2ef3160e4716b031ef54"
+  },
+  {
+    "file": "assets/reksaDana.scss",
+    "hash": "4fc640f37aec49a54d17f649b679de4f"
+  },
+  {
+    "file": "assets/smile/images/overlay-box.svg",
+    "hash": "b8515b389d72e2cd4185b339dd35e42d"
+  },
+  {
+    "file": "assets/smile/images/selfie-boy.png",
+    "hash": "7b1f8acc73cfa33a22dc9cd000e745b9"
+  },
+  {
+    "file": "assets/smile/models/facefinder.bin",
+    "hash": "e62afb44aecafcaa79c4902c18f385c7"
+  },
+  {
+    "file": "assets/smile/models/tiny_face_detector_model-shard1.bin",
+    "hash": "2e48b20953b0c59df47459d0319843a0"
+  },
+  {
+    "file": "assets/smile/models/tiny_face_detector_model-weights_manifest.json",
+    "hash": "e88d4ebb0b160e81b6087685416b9e14"
+  },
+  {
+    "file": "assets/splash.png",
+    "hash": "84fbcb538b50c166da985ea18f626d31"
+  },
+  {
+    "file": "assets/trfbifast/email.png",
+    "hash": "d676bfe83b9a72b72784f4e35aa2e90a"
+  },
+  {
+    "file": "assets/trfbifast/mailing.png",
+    "hash": "c17098cbb38feca11969f916e524794c"
+  },
+  {
+    "file": "assets/trfbifast/smartphone.png",
+    "hash": "8fed903534b65b6e327ad345c1d3f66d"
+  },
+  {
+    "file": "assets/ubah-cicilan/banner-tenor.png",
+    "hash": "9e40911661454ac3e7f84252a4d0aec1"
+  },
+  {
+    "file": "assets/ubah-cicilan/cancel_button.svg",
+    "hash": "a6bf9d59ef48fa0f2a55ab80dd454ffd"
+  },
+  {
+    "file": "assets/ubah-cicilan/card.svg",
+    "hash": "db3205831e97eb32c03a1fef0f52f3cb"
+  },
+  {
+    "file": "assets/ubah-cicilan/cc.png",
+    "hash": "19e631a94c27611d4006513bfb80ee74"
+  },
+  {
+    "file": "assets/ubah-cicilan/credit_shield_add.svg",
+    "hash": "06a17eae2e94739cc9c3130b90f08b30"
+  },
+  {
+    "file": "assets/ubah-cicilan/credit-shield-proses.svg",
+    "hash": "4857812cb9cd891540fcfd2e551f62e2"
+  },
+  {
+    "file": "assets/ubah-cicilan/credit-shield.svg",
+    "hash": "99ae82ebd0d1f61172ad2664c89a8dec"
+  },
+  {
+    "file": "assets/ubah-cicilan/empty-crossell.svg",
+    "hash": "c0739adcc0e87e9a71e3cfdc1b9339bb"
+  },
+  {
+    "file": "assets/ubah-cicilan/gagal.svg",
+    "hash": "284284e154b9e65ab3304dfcdb5425c6"
+  },
+  {
+    "file": "assets/ubah-cicilan/kartu-kredit.png",
+    "hash": "925a26e10aa80c1e728eac14d7882c2a"
+  },
+  {
+    "file": "assets/ubah-cicilan/lingkaran.png",
+    "hash": "bdd40c1676bf8704d32c5c8ff58b25df"
+  },
+  {
+    "file": "assets/ubah-cicilan/person.svg",
+    "hash": "efbedb0c230328e3be10890d3abd0a30"
+  },
+  {
+    "file": "assets/ubah-cicilan/protect.png",
+    "hash": "6cf74dbe121c41c9926650ba2a7f0d1b"
+  },
+  {
+    "file": "assets/ubah-cicilan/time.svg",
+    "hash": "d8defa62a7766cbbf6b7c3a65a203b50"
+  },
+  {
+    "file": "assets/ubah-cicilan/trash-creditshield.svg",
+    "hash": "6b37870879ea568ab6325632b623f97b"
+  },
+  {
+    "file": "assets/valas/index.json",
+    "hash": "e887c99fb3a753058233e1522b9d1f47"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/assets/blue_theme/checkmark_circle_white.svg",
+    "hash": "644b17987c5a16bcfc152be9f1331777"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/assets/blue_theme/logo_white.svg",
+    "hash": "6d0e263a5b7d0d81144ec90083f806e4"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/assets/visa_branding_sound.mp3",
+    "hash": "d8ad1f716df3273f767e074cb2b35dcf"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/assets/white_theme/checkmark_circle_blue.svg",
+    "hash": "70ce59a3ece31a2db4ee6fde2fb33a81"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/assets/white_theme/logo_blue.svg",
+    "hash": "0147d5f212b51c6b17d945cbe086f750"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/index.html",
+    "hash": "c72efce32e0ab64c44c9f654c641ea43"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/parse-url.js",
+    "hash": "ef98e2d01c20552ed250dc6d146fd9e3"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/parse-url.js.LICENSE.txt",
+    "hash": "76fd105b961a925329d605e9c3bb7706"
+  },
+  {
+    "file": "assets/VisaSensoryBrandingSDK/visa-sensory-branding.js",
+    "hash": "3c70d5969a60cc7ba95391e883e86eb5"
+  },
+  {
+    "file": "build/0.js",
+    "hash": "e47e7475416c7ecb5466bee5cd479564"
+  },
+  {
+    "file": "build/0.js.map",
+    "hash": "8c141050ac6c0a0fd58ce44851b8348b"
+  },
+  {
+    "file": "build/1.js",
+    "hash": "e2d9658b2b17b1f766c026a9e2bc7401"
+  },
+  {
+    "file": "build/1.js.map",
+    "hash": "0364379603eaf3eef8812c135f07ac16"
+  },
+  {
+    "file": "build/10.js",
+    "hash": "05b4deddb395bba8c754d44dff695c5b"
+  },
+  {
+    "file": "build/10.js.map",
+    "hash": "13de204716e82e772f299b69b48b3e00"
+  },
+  {
+    "file": "build/11.js",
+    "hash": "374966348ffad0f17cc0d2f414aa80c5"
+  },
+  {
+    "file": "build/11.js.map",
+    "hash": "8ffe1ede13335285566cc9c75ba2add8"
+  },
+  {
+    "file": "build/12.js",
+    "hash": "9788b08f7761d8c94225b09f33e25f45"
+  },
+  {
+    "file": "build/12.js.map",
+    "hash": "364d90dc2fab1564d8cd67a5eeb11ec4"
+  },
+  {
+    "file": "build/13.js",
+    "hash": "f3a112791ea5d8c48605c099c606a6ca"
+  },
+  {
+    "file": "build/13.js.map",
+    "hash": "87c68fa9abf66b3cdc7f7ca155a617df"
+  },
+  {
+    "file": "build/14.js",
+    "hash": "5eb689eae870cf46d95deea2fc40d092"
+  },
+  {
+    "file": "build/14.js.map",
+    "hash": "b5dff94c50d6be6198c868d9e4fc858b"
+  },
+  {
+    "file": "build/15.js",
+    "hash": "7adf9a15fcd8dbe5f6107ba252de564a"
+  },
+  {
+    "file": "build/15.js.map",
+    "hash": "dd9c59a517e089e49cb787f2a23d9b00"
+  },
+  {
+    "file": "build/16.js",
+    "hash": "1410e9347f3ebe0e592ac6ab438ce762"
+  },
+  {
+    "file": "build/16.js.map",
+    "hash": "80db7ded186b10a96b74ecb6dafc8be8"
+  },
+  {
+    "file": "build/17.js",
+    "hash": "af5a84235c18a7dce7c93e1f82ddbdf3"
+  },
+  {
+    "file": "build/17.js.map",
+    "hash": "93e599044bbe1d1ec1fd56717e5236e4"
+  },
+  {
+    "file": "build/18.js",
+    "hash": "354892c27bdfed68c891fcc09b579d54"
+  },
+  {
+    "file": "build/18.js.map",
+    "hash": "ec26d0e2f773d0760f22857411943693"
+  },
+  {
+    "file": "build/19.js",
+    "hash": "3c0a7d7facdcfaa8e820eec85cc8b191"
+  },
+  {
+    "file": "build/19.js.map",
+    "hash": "69e01066ac218bdd954055cdd09cd381"
+  },
+  {
+    "file": "build/2.js",
+    "hash": "ef9dc067bc8370527bcae1a79f0233f0"
+  },
+  {
+    "file": "build/2.js.map",
+    "hash": "2ae81912f8440b1fc2d4f26b2b709498"
+  },
+  {
+    "file": "build/20.js",
+    "hash": "760be624a6f9b6753f07d296bf3d59a6"
+  },
+  {
+    "file": "build/20.js.map",
+    "hash": "48372b8070157afbaf264c97423b7b8f"
+  },
+  {
+    "file": "build/21.js",
+    "hash": "f5409b8a52b07a91e45fe297b84bca4b"
+  },
+  {
+    "file": "build/21.js.map",
+    "hash": "12e103e91912ae042eecf7e00e5bf048"
+  },
+  {
+    "file": "build/22.js",
+    "hash": "6b28413f7d7b52f37eb627323af38c1e"
+  },
+  {
+    "file": "build/22.js.map",
+    "hash": "bcbcd338f5d94acb5a5d6e4922993311"
+  },
+  {
+    "file": "build/23.js",
+    "hash": "cda5ba879aa7e06531aae00c0e2a79e3"
+  },
+  {
+    "file": "build/23.js.map",
+    "hash": "0f36e3af7e8b711cb8f2edfe8aa0ec5c"
+  },
+  {
+    "file": "build/24.js",
+    "hash": "4aaeb07235ab1f48e0d87d5642d96700"
+  },
+  {
+    "file": "build/24.js.map",
+    "hash": "41d88d4422dc914df77bf6cf5a6c2db0"
+  },
+  {
+    "file": "build/25.js",
+    "hash": "0eb144c67cd149906aaae4d04d440a2d"
+  },
+  {
+    "file": "build/25.js.map",
+    "hash": "a9ea68b5846eb131871d881a157d6f19"
+  },
+  {
+    "file": "build/26.js",
+    "hash": "6b025681e9ec78da7999907754c25b79"
+  },
+  {
+    "file": "build/26.js.map",
+    "hash": "f55a3dc5285fd28b9aef04480744dd5a"
+  },
+  {
+    "file": "build/27.js",
+    "hash": "e738ace0f020db5cef14be94c4a24f58"
+  },
+  {
+    "file": "build/27.js.map",
+    "hash": "709746f13f8a5d9b597babcce85c8769"
+  },
+  {
+    "file": "build/28.js",
+    "hash": "84fddb42193b33e7e70f7d7163e136b0"
+  },
+  {
+    "file": "build/28.js.map",
+    "hash": "a7d321afc6455fb37ed4c69d967484b2"
+  },
+  {
+    "file": "build/29.js",
+    "hash": "ea3ceee5f833de9c53be2d21bc08a862"
+  },
+  {
+    "file": "build/29.js.map",
+    "hash": "9a41828983327e967868848d79b5a5e7"
+  },
+  {
+    "file": "build/3.js",
+    "hash": "0db60840c355bf3a302f452b043feb27"
+  },
+  {
+    "file": "build/3.js.map",
+    "hash": "14da44c823cbe49dfd883f5f865d8780"
+  },
+  {
+    "file": "build/30.js",
+    "hash": "6b3d1382fdd796d55c3912b59c15c96f"
+  },
+  {
+    "file": "build/30.js.map",
+    "hash": "35dd129ff418a0f60663041a1238bcd5"
+  },
+  {
+    "file": "build/31.js",
+    "hash": "cd583f3eb007560335004f57ee710b3d"
+  },
+  {
+    "file": "build/31.js.map",
+    "hash": "a1f16a4d7887f9e28320b5001f389827"
+  },
+  {
+    "file": "build/32.js",
+    "hash": "cc7c64e4637318de06fd5c2f118f6229"
+  },
+  {
+    "file": "build/32.js.map",
+    "hash": "02a65a410011b2f46d008ed8d080cfed"
+  },
+  {
+    "file": "build/33.js",
+    "hash": "2edb1e6b449613d6f23d3093ca69d3f6"
+  },
+  {
+    "file": "build/33.js.map",
+    "hash": "de724cd96e6377112bdf83af9fb18912"
+  },
+  {
+    "file": "build/34.js",
+    "hash": "fbf368dd980345b2ec32826990c7bb3e"
+  },
+  {
+    "file": "build/34.js.map",
+    "hash": "efae643d8dc9083d8e3d12fad5a53eca"
+  },
+  {
+    "file": "build/35.js",
+    "hash": "555911a1ac65c87acc1cf61515b456a1"
+  },
+  {
+    "file": "build/35.js.map",
+    "hash": "9f51d1b9767af07992cee97f80e17e45"
+  },
+  {
+    "file": "build/36.js",
+    "hash": "dbe5d64a32e669b895f7a89f816baebf"
+  },
+  {
+    "file": "build/36.js.map",
+    "hash": "3be4fd17fd68db1e7194a0022d811296"
+  },
+  {
+    "file": "build/37.js",
+    "hash": "2adab6b625288bf7f22f7d24bd72c5dc"
+  },
+  {
+    "file": "build/37.js.map",
+    "hash": "add84365636473e30d89edecaa5a496a"
+  },
+  {
+    "file": "build/38.js",
+    "hash": "744e5b34b400b4c1d46cd018932ca810"
+  },
+  {
+    "file": "build/38.js.map",
+    "hash": "37c5781b082eed3a1de7fc46ea6c2813"
+  },
+  {
+    "file": "build/39.js",
+    "hash": "3877490e70d31c4e7a0e0570e822a6f0"
+  },
+  {
+    "file": "build/39.js.map",
+    "hash": "a322f04e9951df25097d64865079c66b"
+  },
+  {
+    "file": "build/4.js",
+    "hash": "61132e7f68497829d193f87e07786d8f"
+  },
+  {
+    "file": "build/4.js.map",
+    "hash": "f21b06921f3a21bcf0c31c47e4ea1280"
+  },
+  {
+    "file": "build/40.js",
+    "hash": "e0af88297af622c6ca2f4ae6ec9f929a"
+  },
+  {
+    "file": "build/40.js.map",
+    "hash": "721316f4bdd969eb6aaa243beea73616"
+  },
+  {
+    "file": "build/41.js",
+    "hash": "b5e6639352820b340fa8f04218802351"
+  },
+  {
+    "file": "build/41.js.map",
+    "hash": "e3c664fd5e798810cfbc386b083c0657"
+  },
+  {
+    "file": "build/42.js",
+    "hash": "e357d5c3e3dfc9367626d98d27db985f"
+  },
+  {
+    "file": "build/42.js.map",
+    "hash": "f6676260fa60eb3067b9700b4c8ea801"
+  },
+  {
+    "file": "build/43.js",
+    "hash": "ac483c9a1c8010af95f23cab9b7a6d55"
+  },
+  {
+    "file": "build/43.js.map",
+    "hash": "f8cd528cc492a6c466abf56d171a011a"
+  },
+  {
+    "file": "build/44.js",
+    "hash": "a158d3f14edad8460e22e1f94a05d59d"
+  },
+  {
+    "file": "build/44.js.map",
+    "hash": "1a7eed66dc49b75085a0998425467cd2"
+  },
+  {
+    "file": "build/45.js",
+    "hash": "d9c81068d5072ae5661c163273336783"
+  },
+  {
+    "file": "build/45.js.map",
+    "hash": "5e4c5f64b884d748bc7d4fdc124adbe7"
+  },
+  {
+    "file": "build/46.js",
+    "hash": "5141022028676c9b6fa345f076e5876b"
+  },
+  {
+    "file": "build/46.js.map",
+    "hash": "89159606a848eea2dd1b848d92028977"
+  },
+  {
+    "file": "build/47.js",
+    "hash": "d79999ff14c8483f258917316e0a665d"
+  },
+  {
+    "file": "build/47.js.map",
+    "hash": "0bb20d23ceab5cbf2774a7a4d240b497"
+  },
+  {
+    "file": "build/48.js",
+    "hash": "cb64d9340c5fddcadf87ca225e9263ea"
+  },
+  {
+    "file": "build/48.js.map",
+    "hash": "5bb6732e81a78f69129815ed8b594dd4"
+  },
+  {
+    "file": "build/5.js",
+    "hash": "708dab67cb0dbfcac4fd2a231202d6f6"
+  },
+  {
+    "file": "build/5.js.map",
+    "hash": "b83e0ea18ebf6c70a9ca3c0f01861cb7"
+  },
+  {
+    "file": "build/50.js",
+    "hash": "a9cc098403b51263ac07b59375542dd1"
+  },
+  {
+    "file": "build/50.js.map",
+    "hash": "f39a9d048871981dcc814960e84ab69c"
+  },
+  {
+    "file": "build/6.js",
+    "hash": "f06a2fdc26f5c4e979d4c03be18af152"
+  },
+  {
+    "file": "build/6.js.map",
+    "hash": "7d469bef3d6312102ff4c976b7448220"
+  },
+  {
+    "file": "build/7.js",
+    "hash": "7d5ec646767fc8569160ef944be7518d"
+  },
+  {
+    "file": "build/7.js.map",
+    "hash": "171d19816f1c73ce9401ab5fcc8befe9"
+  },
+  {
+    "file": "build/8.js",
+    "hash": "823dceaf4ae8e9acd5ba440506e45fe7"
+  },
+  {
+    "file": "build/8.js.map",
+    "hash": "a77ecac9a3a0a361220a1d23ce645c2a"
+  },
+  {
+    "file": "build/9.js",
+    "hash": "1f8028585dc68b43f81b6f6257f58baa"
+  },
+  {
+    "file": "build/9.js.map",
+    "hash": "bb4d050ec5065f96d15f4f751c761c43"
+  },
+  {
+    "file": "build/main.css",
+    "hash": "69fecb97d91cb7f2f03e37e72b9ca6ea"
+  },
+  {
+    "file": "build/main.css.map",
+    "hash": "37a6259cc0c1dae299a7866489dff0bd"
+  },
+  {
+    "file": "build/main.js",
+    "hash": "788ec7aa63bcd3bd94bbd773504fe335"
+  },
+  {
+    "file": "build/main.js.map",
+    "hash": "de5dfdcc07f756f85a9751c9aedae758"
+  },
+  {
+    "file": "build/polyfills.js",
+    "hash": "443c697fc904cd88a651d09cf5c2fe2b"
+  },
+  {
+    "file": "build/sw-toolbox.js",
+    "hash": "2770efb889cc10c4de88d0b746c2a13c"
+  },
+  {
+    "file": "build/vendor.js",
+    "hash": "0e338b0c8b3d8a2b302e43a3a2fa9bc0"
+  },
+  {
+    "file": "build/vendor.js.map",
+    "hash": "dbbf9210d321639361819d4e673b1193"
+  },
+  {
+    "file": "index.html",
+    "hash": "00aeb3bcbecf72d5c312ad790bf03156"
+  },
+  {
+    "file": "manifest.json",
+    "hash": "df9b99468d4bd4cf2fee5d24ed9badbf"
+  },
+  {
+    "file": "service-worker.js",
+    "hash": "6b5672d3b7adf00984523bbdf655cb92"
+  }
+]

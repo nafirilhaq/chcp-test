@@ -1,0 +1,1012 @@
+[
+    {
+        "CURR_CODE": "4",
+        "CURR_LITERAL": "AFA",
+        "CURR_NAME": "AFGHANI             "
+    },
+    {
+        "CURR_CODE": "8",
+        "CURR_LITERAL": "ALL",
+        "CURR_NAME": "LEK                 "
+    },
+    {
+        "CURR_CODE": "12",
+        "CURR_LITERAL": "DZD",
+        "CURR_NAME": "ALGERIAN DINAR      "
+    },
+    {
+        "CURR_CODE": "24",
+        "CURR_LITERAL": "AON",
+        "CURR_NAME": "NEW KWANZA          "
+    },
+    {
+        "CURR_CODE": "31",
+        "CURR_LITERAL": "AZM",
+        "CURR_NAME": "AZERBAIJANIA N MANAT"
+    },
+    {
+        "CURR_CODE": "32",
+        "CURR_LITERAL": "ARA",
+        "CURR_NAME": "ARGENTINE PESO      "
+    },
+    {
+        "CURR_CODE": "36",
+        "CURR_LITERAL": "AUD",
+        "CURR_NAME": "AUSTRALIAN DOLLAR   "
+    },
+    {
+        "CURR_CODE": "40",
+        "CURR_LITERAL": "ATS",
+        "CURR_NAME": "SCHILLING           "
+    },
+    {
+        "CURR_CODE": "44",
+        "CURR_LITERAL": "BSD",
+        "CURR_NAME": "BAHAMIAN DOLLAR     "
+    },
+    {
+        "CURR_CODE": "48",
+        "CURR_LITERAL": "BHD",
+        "CURR_NAME": "BAHRAINI DINAR      "
+    },
+    {
+        "CURR_CODE": "50",
+        "CURR_LITERAL": "BDT",
+        "CURR_NAME": "TAKA                "
+    },
+    {
+        "CURR_CODE": "51",
+        "CURR_LITERAL": "AMD",
+        "CURR_NAME": "ARMENIAN DRAM       "
+    },
+    {
+        "CURR_CODE": "52",
+        "CURR_LITERAL": "BBD",
+        "CURR_NAME": "BARBADOS DOLLAR     "
+    },
+    {
+        "CURR_CODE": "56",
+        "CURR_LITERAL": "BEF",
+        "CURR_NAME": "BELGIAN FRANC       "
+    },
+    {
+        "CURR_CODE": "60",
+        "CURR_LITERAL": "BMD",
+        "CURR_NAME": "BERMUDAN DOLLAR     "
+    },
+    {
+        "CURR_CODE": "64",
+        "CURR_LITERAL": "BTN",
+        "CURR_NAME": "Bhutanese ngultrum  "
+    },
+    {
+        "CURR_CODE": "68",
+        "CURR_LITERAL": "BOP",
+        "CURR_NAME": "BOLIVIAN PESO       "
+    },
+    {
+        "CURR_CODE": "70",
+        "CURR_LITERAL": "BAD",
+        "CURR_NAME": "BOSNIAN DINAR       "
+    },
+    {
+        "CURR_CODE": "72",
+        "CURR_LITERAL": "BWP",
+        "CURR_NAME": "PULA                "
+    },
+    {
+        "CURR_CODE": "76",
+        "CURR_LITERAL": "BRE",
+        "CURR_NAME": "CRUZADO             "
+    },
+    {
+        "CURR_CODE": "84",
+        "CURR_LITERAL": "BZD",
+        "CURR_NAME": "BELIZE DOLLAR       "
+    },
+    {
+        "CURR_CODE": "90",
+        "CURR_LITERAL": "SBD",
+        "CURR_NAME": "SOLOMAN ISLS DOLLAR "
+    },
+    {
+        "CURR_CODE": "96",
+        "CURR_LITERAL": "BND",
+        "CURR_NAME": "BRUNEI DOLLAR       "
+    },
+    {
+        "CURR_CODE": "104",
+        "CURR_LITERAL": "BUK",
+        "CURR_NAME": "KYAT                "
+    },
+    {
+        "CURR_CODE": "108",
+        "CURR_LITERAL": "BIF",
+        "CURR_NAME": "BURUNDI FRANC       "
+    },
+    {
+        "CURR_CODE": "116",
+        "CURR_LITERAL": "KHR",
+        "CURR_NAME": "RIEL                "
+    },
+    {
+        "CURR_CODE": "124",
+        "CURR_LITERAL": "CAD",
+        "CURR_NAME": "CANADIAN DOLLAR     "
+    },
+    {
+        "CURR_CODE": "132",
+        "CURR_LITERAL": "CVE",
+        "CURR_NAME": "CAPE VERDE ESCUDO   "
+    },
+    {
+        "CURR_CODE": "136",
+        "CURR_LITERAL": "KYD",
+        "CURR_NAME": "CAYMAN ISLS DOLLAR  "
+    },
+    {
+        "CURR_CODE": "144",
+        "CURR_LITERAL": "LKR",
+        "CURR_NAME": "SRI LANKA RUPEE     "
+    },
+    {
+        "CURR_CODE": "152",
+        "CURR_LITERAL": "CLP",
+        "CURR_NAME": "CHILEAN PESO        "
+    },
+    {
+        "CURR_CODE": "156",
+        "CURR_LITERAL": "CNY",
+        "CURR_NAME": "YUAN RENMINBI       "
+    },
+    {
+        "CURR_CODE": "170",
+        "CURR_LITERAL": "COP",
+        "CURR_NAME": "COLOMBIAN PESO      "
+    },
+    {
+        "CURR_CODE": "174",
+        "CURR_LITERAL": "KMF",
+        "CURR_NAME": "COMOROS FRANC       "
+    },
+    {
+        "CURR_CODE": "180",
+        "CURR_LITERAL": "CDF",
+        "CURR_NAME": "Franc               "
+    },
+    {
+        "CURR_CODE": "188",
+        "CURR_LITERAL": "CRC",
+        "CURR_NAME": "COSTA RICAN COLON   "
+    },
+    {
+        "CURR_CODE": "191",
+        "CURR_LITERAL": "HRK",
+        "CURR_NAME": "KUNA                "
+    },
+    {
+        "CURR_CODE": "192",
+        "CURR_LITERAL": "CUP",
+        "CURR_NAME": "CUBAN PESO          "
+    },
+    {
+        "CURR_CODE": "196",
+        "CURR_LITERAL": "CYP",
+        "CURR_NAME": "CYPRUS POUND        "
+    },
+    {
+        "CURR_CODE": "203",
+        "CURR_LITERAL": "CZK",
+        "CURR_NAME": "CZECH KORUNA        "
+    },
+    {
+        "CURR_CODE": "208",
+        "CURR_LITERAL": "DKK",
+        "CURR_NAME": "DANISH KRONE        "
+    },
+    {
+        "CURR_CODE": "214",
+        "CURR_LITERAL": "DOP",
+        "CURR_NAME": "DOMINICAN PESO      "
+    },
+    {
+        "CURR_CODE": "218",
+        "CURR_LITERAL": "ECS",
+        "CURR_NAME": "SUCRE               "
+    },
+    {
+        "CURR_CODE": "222",
+        "CURR_LITERAL": "SVC",
+        "CURR_NAME": "EL SALVADOR COLON   "
+    },
+    {
+        "CURR_CODE": "226",
+        "CURR_LITERAL": "GQE",
+        "CURR_NAME": "EKUELE              "
+    },
+    {
+        "CURR_CODE": "230",
+        "CURR_LITERAL": "ETB",
+        "CURR_NAME": "ETHIOPIAN BIRR      "
+    },
+    {
+        "CURR_CODE": "232",
+        "CURR_LITERAL": "ERN",
+        "CURR_NAME": "ERITREAN NAKFA      "
+    },
+    {
+        "CURR_CODE": "238",
+        "CURR_LITERAL": "FKP",
+        "CURR_NAME": "FALKLAND ISLS POUND "
+    },
+    {
+        "CURR_CODE": "242",
+        "CURR_LITERAL": "FJD",
+        "CURR_NAME": "FIJI DOLLAR         "
+    },
+    {
+        "CURR_CODE": "246",
+        "CURR_LITERAL": "FIM",
+        "CURR_NAME": "MARKKA              "
+    },
+    {
+        "CURR_CODE": "250",
+        "CURR_LITERAL": "FRF",
+        "CURR_NAME": "FRENCH FRANC        "
+    },
+    {
+        "CURR_CODE": "262",
+        "CURR_LITERAL": "DJF",
+        "CURR_NAME": "DJIBOUTI FRANC      "
+    },
+    {
+        "CURR_CODE": "268",
+        "CURR_LITERAL": "GEK",
+        "CURR_NAME": "GEORGIAN COUPON     "
+    },
+    {
+        "CURR_CODE": "270",
+        "CURR_LITERAL": "GMD",
+        "CURR_NAME": "DALASI              "
+    },
+    {
+        "CURR_CODE": "276",
+        "CURR_LITERAL": "DEM",
+        "CURR_NAME": "DEUTSCHE MARK       "
+    },
+    {
+        "CURR_CODE": "278",
+        "CURR_LITERAL": "DDM",
+        "CURR_NAME": "MARK DER DDR        "
+    },
+    {
+        "CURR_CODE": "280",
+        "CURR_LITERAL": "DEM",
+        "CURR_NAME": "DEUTSCHE MARK       "
+    },
+    {
+        "CURR_CODE": "288",
+        "CURR_LITERAL": "GHC",
+        "CURR_NAME": "CEDI                "
+    },
+    {
+        "CURR_CODE": "292",
+        "CURR_LITERAL": "GIP",
+        "CURR_NAME": "GIBRALTAR POUND     "
+    },
+    {
+        "CURR_CODE": "300",
+        "CURR_LITERAL": "GRD",
+        "CURR_NAME": "DRACHMA             "
+    },
+    {
+        "CURR_CODE": "320",
+        "CURR_LITERAL": "GTQ",
+        "CURR_NAME": "QUETZAL             "
+    },
+    {
+        "CURR_CODE": "324",
+        "CURR_LITERAL": "GNF",
+        "CURR_NAME": "GUINEA FRANC        "
+    },
+    {
+        "CURR_CODE": "328",
+        "CURR_LITERAL": "GYD",
+        "CURR_NAME": "GUYANA DOLLAR       "
+    },
+    {
+        "CURR_CODE": "332",
+        "CURR_LITERAL": "HTG",
+        "CURR_NAME": "GOURDE              "
+    },
+    {
+        "CURR_CODE": "340",
+        "CURR_LITERAL": "HNL",
+        "CURR_NAME": "LEMPIRA             "
+    },
+    {
+        "CURR_CODE": "344",
+        "CURR_LITERAL": "HKD",
+        "CURR_NAME": "HONG KONG DOLLAR    "
+    },
+    {
+        "CURR_CODE": "348",
+        "CURR_LITERAL": "HUF",
+        "CURR_NAME": "FORINT              "
+    },
+    {
+        "CURR_CODE": "352",
+        "CURR_LITERAL": "ISK",
+        "CURR_NAME": "ICELANDIC KRONA     "
+    },
+    {
+        "CURR_CODE": "356",
+        "CURR_LITERAL": "INR",
+        "CURR_NAME": "INDIAN RUPEE        "
+    },
+    {
+        "CURR_CODE": "360",
+        "CURR_LITERAL": "IDR",
+        "CURR_NAME": "RUPIAH              "
+    },
+    {
+        "CURR_CODE": "364",
+        "CURR_LITERAL": "IRR",
+        "CURR_NAME": "IRANIAN RIAL        "
+    },
+    {
+        "CURR_CODE": "368",
+        "CURR_LITERAL": "IQD",
+        "CURR_NAME": "IRAQI DINAR         "
+    },
+    {
+        "CURR_CODE": "372",
+        "CURR_LITERAL": "IEP",
+        "CURR_NAME": "IRISH POUND         "
+    },
+    {
+        "CURR_CODE": "376",
+        "CURR_LITERAL": "ILS",
+        "CURR_NAME": "SHEKEL              "
+    },
+    {
+        "CURR_CODE": "380",
+        "CURR_LITERAL": "ITL",
+        "CURR_NAME": "ITALIAN LIRA        "
+    },
+    {
+        "CURR_CODE": "388",
+        "CURR_LITERAL": "JMD",
+        "CURR_NAME": "JAMAICAN DOLLAR     "
+    },
+    {
+        "CURR_CODE": "392",
+        "CURR_LITERAL": "JPY",
+        "CURR_NAME": "YEN                 "
+    },
+    {
+        "CURR_CODE": "398",
+        "CURR_LITERAL": "KZT",
+        "CURR_NAME": "TENGE               "
+    },
+    {
+        "CURR_CODE": "400",
+        "CURR_LITERAL": "JOD",
+        "CURR_NAME": "JORDANIAN DINAR     "
+    },
+    {
+        "CURR_CODE": "404",
+        "CURR_LITERAL": "KES",
+        "CURR_NAME": "KENYAN SHILLING     "
+    },
+    {
+        "CURR_CODE": "408",
+        "CURR_LITERAL": "KPW",
+        "CURR_NAME": "NORTH KOREAN WON    "
+    },
+    {
+        "CURR_CODE": "410",
+        "CURR_LITERAL": "KRW",
+        "CURR_NAME": "WON                 "
+    },
+    {
+        "CURR_CODE": "414",
+        "CURR_LITERAL": "KWD",
+        "CURR_NAME": "KUWAITI DINAR       "
+    },
+    {
+        "CURR_CODE": "418",
+        "CURR_LITERAL": "LAK",
+        "CURR_NAME": "KIP                 "
+    },
+    {
+        "CURR_CODE": "422",
+        "CURR_LITERAL": "LBP",
+        "CURR_NAME": "LEBANESE POUND      "
+    },
+    {
+        "CURR_CODE": "426",
+        "CURR_LITERAL": "LSL",
+        "CURR_NAME": "LESOTHO LOTI        "
+    },
+    {
+        "CURR_CODE": "428",
+        "CURR_LITERAL": "LVL",
+        "CURR_NAME": "LATVIAN LATS        "
+    },
+    {
+        "CURR_CODE": "430",
+        "CURR_LITERAL": "LRD",
+        "CURR_NAME": "LIBERIAN DOLLAR     "
+    },
+    {
+        "CURR_CODE": "434",
+        "CURR_LITERAL": "LYD",
+        "CURR_NAME": "LIBYAN DINAR        "
+    },
+    {
+        "CURR_CODE": "440",
+        "CURR_LITERAL": "LTL",
+        "CURR_NAME": "LITHUANIAN LITAS    "
+    },
+    {
+        "CURR_CODE": "442",
+        "CURR_LITERAL": "LUF",
+        "CURR_NAME": "LUXEMBOURG FRANC    "
+    },
+    {
+        "CURR_CODE": "446",
+        "CURR_LITERAL": "MOP",
+        "CURR_NAME": "PATACA              "
+    },
+    {
+        "CURR_CODE": "450",
+        "CURR_LITERAL": "MGF",
+        "CURR_NAME": "MALAGASY FRANC      "
+    },
+    {
+        "CURR_CODE": "454",
+        "CURR_LITERAL": "MWK",
+        "CURR_NAME": "MALAWI KWACHA       "
+    },
+    {
+        "CURR_CODE": "458",
+        "CURR_LITERAL": "MYR",
+        "CURR_NAME": "MALAYSIAN RINGGIT   "
+    },
+    {
+        "CURR_CODE": "462",
+        "CURR_LITERAL": "MVR",
+        "CURR_NAME": "RUFIYAA             "
+    },
+    {
+        "CURR_CODE": "466",
+        "CURR_LITERAL": "MLF",
+        "CURR_NAME": "MALI FRANC          "
+    },
+    {
+        "CURR_CODE": "470",
+        "CURR_LITERAL": "MTL",
+        "CURR_NAME": "MALTESE LIRA        "
+    },
+    {
+        "CURR_CODE": "478",
+        "CURR_LITERAL": "MRO",
+        "CURR_NAME": "OUGUIYA             "
+    },
+    {
+        "CURR_CODE": "480",
+        "CURR_LITERAL": "MUR",
+        "CURR_NAME": "MAURITIUS RUPEE     "
+    },
+    {
+        "CURR_CODE": "484",
+        "CURR_LITERAL": "MXN",
+        "CURR_NAME": "MEXICAN PESO        "
+    },
+    {
+        "CURR_CODE": "496",
+        "CURR_LITERAL": "MNT",
+        "CURR_NAME": "TUGRIK              "
+    },
+    {
+        "CURR_CODE": "498",
+        "CURR_LITERAL": "MDL",
+        "CURR_NAME": "MOLDOVAN LEU        "
+    },
+    {
+        "CURR_CODE": "504",
+        "CURR_LITERAL": "MAD",
+        "CURR_NAME": "MOROCCAN DIRHAM     "
+    },
+    {
+        "CURR_CODE": "508",
+        "CURR_LITERAL": "MZM",
+        "CURR_NAME": "METICAL             "
+    },
+    {
+        "CURR_CODE": "512",
+        "CURR_LITERAL": "OMR",
+        "CURR_NAME": "RIAL OMANI          "
+    },
+    {
+        "CURR_CODE": "516",
+        "CURR_LITERAL": "NAD",
+        "CURR_NAME": "NAMIBIA DOLLAR      "
+    },
+    {
+        "CURR_CODE": "524",
+        "CURR_LITERAL": "NPR",
+        "CURR_NAME": "NEPALESE RUPEE      "
+    },
+    {
+        "CURR_CODE": "528",
+        "CURR_LITERAL": "NLG",
+        "CURR_NAME": "NETHERLANDS GUILDER "
+    },
+    {
+        "CURR_CODE": "532",
+        "CURR_LITERAL": "ANG",
+        "CURR_NAME": "ANTILLIAN GUILDER   "
+    },
+    {
+        "CURR_CODE": "533",
+        "CURR_LITERAL": "AWG",
+        "CURR_NAME": "ARUBAN GUILDER      "
+    },
+    {
+        "CURR_CODE": "548",
+        "CURR_LITERAL": "VUV",
+        "CURR_NAME": "VATU                "
+    },
+    {
+        "CURR_CODE": "554",
+        "CURR_LITERAL": "NZD",
+        "CURR_NAME": "NEW ZEALAND DOLLAR  "
+    },
+    {
+        "CURR_CODE": "558",
+        "CURR_LITERAL": "NIC",
+        "CURR_NAME": "CORDOBA             "
+    },
+    {
+        "CURR_CODE": "566",
+        "CURR_LITERAL": "NGN",
+        "CURR_NAME": "NAIRA               "
+    },
+    {
+        "CURR_CODE": "578",
+        "CURR_LITERAL": "NOK",
+        "CURR_NAME": "NORWEGIAN KRONE     "
+    },
+    {
+        "CURR_CODE": "586",
+        "CURR_LITERAL": "PKR",
+        "CURR_NAME": "PAKISTAN RUPEE      "
+    },
+    {
+        "CURR_CODE": "590",
+        "CURR_LITERAL": "PAB",
+        "CURR_NAME": "BALBOA              "
+    },
+    {
+        "CURR_CODE": "598",
+        "CURR_LITERAL": "PGK",
+        "CURR_NAME": "KINA                "
+    },
+    {
+        "CURR_CODE": "600",
+        "CURR_LITERAL": "PYG",
+        "CURR_NAME": "GUARANI             "
+    },
+    {
+        "CURR_CODE": "604",
+        "CURR_LITERAL": "PEI",
+        "CURR_NAME": "INTI                "
+    },
+    {
+        "CURR_CODE": "608",
+        "CURR_LITERAL": "PHP",
+        "CURR_NAME": "PHILIPPINE PESO     "
+    },
+    {
+        "CURR_CODE": "620",
+        "CURR_LITERAL": "PTE",
+        "CURR_NAME": "PORTUGUESE ESCUDO   "
+    },
+    {
+        "CURR_CODE": "624",
+        "CURR_LITERAL": "GWP",
+        "CURR_NAME": "GUINEA-BISSAU PESO  "
+    },
+    {
+        "CURR_CODE": "626",
+        "CURR_LITERAL": "TPE",
+        "CURR_NAME": "TIMOR ESCUDO        "
+    },
+    {
+        "CURR_CODE": "634",
+        "CURR_LITERAL": "QAR",
+        "CURR_NAME": "QATARI RIAL         "
+    },
+    {
+        "CURR_CODE": "642",
+        "CURR_LITERAL": "ROL",
+        "CURR_NAME": "LEU                 "
+    },
+    {
+        "CURR_CODE": "643",
+        "CURR_LITERAL": "RUB",
+        "CURR_NAME": "RUSSIAN RUBLE       "
+    },
+    {
+        "CURR_CODE": "646",
+        "CURR_LITERAL": "RWF",
+        "CURR_NAME": "RWANDA FRANC        "
+    },
+    {
+        "CURR_CODE": "654",
+        "CURR_LITERAL": "SHP",
+        "CURR_NAME": "ST. HELENA POUND    "
+    },
+    {
+        "CURR_CODE": "678",
+        "CURR_LITERAL": "STD",
+        "CURR_NAME": "DOBRA               "
+    },
+    {
+        "CURR_CODE": "682",
+        "CURR_LITERAL": "SAR",
+        "CURR_NAME": "SAUDI RIYAL         "
+    },
+    {
+        "CURR_CODE": "690",
+        "CURR_LITERAL": "SCR",
+        "CURR_NAME": "SEYCHELLES RUPEE    "
+    },
+    {
+        "CURR_CODE": "694",
+        "CURR_LITERAL": "SLL",
+        "CURR_NAME": "LEONE               "
+    },
+    {
+        "CURR_CODE": "702",
+        "CURR_LITERAL": "SGD",
+        "CURR_NAME": "SINGAPORE DOLLAR    "
+    },
+    {
+        "CURR_CODE": "704",
+        "CURR_LITERAL": "VND",
+        "CURR_NAME": "DONG                "
+    },
+    {
+        "CURR_CODE": "705",
+        "CURR_LITERAL": "SIT",
+        "CURR_NAME": "TOLAR               "
+    },
+    {
+        "CURR_CODE": "706",
+        "CURR_LITERAL": "SOS",
+        "CURR_NAME": "SOMALI SHILLING     "
+    },
+    {
+        "CURR_CODE": "710",
+        "CURR_LITERAL": "ZAR",
+        "CURR_NAME": "RAND                "
+    },
+    {
+        "CURR_CODE": "716",
+        "CURR_LITERAL": "ZWD",
+        "CURR_NAME": "ZIMBABWE DOLLAR     "
+    },
+    {
+        "CURR_CODE": "724",
+        "CURR_LITERAL": "ESP",
+        "CURR_NAME": "SPANISH PESETA      "
+    },
+    {
+        "CURR_CODE": "728",
+        "CURR_LITERAL": "SSP",
+        "CURR_NAME": "SOUTH SUDANESE POUND"
+    },
+    {
+        "CURR_CODE": "736",
+        "CURR_LITERAL": "SDD",
+        "CURR_NAME": "SUDANESE POUND      "
+    },
+    {
+        "CURR_CODE": "740",
+        "CURR_LITERAL": "SRG",
+        "CURR_NAME": "SURINAME GUILDER    "
+    },
+    {
+        "CURR_CODE": "748",
+        "CURR_LITERAL": "SZL",
+        "CURR_NAME": "LILANGENI           "
+    },
+    {
+        "CURR_CODE": "752",
+        "CURR_LITERAL": "SEK",
+        "CURR_NAME": "SWEDISH KRONA       "
+    },
+    {
+        "CURR_CODE": "756",
+        "CURR_LITERAL": "CHF",
+        "CURR_NAME": "SWISS FRANC         "
+    },
+    {
+        "CURR_CODE": "760",
+        "CURR_LITERAL": "SYP",
+        "CURR_NAME": "SYRIAN POUND        "
+    },
+    {
+        "CURR_CODE": "764",
+        "CURR_LITERAL": "THB",
+        "CURR_NAME": "BAHT                "
+    },
+    {
+        "CURR_CODE": "776",
+        "CURR_LITERAL": "TOP",
+        "CURR_NAME": "PA'ANGA             "
+    },
+    {
+        "CURR_CODE": "780",
+        "CURR_LITERAL": "TTD",
+        "CURR_NAME": "TRINIDAD/TOBAGO DOL."
+    },
+    {
+        "CURR_CODE": "784",
+        "CURR_LITERAL": "AED",
+        "CURR_NAME": "UAE DIRHAM          "
+    },
+    {
+        "CURR_CODE": "788",
+        "CURR_LITERAL": "TND",
+        "CURR_NAME": "TUNISIAN DINAR      "
+    },
+    {
+        "CURR_CODE": "792",
+        "CURR_LITERAL": "TRL",
+        "CURR_NAME": "TURKISH LIRA        "
+    },
+    {
+        "CURR_CODE": "795",
+        "CURR_LITERAL": "TMM",
+        "CURR_NAME": "MANAT               "
+    },
+    {
+        "CURR_CODE": "800",
+        "CURR_LITERAL": "UGX",
+        "CURR_NAME": "UGANDA SHILLING     "
+    },
+    {
+        "CURR_CODE": "810",
+        "CURR_LITERAL": "RUR",
+        "CURR_NAME": "ROUBLE              "
+    },
+    {
+        "CURR_CODE": "818",
+        "CURR_LITERAL": "EGP",
+        "CURR_NAME": "EGYPTIAN POUND      "
+    },
+    {
+        "CURR_CODE": "826",
+        "CURR_LITERAL": "GBP",
+        "CURR_NAME": "POUND STERLING      "
+    },
+    {
+        "CURR_CODE": "834",
+        "CURR_LITERAL": "TZS",
+        "CURR_NAME": "TANZANIAN SHILLING  "
+    },
+    {
+        "CURR_CODE": "840",
+        "CURR_LITERAL": "USD",
+        "CURR_NAME": "US DOLLAR           "
+    },
+    {
+        "CURR_CODE": "858",
+        "CURR_LITERAL": "UYP",
+        "CURR_NAME": "URUGUAYAN PESO      "
+    },
+    {
+        "CURR_CODE": "860",
+        "CURR_LITERAL": "UZS",
+        "CURR_NAME": "UZBEKISTAN SUM      "
+    },
+    {
+        "CURR_CODE": "862",
+        "CURR_LITERAL": "VEB",
+        "CURR_NAME": "BOLIVAR             "
+    },
+    {
+        "CURR_CODE": "882",
+        "CURR_LITERAL": "WST",
+        "CURR_NAME": "TALA                "
+    },
+    {
+        "CURR_CODE": "886",
+        "CURR_LITERAL": "YER",
+        "CURR_NAME": "YEMENI RIAL         "
+    },
+    {
+        "CURR_CODE": "891",
+        "CURR_LITERAL": "YUM",
+        "CURR_NAME": "YUGOSLAV NEW DINAR  "
+    },
+    {
+        "CURR_CODE": "894",
+        "CURR_LITERAL": "ZMK",
+        "CURR_NAME": "ZAMBIAN KWACHA      "
+    },
+    {
+        "CURR_CODE": "901",
+        "CURR_LITERAL": "TWD",
+        "CURR_NAME": "NEW TAIWAN DOLLAR   "
+    },
+    {
+        "CURR_CODE": "934",
+        "CURR_LITERAL": "TMT",
+        "CURR_NAME": "Manat               "
+    },
+    {
+        "CURR_CODE": "935",
+        "CURR_LITERAL": "ZWR",
+        "CURR_NAME": "Zimbabwe Dollar     "
+    },
+    {
+        "CURR_CODE": "936",
+        "CURR_LITERAL": "GHS",
+        "CURR_NAME": "GHANA CEDI          "
+    },
+    {
+        "CURR_CODE": "937",
+        "CURR_LITERAL": "VEF",
+        "CURR_NAME": "BOLIVAR FUERTE      "
+    },
+    {
+        "CURR_CODE": "938",
+        "CURR_LITERAL": "SDG",
+        "CURR_NAME": "SUDANESE POUND      "
+    },
+    {
+        "CURR_CODE": "941",
+        "CURR_LITERAL": "RSD",
+        "CURR_NAME": "SERBIAN DINAR       "
+    },
+    {
+        "CURR_CODE": "942",
+        "CURR_LITERAL": "ZWN",
+        "CURR_NAME": "ZIMBABWE DOLLAR     "
+    },
+    {
+        "CURR_CODE": "943",
+        "CURR_LITERAL": "MZN",
+        "CURR_NAME": "METICAL             "
+    },
+    {
+        "CURR_CODE": "944",
+        "CURR_LITERAL": "AZN",
+        "CURR_NAME": "AZERBAIJANIAN MANAT "
+    },
+    {
+        "CURR_CODE": "946",
+        "CURR_LITERAL": "RON",
+        "CURR_NAME": "ROMANIAN LEU        "
+    },
+    {
+        "CURR_CODE": "948",
+        "CURR_LITERAL": "CHW",
+        "CURR_NAME": "SWISS WIR FRANC     "
+    },
+    {
+        "CURR_CODE": "949",
+        "CURR_LITERAL": "TRY",
+        "CURR_NAME": "Turkish Lira        "
+    },
+    {
+        "CURR_CODE": "950",
+        "CURR_LITERAL": "XAF",
+        "CURR_NAME": "CFA FRANC BEAC      "
+    },
+    {
+        "CURR_CODE": "951",
+        "CURR_LITERAL": "XCD",
+        "CURR_NAME": "E. CARIBBEAN DOLLAR "
+    },
+    {
+        "CURR_CODE": "952",
+        "CURR_LITERAL": "XOF",
+        "CURR_NAME": "CFA FRANC           "
+    },
+    {
+        "CURR_CODE": "953",
+        "CURR_LITERAL": "XPF",
+        "CURR_NAME": "CFP FRANC           "
+    },
+    {
+        "CURR_CODE": "963",
+        "CURR_LITERAL": "PTL",
+        "CURR_NAME": "PSEUDO TURKISH LIRA "
+    },
+    {
+        "CURR_CODE": "967",
+        "CURR_LITERAL": "ZMW",
+        "CURR_NAME": "ZAMBIAN KWACHA      "
+    },
+    {
+        "CURR_CODE": "968",
+        "CURR_LITERAL": "SRD",
+        "CURR_NAME": "SURINAME GUILDER    "
+    },
+    {
+        "CURR_CODE": "969",
+        "CURR_LITERAL": "MGA",
+        "CURR_NAME": "Ariary              "
+    },
+    {
+        "CURR_CODE": "971",
+        "CURR_LITERAL": "AFN",
+        "CURR_NAME": "AFGHANI             "
+    },
+    {
+        "CURR_CODE": "972",
+        "CURR_LITERAL": "TJS",
+        "CURR_NAME": "SOMONI              "
+    },
+    {
+        "CURR_CODE": "973",
+        "CURR_LITERAL": "AOA",
+        "CURR_NAME": "KWANZA              "
+    },
+    {
+        "CURR_CODE": "974",
+        "CURR_LITERAL": "BYR",
+        "CURR_NAME": "BELARUSSIAN RUBLE   "
+    },
+    {
+        "CURR_CODE": "975",
+        "CURR_LITERAL": "BLN",
+        "CURR_NAME": "BULGARIAN LEV       "
+    },
+    {
+        "CURR_CODE": "976",
+        "CURR_LITERAL": "CDF",
+        "CURR_NAME": "FRANC CONGOLAIS     "
+    },
+    {
+        "CURR_CODE": "977",
+        "CURR_LITERAL": "BAM",
+        "CURR_NAME": "BOSNIAN CONVERT MARK"
+    },
+    {
+        "CURR_CODE": "978",
+        "CURR_LITERAL": "EUR",
+        "CURR_NAME": "EURO                "
+    },
+    {
+        "CURR_CODE": "980",
+        "CURR_LITERAL": "UAH",
+        "CURR_NAME": "UKRAINIAN HRYVNIA   "
+    },
+    {
+        "CURR_CODE": "981",
+        "CURR_LITERAL": "GEL",
+        "CURR_NAME": "GEORGIAN LARI       "
+    },
+    {
+        "CURR_CODE": "984",
+        "CURR_LITERAL": "BOV",
+        "CURR_NAME": "BOLIVIAN MVDOL      "
+    },
+    {
+        "CURR_CODE": "985",
+        "CURR_LITERAL": "PLN",
+        "CURR_NAME": "POLISH NEW ZLOTY    "
+    },
+    {
+        "CURR_CODE": "986",
+        "CURR_LITERAL": "BRL",
+        "CURR_NAME": "BRAZILIAN REAL      "
+    }
+]
