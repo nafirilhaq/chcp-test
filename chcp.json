@@ -1,0 +1,11 @@
+{
+  "name": "testapp",
+  "s3bucket": "chcp-test",
+  "s3prefix": "",
+  "s3region": "eu-west-1",
+  "ios_identifier": "12345",
+  "android_identifier": "io.ionic.starter",
+  "update": "resume",
+  "content_url": "https://s3-eu-west-1.amazonaws.com/chcp-test",
+  "release": "2025.08.08-15.43.13"
+}
