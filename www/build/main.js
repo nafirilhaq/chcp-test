@@ -26,7 +26,7 @@ var map = {
 		48
 	],
 	"../pages/animation/animation.module": [
-		696,
+		698,
 		47
 	],
 	"../pages/apply-cashline-finish-bundle/apply-cashline-finish-bundle.module": [
@@ -34,7 +34,7 @@ var map = {
 		46
 	],
 	"../pages/apply-cashline-finish/apply-cashline-finish.module": [
-		698,
+		696,
 		45
 	],
 	"../pages/apply-cashline-mob/apply-cashline-mob.module": [
@@ -62,23 +62,23 @@ var map = {
 		40
 	],
 	"../pages/change-sof-detail/change-sof-detail.module": [
-		705,
+		706,
 		39
 	],
 	"../pages/credit-shield-apply/credit-shield-apply.module": [
-		706,
+		705,
 		38
 	],
 	"../pages/credit-shield-bottom-modal/credit-shield-bottom-modal.module": [
-		707,
+		709,
 		37
 	],
 	"../pages/credit-shield-failed/credit-shield-failed.module": [
-		709,
+		707,
 		36
 	],
 	"../pages/credit-shield-guide/credit-shield-guide.module": [
-		711,
+		710,
 		35
 	],
 	"../pages/credit-shield-snk/credit-shield-snk.module": [
@@ -86,19 +86,19 @@ var map = {
 		34
 	],
 	"../pages/credit-shield/credit-shield.module": [
-		710,
+		712,
 		33
 	],
 	"../pages/custom-bottom-modal/custom-bottom-modal.module": [
-		712,
+		711,
 		32
 	],
 	"../pages/cvv/cvv.module": [
-		714,
+		713,
 		5
 	],
 	"../pages/debounce-search/debounce-search.module": [
-		713,
+		714,
 		31
 	],
 	"../pages/emoji/emoji.module": [
@@ -106,79 +106,79 @@ var map = {
 		4
 	],
 	"../pages/home-new/home-new.module": [
-		730,
+		716,
 		30
 	],
 	"../pages/infinite-scroll/infinite-scroll.module": [
-		716,
+		717,
 		29
 	],
 	"../pages/lifestyle-check-status/lifestyle-check-status.module": [
-		727,
+		718,
 		28
 	],
 	"../pages/lifestyle-check/lifestyle-check.module": [
-		724,
+		719,
 		27
 	],
 	"../pages/lifestyle-inquiry/lifestyle-inquiry.module": [
-		717,
+		720,
 		26
 	],
 	"../pages/live-validation/live-validation.module": [
-		718,
+		722,
 		2
 	],
 	"../pages/modal-bottom/modal-bottom.module": [
-		719,
+		721,
 		25
 	],
 	"../pages/mstore-snk/mstore-snk.module": [
-		720,
+		723,
 		24
 	],
 	"../pages/new-taptopay/new-taptopay.module": [
-		721,
+		724,
 		23
 	],
 	"../pages/page1/page1.module": [
-		722,
+		725,
 		22
 	],
 	"../pages/page2/page2.module": [
-		723,
+		726,
 		21
 	],
 	"../pages/page3/page3.module": [
-		725,
+		728,
 		20
 	],
 	"../pages/page4/page4.module": [
-		726,
+		727,
 		19
 	],
 	"../pages/page5/page5.module": [
-		742,
+		730,
 		18
 	],
 	"../pages/pdf-viewer/pdf-viewer.module": [
-		728,
+		729,
 		1
 	],
 	"../pages/remittance/remittance.module": [
-		729,
+		731,
 		17
 	],
 	"../pages/sample-lottie/sample-lottie.module": [
-		743,
+		733,
 		16
 	],
 	"../pages/slide/slide.module": [
-		731,
+		732,
 		15
 	],
 	"../pages/sof/sof.module": [
-		732,
+		735,
 		14
 	],
 	"../pages/supplement-reg/supplement-reg.module": [
@@ -186,35 +186,35 @@ var map = {
 		13
 	],
 	"../pages/taptopay-activate/taptopay-activate.module": [
-		733,
+		736,
 		12
 	],
 	"../pages/taptopay-check/taptopay-check.module": [
-		741,
+		737,
 		11
 	],
 	"../pages/taptopay/taptopay.module": [
-		735,
+		739,
 		10
 	],
 	"../pages/toast-modal/toast-modal.module": [
-		736,
+		738,
 		9
 	],
 	"../pages/ttp-finish/ttp-finish.module": [
-		737,
+		742,
 		8
 	],
 	"../pages/ttp-tutorial/ttp-tutorial.module": [
-		738,
+		740,
 		7
 	],
 	"../pages/valas/valas.module": [
-		739,
+		741,
 		6
 	],
 	"../pages/zoom/zoom.module": [
-		740,
+		743,
 		0
 	]
 };
@@ -565,7 +565,7 @@ var HomePage = /** @class */ (function () {
     ], HomePage.prototype, "btn", void 0);
     HomePage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Component"])({
-            selector: 'page-home',template:/*ion-inline-start:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n\n\nTESTINGGG PUSH CODE @ASDASDASD\n  <p>\n    If you get lost, the <a href="http://ionicframework.com/docs/v3">docs</a> will be your guide.\n  </p>\n\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n\n  <button full ion-button (click)="toCvv()">CVV</button>\n  <button full ion-button (click)="toSlide()">Slide</button>\n  <button full ion-button (click)="toSof()">Sof</button>\n  <button full ion-button (click)="openNfc()">Open NFC Setting</button>\n  <button full ion-button (click)="ttpFinish()">TTP Finish</button>\n  <button id="visa" full ion-button (click)="visaBranding()">Visa Branding</button>\n  <button full ion-button (click)="date()">Date Picker</button>\n  <button full ion-button (click)="cashlineTenor()">Cashline Tenor</button>\n  <button full ion-button (click)="cashlineMob()">Cashline MOB</button>\n  <button full ion-button (click)="cashlineFinish()">Cashline Finish</button>\n  <button full ion-button (click)="cashlineWaiting()">Cashline Waiting</button>\n  <button full ion-button (click)="supplementReg()">Supplement Reg</button>\n  <button full ion-button (click)="lottie()">Lottie</button>\n\n  <button full ion-button (click)="zoomArea()">Zoom Area</button>\n  <button full ion-button (click)="creditShield()">Credit Shield</button>\n  <button full ion-button (click)="cashline()">Cashline</button>\n  <button full ion-button (click)="cashlineSnk()">Cashline SNK</button>\n  <button full ion-button (click)="creditShieldFailed()">Credit Shield Failed</button>\n  <button full ion-button (click)="infiniteScroll()">Infinite Scroll</button>\n  <button full ion-button (click)="toValas()">Valas</button>\n  <button full ion-button (click)="inqCekStatus()">Inq Cek Status</button>\n  <button full ion-button (click)="akunSaya()">Akun Saya</button>\n  <button full ion-button (click)="detailAkun()">Detail Akun</button>\n\n  <ion-item id="nominal" no-padding class="floating" style="margin-top: 16px; padding: 4px 16px 4px 16px;" [ngStyle]="{\'background-color\': cardNumberDisable ? \'#F1F3F9\' : \'#fff\'}">\n    <ion-label floating no-margin class="title-label">Nominal</ion-label>\n    <!-- <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n    <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19" (tap)="showKeyboard(\'visa\')"></ion-input>\n    <!-- <ion-input type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n  </ion-item>\n  <button full ion-button (click)="modalBottom()">Modal Bottom</button>\n  <button full ion-button (click)="showToast()">Toast</button>\n  <button full ion-button (click)="scrollTo(\'visa\')">Nav Ctrl</button>\n  <button full ion-button (click)="toNavCtrl()">Nav Ctrl</button>\n  <button full ion-button (click)="debounceSearch()">Debounce Search</button>\n  <button full ion-button (click)="remittance()">Remittance</button>\n  <button full ion-button (click)="homeNew()">Home New</button>\n\n  <button full ion-button (click)="firebasex()">Check Notif</button>\n  <button full ion-button (click)="toPdf()">PDF</button>\n  <button full ion-button (click)="toAnimation()">Animation</button>\n  <button full ion-button (click)="toTtp()">Taptopay</button>\n  <button full ion-button (click)="toEmoji()">Emoji</button>\n  <button full ion-button (click)="toTtpNew()">Taptopay New</button>\n  <button full ion-button (click)="toMstore()">MStore</button>\n  <button full ion-button (click)="toMstoreInquiry()">MStore Inquiry</button>\n  <button full ion-button (click)="toTtpActivate()">Taptopay Activate</button>\n  <button full ion-button (click)="toFormVal()">Live Form Validation</button>\n  <button full ion-button (click)="loading()">Loading</button>\n  <button #btn full ion-button (click)="ripple()">Ripple</button>\n  <!-- <button full ion-button style="margin-top: 50vh;" (click)="scrollTo(\'visa\')">Scroll</button> -->\n\n  <div [ngStyle]="{\'margin-bottom\': showCustKeyboard ? \'100vh\' : \'0\'}"></div>\n  <div>\n    <div id="visa-sensory-branding"></div>\n  </div>\n\n\n</ion-content>\n\n<ion-footer *ngIf="showCustKeyboard">\n  <div class="custKeyboard">\n    <div class="backdrop"></div>\n    <div class="number-container">\n      <div class="number-box" (click)="input(\'1\')">1</div>\n      <div class="number-box" (click)="input(\'2\')">2</div>\n      <div class="number-box" (click)="input(\'3\')">3</div>\n      <div class="number-box" (click)="input(\'4\')">4</div>\n      <div class="number-box" (click)="input(\'5\')">5</div>\n      <div class="number-box" (click)="input(\'6\')">6</div>\n      <div class="number-box" (click)="input(\'7\')">7</div>\n      <div class="number-box" (click)="input(\'8\')">8</div>\n      <div class="number-box" (click)="input(\'9\')">9</div>\n      <div class="number-box" (click)="input(\'0\')">0</div>\n      <div class="number-box" (click)="input(\'000\')">000</div>\n      <div class="number-box" (click)="del()">Del</div>\n      <button full ion-button style="margin-top: 18px;" (click)="hideKeyboard()">OK</button>\n    </div>\n  </div>\n</ion-footer>\n\n<div id="backdrop-modal" *ngIf="showModal">\n  <div class="foreground-modal">      \n      <ion-card class="card-modal">\n          <ion-card-header text-center>              \n              <img *ngIf="!ionIcon" class="icon" [src]="icon">\n              <h2 *ngIf="title"><b>{{ title }}</b></h2>\n            </ion-card-header>\n            \n            <ion-card-content text-center>\n            <button ion-button class="btn-lanjut-only" margin-top (click)="modalHandler()">OK</button> \n          \n          <ng-content></ng-content>   \n          \n          </ion-card-content>          \n      </ion-card>\n  </div>\n</div>\n\n\n'/*ion-inline-end:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/
+            selector: 'page-home',template:/*ion-inline-start:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/'<ion-header>\n  <ion-navbar>\n    <ion-title>\n      Ionic Blank\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n\n\nJENUDDD\n  <p>\n    If you get lost, the <a href="http://ionicframework.com/docs/v3">docs</a> will be your guide.\n  </p>\n\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n  <img src="assets/imgs/gen-z/eye-on.png" style="width: 13px; height: 11px; margin-left: 10px;" />\n\n  <button full ion-button (click)="toCvv()">CVV</button>\n  <button full ion-button (click)="toSlide()">Slide</button>\n  <button full ion-button (click)="toSof()">Sof</button>\n  <button full ion-button (click)="openNfc()">Open NFC Setting</button>\n  <button full ion-button (click)="ttpFinish()">TTP Finish</button>\n  <button id="visa" full ion-button (click)="visaBranding()">Visa Branding</button>\n  <button full ion-button (click)="date()">Date Picker</button>\n  <button full ion-button (click)="cashlineTenor()">Cashline Tenor</button>\n  <button full ion-button (click)="cashlineMob()">Cashline MOB</button>\n  <button full ion-button (click)="cashlineFinish()">Cashline Finish</button>\n  <button full ion-button (click)="cashlineWaiting()">Cashline Waiting</button>\n  <button full ion-button (click)="supplementReg()">Supplement Reg</button>\n  <button full ion-button (click)="lottie()">Lottie</button>\n\n  <button full ion-button (click)="zoomArea()">Zoom Area</button>\n  <button full ion-button (click)="creditShield()">Credit Shield</button>\n  <button full ion-button (click)="cashline()">Cashline</button>\n  <button full ion-button (click)="cashlineSnk()">Cashline SNK</button>\n  <button full ion-button (click)="creditShieldFailed()">Credit Shield Failed</button>\n  <button full ion-button (click)="infiniteScroll()">Infinite Scroll</button>\n  <button full ion-button (click)="toValas()">Valas</button>\n  <button full ion-button (click)="inqCekStatus()">Inq Cek Status</button>\n  <button full ion-button (click)="akunSaya()">Akun Saya</button>\n  <button full ion-button (click)="detailAkun()">Detail Akun</button>\n\n  <ion-item id="nominal" no-padding class="floating" style="margin-top: 16px; padding: 4px 16px 4px 16px;" [ngStyle]="{\'background-color\': cardNumberDisable ? \'#F1F3F9\' : \'#fff\'}">\n    <ion-label floating no-margin class="title-label">Nominal</ion-label>\n    <!-- <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n    <ion-input hideKeyboard type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19" (tap)="showKeyboard(\'visa\')"></ion-input>\n    <!-- <ion-input type="tel" [(ngModel)]="nominal" style="margin-top: -6px; font-weight: 500;" maxlength="19"></ion-input> -->\n  </ion-item>\n  <button full ion-button (click)="modalBottom()">Modal Bottom</button>\n  <button full ion-button (click)="showToast()">Toast</button>\n  <button full ion-button (click)="scrollTo(\'visa\')">Nav Ctrl</button>\n  <button full ion-button (click)="toNavCtrl()">Nav Ctrl</button>\n  <button full ion-button (click)="debounceSearch()">Debounce Search</button>\n  <button full ion-button (click)="remittance()">Remittance</button>\n  <button full ion-button (click)="homeNew()">Home New</button>\n\n  <button full ion-button (click)="firebasex()">Check Notif</button>\n  <button full ion-button (click)="toPdf()">PDF</button>\n  <button full ion-button (click)="toAnimation()">Animation</button>\n  <button full ion-button (click)="toTtp()">Taptopay</button>\n  <button full ion-button (click)="toEmoji()">Emoji</button>\n  <button full ion-button (click)="toTtpNew()">Taptopay New</button>\n  <button full ion-button (click)="toMstore()">MStore</button>\n  <button full ion-button (click)="toMstoreInquiry()">MStore Inquiry</button>\n  <button full ion-button (click)="toTtpActivate()">Taptopay Activate</button>\n  <button full ion-button (click)="toFormVal()">Live Form Validation</button>\n  <button full ion-button (click)="loading()">Loading</button>\n  <button #btn full ion-button (click)="ripple()">Ripple</button>\n  <!-- <button full ion-button style="margin-top: 50vh;" (click)="scrollTo(\'visa\')">Scroll</button> -->\n\n  <div [ngStyle]="{\'margin-bottom\': showCustKeyboard ? \'100vh\' : \'0\'}"></div>\n  <div>\n    <div id="visa-sensory-branding"></div>\n  </div>\n\n\n</ion-content>\n\n<ion-footer *ngIf="showCustKeyboard">\n  <div class="custKeyboard">\n    <div class="backdrop"></div>\n    <div class="number-container">\n      <div class="number-box" (click)="input(\'1\')">1</div>\n      <div class="number-box" (click)="input(\'2\')">2</div>\n      <div class="number-box" (click)="input(\'3\')">3</div>\n      <div class="number-box" (click)="input(\'4\')">4</div>\n      <div class="number-box" (click)="input(\'5\')">5</div>\n      <div class="number-box" (click)="input(\'6\')">6</div>\n      <div class="number-box" (click)="input(\'7\')">7</div>\n      <div class="number-box" (click)="input(\'8\')">8</div>\n      <div class="number-box" (click)="input(\'9\')">9</div>\n      <div class="number-box" (click)="input(\'0\')">0</div>\n      <div class="number-box" (click)="input(\'000\')">000</div>\n      <div class="number-box" (click)="del()">Del</div>\n      <button full ion-button style="margin-top: 18px;" (click)="hideKeyboard()">OK</button>\n    </div>\n  </div>\n</ion-footer>\n\n<div id="backdrop-modal" *ngIf="showModal">\n  <div class="foreground-modal">      \n      <ion-card class="card-modal">\n          <ion-card-header text-center>              \n              <img *ngIf="!ionIcon" class="icon" [src]="icon">\n              <h2 *ngIf="title"><b>{{ title }}</b></h2>\n            </ion-card-header>\n            \n            <ion-card-content text-center>\n            <button ion-button class="btn-lanjut-only" margin-top (click)="modalHandler()">OK</button> \n          \n          <ng-content></ng-content>   \n          \n          </ion-card-content>          \n      </ion-card>\n  </div>\n</div>\n\n\n'/*ion-inline-end:"/Users/nafirilhaq/Documents/Project/devSample/src/pages/home/home.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavParams */], __WEBPACK_IMPORTED_MODULE_0__angular_core__["Renderer2"], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["k" /* NavController */], __WEBPACK_IMPORTED_MODULE_4__ionic_native_local_notifications__["a" /* LocalNotifications */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* ModalController */], __WEBPACK_IMPORTED_MODULE_2__ionic_native_nfc__["a" /* NFC */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["j" /* ModalController */], __WEBPACK_IMPORTED_MODULE_3__ionic_native_date_picker__["a" /* DatePicker */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["i" /* LoadingController */]])
     ], HomePage);
@@ -745,54 +745,54 @@ var AppModule = /** @class */ (function () {
                 __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["g" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_5__app_component__["a" /* MyApp */], {}, {
                     links: [
                         { loadChildren: '../pages/akun-saya/akun-saya.module#AkunSayaPageModule', name: 'AkunSayaPage', segment: 'akun-saya', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/animation/animation.module#AnimationPageModule', name: 'AnimationPage', segment: 'animation', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/apply-cashline-finish-bundle/apply-cashline-finish-bundle.module#ApplyCashlineFinishBundlePageModule', name: 'ApplyCashlineFinishBundlePage', segment: 'apply-cashline-finish-bundle', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-finish/apply-cashline-finish.module#ApplyCashlineFinishPageModule', name: 'ApplyCashlineFinishPage', segment: 'apply-cashline-finish', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/apply-cashline-finish-bundle/apply-cashline-finish-bundle.module#ApplyCashlineFinishBundlePageModule', name: 'ApplyCashlineFinishBundlePage', segment: 'apply-cashline-finish-bundle', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/animation/animation.module#AnimationPageModule', name: 'AnimationPage', segment: 'animation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-mob/apply-cashline-mob.module#ApplyCashlineMobPageModule', name: 'ApplyCashlineMobPage', segment: 'apply-cashline-mob', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-tenor/apply-cashline-tenor.module#ApplyCashlineTenorPageModule', name: 'ApplyCashlineTenorPage', segment: 'apply-cashline-tenor', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/apply-cashline-waiting/apply-cashline-waiting.module#ApplyCashlineWaitingPageModule', name: 'ApplyCashlineWaitingPage', segment: 'apply-cashline-waiting', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/cashline-history/cashline-history.module#CashlineHistoryPageModule', name: 'CashlineHistoryPage', segment: 'cashline-history', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/cashline-inquiry/cashline-inquiry.module#CashlineInquiryPageModule', name: 'CashlineInquiryPage', segment: 'cashline-inquiry', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/cashline-snk/cashline-snk.module#CashlineSnkPageModule', name: 'CashlineSnkPage', segment: 'cashline-snk', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/change-sof-detail/change-sof-detail.module#ChangeSofDetailPageModule', name: 'ChangeSofDetailPage', segment: 'change-sof-detail', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/credit-shield-apply/credit-shield-apply.module#CreditShieldApplyPageModule', name: 'CreditShieldApplyPage', segment: 'credit-shield-apply', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/credit-shield-bottom-modal/credit-shield-bottom-modal.module#CreditShieldBottomModalPageModule', name: 'CreditShieldBottomModalPage', segment: 'credit-shield-bottom-modal', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/credit-shield-snk/credit-shield-snk.module#CreditShieldSnkPageModule', name: 'CreditShieldSnkPage', segment: 'credit-shield-snk', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/change-sof-detail/change-sof-detail.module#ChangeSofDetailPageModule', name: 'ChangeSofDetailPage', segment: 'change-sof-detail', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/credit-shield-failed/credit-shield-failed.module#CreditShieldFailedPageModule', name: 'CreditShieldFailedPage', segment: 'credit-shield-failed', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/credit-shield/credit-shield.module#CreditShieldPageModule', name: 'CreditShieldPage', segment: 'credit-shield', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/credit-shield-snk/credit-shield-snk.module#CreditShieldSnkPageModule', name: 'CreditShieldSnkPage', segment: 'credit-shield-snk', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/credit-shield-bottom-modal/credit-shield-bottom-modal.module#CreditShieldBottomModalPageModule', name: 'CreditShieldBottomModalPage', segment: 'credit-shield-bottom-modal', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/credit-shield-guide/credit-shield-guide.module#CreditShieldGuidePageModule', name: 'CreditShieldGuidePage', segment: 'credit-shield-guide', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/custom-bottom-modal/custom-bottom-modal.module#CustomBottomModalPageModule', name: 'CustomBottomModalPage', segment: 'custom-bottom-modal', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/debounce-search/debounce-search.module#DebounceSearchPageModule', name: 'DebounceSearchPage', segment: 'debounce-search', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/credit-shield/credit-shield.module#CreditShieldPageModule', name: 'CreditShieldPage', segment: 'credit-shield', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/cvv/cvv.module#CvvPageModule', name: 'CvvPage', segment: 'cvv', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/debounce-search/debounce-search.module#DebounceSearchPageModule', name: 'DebounceSearchPage', segment: 'debounce-search', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/emoji/emoji.module#EmojiPageModule', name: 'EmojiPage', segment: 'emoji', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/home-new/home-new.module#HomeNewPageModule', name: 'HomeNewPage', segment: 'home-new', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/infinite-scroll/infinite-scroll.module#InfiniteScrollPageModule', name: 'InfiniteScrollPage', segment: 'infinite-scroll', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/lifestyle-check-status/lifestyle-check-status.module#LifestyleCheckStatusPageModule', name: 'LifestyleCheckStatusPage', segment: 'lifestyle-check-status', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/lifestyle-check/lifestyle-check.module#LifestyleCheckPageModule', name: 'LifestyleCheckPage', segment: 'lifestyle-check', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/lifestyle-inquiry/lifestyle-inquiry.module#LifestyleInquiryPageModule', name: 'LifestyleInquiryPage', segment: 'lifestyle-inquiry', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/live-validation/live-validation.module#LiveValidationPageModule', name: 'LiveValidationPage', segment: 'live-validation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/modal-bottom/modal-bottom.module#ModalBottomPageModule', name: 'ModalBottomPage', segment: 'modal-bottom', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/live-validation/live-validation.module#LiveValidationPageModule', name: 'LiveValidationPage', segment: 'live-validation', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/mstore-snk/mstore-snk.module#MstoreSnkPageModule', name: 'MstoreSnkPage', segment: 'mstore-snk', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/new-taptopay/new-taptopay.module#NewTaptopayPageModule', name: 'NewTaptopayPage', segment: 'new-taptopay', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/page1/page1.module#Page1PageModule', name: 'Page1Page', segment: 'page1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/page2/page2.module#Page2PageModule', name: 'Page2Page', segment: 'page2', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/lifestyle-check/lifestyle-check.module#LifestyleCheckPageModule', name: 'LifestyleCheckPage', segment: 'lifestyle-check', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/page3/page3.module#Page3PageModule', name: 'Page3Page', segment: 'page3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/page4/page4.module#Page4PageModule', name: 'Page4Page', segment: 'page4', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/lifestyle-check-status/lifestyle-check-status.module#LifestyleCheckStatusPageModule', name: 'LifestyleCheckStatusPage', segment: 'lifestyle-check-status', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/page3/page3.module#Page3PageModule', name: 'Page3Page', segment: 'page3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/pdf-viewer/pdf-viewer.module#PdfViewerPageModule', name: 'PdfViewerPage', segment: 'pdf-viewer', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/page5/page5.module#Page5PageModule', name: 'Page5Page', segment: 'page5', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/remittance/remittance.module#RemittancePageModule', name: 'RemittancePage', segment: 'remittance', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/home-new/home-new.module#HomeNewPageModule', name: 'HomeNewPage', segment: 'home-new', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/slide/slide.module#SlidePageModule', name: 'SlidePage', segment: 'slide', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/sample-lottie/sample-lottie.module#SampleLottiePageModule', name: 'SampleLottiePage', segment: 'sample-lottie', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/supplement-reg/supplement-reg.module#SupplementRegPageModule', name: 'SupplementRegPage', segment: 'supplement-reg', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/sof/sof.module#SofPageModule', name: 'SofPage', segment: 'sof', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/taptopay-activate/taptopay-activate.module#TaptopayActivatePageModule', name: 'TaptopayActivatePage', segment: 'taptopay-activate', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/supplement-reg/supplement-reg.module#SupplementRegPageModule', name: 'SupplementRegPage', segment: 'supplement-reg', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/taptopay/taptopay.module#TaptopayPageModule', name: 'TaptopayPage', segment: 'taptopay', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/taptopay-check/taptopay-check.module#TaptopayCheckPageModule', name: 'TaptopayCheckPage', segment: 'taptopay-check', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/toast-modal/toast-modal.module#ToastModalPageModule', name: 'ToastModalPage', segment: 'toast-modal', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/ttp-finish/ttp-finish.module#TtpFinishPageModule', name: 'TtpFinishPage', segment: 'ttp-finish', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/taptopay/taptopay.module#TaptopayPageModule', name: 'TaptopayPage', segment: 'taptopay', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/ttp-tutorial/ttp-tutorial.module#TtpTutorialPageModule', name: 'TtpTutorialPage', segment: 'ttp-tutorial', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/valas/valas.module#ValasPageModule', name: 'ValasPage', segment: 'valas', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/zoom/zoom.module#ZoomPageModule', name: 'ZoomPage', segment: 'zoom', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/taptopay-check/taptopay-check.module#TaptopayCheckPageModule', name: 'TaptopayCheckPage', segment: 'taptopay-check', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/page5/page5.module#Page5PageModule', name: 'Page5Page', segment: 'page5', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../pages/sample-lottie/sample-lottie.module#SampleLottiePageModule', name: 'SampleLottiePage', segment: 'sample-lottie', priority: 'low', defaultHistory: [] }
+                        { loadChildren: '../pages/ttp-finish/ttp-finish.module#TtpFinishPageModule', name: 'TtpFinishPage', segment: 'ttp-finish', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../pages/zoom/zoom.module#ZoomPageModule', name: 'ZoomPage', segment: 'zoom', priority: 'low', defaultHistory: [] }
                     ]
                 }),
                 __WEBPACK_IMPORTED_MODULE_16_ng_lottie__["a" /* LottieAnimationViewModule */].forRoot(),
