@@ -1,7 +1,7 @@
 {
   "name": "My Ionic App",
   "android_identifier": "io.ionic.starter", 
-  "update": "now",
+  "update": "start",
   "content_url": "https://nafirilhaq.github.io/chcp-test/",
-  "release": "2025.08.08-23.16.18"
+  "release": "2025.08.14-09.00.26"
 }
